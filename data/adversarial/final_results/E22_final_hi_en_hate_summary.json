@@ -1,0 +1,19 @@
+{
+  "experiment_id": "E22_final_hi_en_hate",
+  "random_seed": 42,
+  "task": "hate_speech_detection",
+  "n_attacked": 144,
+  "n_successful": 30,
+  "asr": 0.2083,
+  "avg_queries": 25.0,
+  "avg_time": 3.65,
+  "perturbations": {
+    "p1": 14,
+    "p2": 54,
+    "p3": 23,
+    "p4": 14,
+    "p5": 0,
+    "wordnet": 92
+  },
+  "completed_at": "2026-05-25T06:10:16.462791"
+}

@@ -1,0 +1,14 @@
+{
+  "experiment_id": "random_muril_hate",
+  "task": "hate",
+  "victim_model": "muril",
+  "completed_at": "2026-06-04T10:44:56.307839",
+  "results": {
+    "total": 325,
+    "successful": 50,
+    "failed": 275,
+    "asr": 0.1538,
+    "avg_queries": 14.08,
+    "avg_time": 3.606
+  }
+}

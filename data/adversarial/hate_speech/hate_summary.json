@@ -1,0 +1,11 @@
+{
+  "experiment": "CoMixAttack-Hate-Speech",
+  "task": "hate_speech_detection",
+  "dataset": "Hinglish-Hate-Speech-Victor2022",
+  "n_attacked": 132,
+  "n_successful": 44,
+  "asr": 0.3333,
+  "avg_queries": 28.8,
+  "avg_time": 3.84,
+  "completed_at": "2026-05-25T05:26:52.967469"
+}

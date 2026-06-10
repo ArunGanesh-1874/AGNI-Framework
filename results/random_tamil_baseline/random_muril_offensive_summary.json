@@ -1,0 +1,14 @@
+{
+  "experiment_id": "random_muril_offensive",
+  "task": "offensive",
+  "victim_model": "muril",
+  "completed_at": "2026-06-09T06:38:56.838850",
+  "results": {
+    "total": 1000,
+    "successful": 99,
+    "failed": 901,
+    "asr": 0.099,
+    "avg_queries": 6.42,
+    "avg_time": 1.312
+  }
+}

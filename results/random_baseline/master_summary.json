@@ -1,0 +1,86 @@
+[
+  {
+    "experiment_id": "random_xlmr_sentiment",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-04T07:22:53.395126",
+    "results": {
+      "total": 1000,
+      "successful": 328,
+      "failed": 672,
+      "asr": 0.328,
+      "avg_queries": 16.99,
+      "avg_time": 4.501
+    }
+  },
+  {
+    "experiment_id": "random_muril_sentiment",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "completed_at": "2026-06-04T08:41:21.242303",
+    "results": {
+      "total": 1000,
+      "successful": 331,
+      "failed": 669,
+      "asr": 0.331,
+      "avg_queries": 16.58,
+      "avg_time": 4.352
+    }
+  },
+  {
+    "experiment_id": "random_mbert_sentiment",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-04T10:03:06.993563",
+    "results": {
+      "total": 1000,
+      "successful": 334,
+      "failed": 666,
+      "asr": 0.334,
+      "avg_queries": 16.85,
+      "avg_time": 4.534
+    }
+  },
+  {
+    "experiment_id": "random_xlmr_hate",
+    "task": "hate",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-04T10:24:21.129346",
+    "results": {
+      "total": 339,
+      "successful": 43,
+      "failed": 296,
+      "asr": 0.1268,
+      "avg_queries": 14.05,
+      "avg_time": 3.566
+    }
+  },
+  {
+    "experiment_id": "random_muril_hate",
+    "task": "hate",
+    "victim_model": "muril",
+    "completed_at": "2026-06-04T10:44:56.307839",
+    "results": {
+      "total": 325,
+      "successful": 50,
+      "failed": 275,
+      "asr": 0.1538,
+      "avg_queries": 14.08,
+      "avg_time": 3.606
+    }
+  },
+  {
+    "experiment_id": "random_mbert_hate",
+    "task": "hate",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-04T11:05:38.477009",
+    "results": {
+      "total": 337,
+      "successful": 79,
+      "failed": 258,
+      "asr": 0.2344,
+      "avg_queries": 13.25,
+      "avg_time": 3.481
+    }
+  }
+]

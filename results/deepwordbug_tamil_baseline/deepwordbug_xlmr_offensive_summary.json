@@ -1,0 +1,14 @@
+{
+  "experiment_id": "deepwordbug_xlmr_offensive",
+  "task": "offensive",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-09T10:52:37.806662",
+  "results": {
+    "total": 1000,
+    "successful": 550,
+    "failed": 450,
+    "asr": 0.55,
+    "avg_queries": 30.75,
+    "avg_time": 3.121
+  }
+}

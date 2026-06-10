@@ -1,0 +1,14 @@
+{
+  "experiment_id": "deepwordbug_xlmr_sentiment",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-03T06:43:15.447727",
+  "results": {
+    "total": 1000,
+    "successful": 903,
+    "failed": 97,
+    "asr": 0.903,
+    "avg_queries": 47.89,
+    "avg_time": 6.472
+  }
+}

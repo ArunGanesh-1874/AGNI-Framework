@@ -1,0 +1,14 @@
+{
+  "experiment_id": "textfooler_mbert_sentiment",
+  "task": "sentiment",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-09T16:10:41.161799",
+  "results": {
+    "total": 1000,
+    "successful": 458,
+    "failed": 542,
+    "asr": 0.458,
+    "avg_queries": 36.45,
+    "avg_time": 3.402
+  }
+}

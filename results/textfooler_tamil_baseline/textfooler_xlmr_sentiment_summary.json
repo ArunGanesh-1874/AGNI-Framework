@@ -1,0 +1,14 @@
+{
+  "experiment_id": "textfooler_xlmr_sentiment",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-09T14:12:19.976085",
+  "results": {
+    "total": 1000,
+    "successful": 515,
+    "failed": 485,
+    "asr": 0.515,
+    "avg_queries": 34.6,
+    "avg_time": 2.998
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "experiment_id": "comixattack_mbert_hate",
+  "language_pair": "hi-en",
+  "task": "hate",
+  "victim_model": "mbert",
+  "completed_at": "2026-05-27T11:57:11.677091",
+  "results": {
+    "total": 336,
+    "successful": 51,
+    "failed": 285,
+    "asr": 0.1518,
+    "avg_queries": 6.19,
+    "avg_time": 0.739,
+    "p1_used": 38,
+    "p2_used": 96,
+    "p3_used": 64,
+    "p4_used": 43,
+    "p5_used": 2
+  }
+}

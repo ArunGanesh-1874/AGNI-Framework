@@ -1,0 +1,23 @@
+{
+  "experiment_id": "comixattack_muril_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "muril",
+  "completed_at": "2026-06-04T17:04:24.971400",
+  "results": {
+    "total": 1000,
+    "successful": 878,
+    "failed": 122,
+    "asr": 0.878,
+    "avg_queries": 32.07,
+    "avg_time": 7.317,
+    "p1_used": 45,
+    "p2_used": 3230,
+    "p3_used": 42,
+    "p4_used": 50,
+    "p5_used": 2,
+    "p6_used": 46,
+    "p7_used": 16,
+    "pc_used": 190
+  }
+}

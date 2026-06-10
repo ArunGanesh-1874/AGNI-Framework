@@ -1,0 +1,14 @@
+{
+  "experiment_id": "textfooler_xlmr_offensive",
+  "task": "offensive",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-09T17:12:32.291397",
+  "results": {
+    "total": 1000,
+    "successful": 469,
+    "failed": 531,
+    "asr": 0.469,
+    "avg_queries": 39.23,
+    "avg_time": 3.484
+  }
+}

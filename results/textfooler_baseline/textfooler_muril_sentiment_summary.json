@@ -1,0 +1,14 @@
+{
+  "experiment_id": "textfooler_muril_sentiment",
+  "task": "sentiment",
+  "victim_model": "muril",
+  "completed_at": "2026-06-05T11:37:53.114149",
+  "results": {
+    "total": 1000,
+    "successful": 915,
+    "failed": 85,
+    "asr": 0.915,
+    "avg_queries": 83.39,
+    "avg_time": 10.382
+  }
+}

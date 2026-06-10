@@ -1,0 +1,86 @@
+[
+  {
+    "experiment_id": "textfooler_xlmr_sentiment",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-05T08:39:23.400856",
+    "results": {
+      "total": 1000,
+      "successful": 916,
+      "failed": 84,
+      "asr": 0.916,
+      "avg_queries": 86.24,
+      "avg_time": 13.937
+    }
+  },
+  {
+    "experiment_id": "textfooler_muril_sentiment",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "completed_at": "2026-06-05T11:37:53.114149",
+    "results": {
+      "total": 1000,
+      "successful": 915,
+      "failed": 85,
+      "asr": 0.915,
+      "avg_queries": 83.39,
+      "avg_time": 10.382
+    }
+  },
+  {
+    "experiment_id": "textfooler_mbert_sentiment",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-05T14:37:50.321345",
+    "results": {
+      "total": 1000,
+      "successful": 915,
+      "failed": 85,
+      "asr": 0.915,
+      "avg_queries": 80.04,
+      "avg_time": 10.442
+    }
+  },
+  {
+    "experiment_id": "textfooler_xlmr_hate",
+    "task": "hate",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-05T15:49:39.347554",
+    "results": {
+      "total": 339,
+      "successful": 234,
+      "failed": 105,
+      "asr": 0.6903,
+      "avg_queries": 99.29,
+      "avg_time": 12.499
+    }
+  },
+  {
+    "experiment_id": "textfooler_muril_hate",
+    "task": "hate",
+    "victim_model": "muril",
+    "completed_at": "2026-06-05T16:58:54.127001",
+    "results": {
+      "total": 325,
+      "successful": 200,
+      "failed": 125,
+      "asr": 0.6154,
+      "avg_queries": 98.32,
+      "avg_time": 12.599
+    }
+  },
+  {
+    "experiment_id": "textfooler_mbert_hate",
+    "task": "hate",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-05T17:45:07.667102",
+    "results": {
+      "total": 337,
+      "successful": 303,
+      "failed": 34,
+      "asr": 0.8991,
+      "avg_queries": 66.35,
+      "avg_time": 8.023
+    }
+  }
+]

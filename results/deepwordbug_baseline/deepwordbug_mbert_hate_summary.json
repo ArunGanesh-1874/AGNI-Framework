@@ -1,0 +1,14 @@
+{
+  "experiment_id": "deepwordbug_mbert_hate",
+  "task": "hate",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-03T12:09:03.818688",
+  "results": {
+    "total": 337,
+    "successful": 273,
+    "failed": 64,
+    "asr": 0.8101,
+    "avg_queries": 42.1,
+    "avg_time": 5.302
+  }
+}

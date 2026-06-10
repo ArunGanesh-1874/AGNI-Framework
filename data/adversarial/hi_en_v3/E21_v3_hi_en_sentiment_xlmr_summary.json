@@ -1,0 +1,20 @@
+{
+  "experiment_id": "E21_v3_hi_en_sentiment_xlmr",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "xlmr-hinglish",
+  "completed_at": "2026-05-15T10:15:17.313477",
+  "results": {
+    "total": 124,
+    "successful": 13,
+    "failed": 111,
+    "asr": 0.1048,
+    "avg_queries": 5.08,
+    "avg_time": 0.5,
+    "p1_used": 5,
+    "p2_used": 38,
+    "p3_used": 13,
+    "p4_used": 15,
+    "p5_used": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "experiment_id": "deepwordbug_mbert_sentiment",
+  "task": "sentiment",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-09T09:56:32.757933",
+  "results": {
+    "total": 1000,
+    "successful": 608,
+    "failed": 392,
+    "asr": 0.608,
+    "avg_queries": 30.65,
+    "avg_time": 3.442
+  }
+}

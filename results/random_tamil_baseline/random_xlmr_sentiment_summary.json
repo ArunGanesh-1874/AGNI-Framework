@@ -1,0 +1,14 @@
+{
+  "experiment_id": "random_xlmr_sentiment",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-09T04:51:53.750513",
+  "results": {
+    "total": 1000,
+    "successful": 207,
+    "failed": 793,
+    "asr": 0.207,
+    "avg_queries": 6.3,
+    "avg_time": 1.325
+  }
+}

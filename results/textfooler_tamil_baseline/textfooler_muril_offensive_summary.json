@@ -1,0 +1,14 @@
+{
+  "experiment_id": "textfooler_muril_offensive",
+  "task": "offensive",
+  "victim_model": "muril",
+  "completed_at": "2026-06-09T18:16:56.373484",
+  "results": {
+    "total": 1000,
+    "successful": 407,
+    "failed": 593,
+    "asr": 0.407,
+    "avg_queries": 41.12,
+    "avg_time": 3.67
+  }
+}

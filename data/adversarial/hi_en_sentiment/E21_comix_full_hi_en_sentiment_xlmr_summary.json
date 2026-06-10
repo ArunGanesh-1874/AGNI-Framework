@@ -1,0 +1,23 @@
+{
+  "experiment_id": "E21_comix_full_hi_en_sentiment_xlmr",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "xlm-roberta-base-finetuned-hinglish",
+  "completed_at": "2026-04-29T11:03:04.136701",
+  "statistics": {
+    "total": 5,
+    "successful": 3,
+    "failed": 2,
+    "total_queries": 50,
+    "total_time": 7.506,
+    "p1_attacks": 1,
+    "p2_attacks": 3,
+    "p3_attacks": 0,
+    "p4_attacks": 0,
+    "p5_attacks": 0,
+    "attack_success_rate": 0.6,
+    "avg_queries": 10.0,
+    "avg_time_secs": 1.501
+  },
+  "corpus_path": "/content/data/adversarial/hi_en_sentiment/E21_comix_full_hi_en_sentiment_xlmr_corpus.jsonl"
+}

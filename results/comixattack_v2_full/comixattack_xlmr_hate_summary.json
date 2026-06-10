@@ -1,0 +1,21 @@
+{
+  "experiment_id": "comixattack_xlmr_hate",
+  "language_pair": "hi-en",
+  "task": "hate",
+  "victim_model": "xlmr",
+  "completed_at": "2026-05-28T14:40:21.618511",
+  "results": {
+    "total": 339,
+    "successful": 59,
+    "failed": 280,
+    "asr": 0.174,
+    "avg_queries": 17.26,
+    "avg_time": 3.669,
+    "p1_used": 90,
+    "p2_used": 270,
+    "p3_used": 112,
+    "p4_used": 62,
+    "p5_used": 14,
+    "p6_used": 124
+  }
+}

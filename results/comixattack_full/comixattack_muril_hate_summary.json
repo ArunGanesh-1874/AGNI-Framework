@@ -1,0 +1,20 @@
+{
+  "experiment_id": "comixattack_muril_hate",
+  "language_pair": "hi-en",
+  "task": "hate",
+  "victim_model": "muril",
+  "completed_at": "2026-05-27T11:50:56.183704",
+  "results": {
+    "total": 325,
+    "successful": 9,
+    "failed": 316,
+    "asr": 0.0277,
+    "avg_queries": 5.75,
+    "avg_time": 0.657,
+    "p1_used": 25,
+    "p2_used": 79,
+    "p3_used": 52,
+    "p4_used": 44,
+    "p5_used": 7
+  }
+}

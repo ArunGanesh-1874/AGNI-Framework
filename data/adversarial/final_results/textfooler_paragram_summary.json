@@ -1,0 +1,10 @@
+{
+  "method": "TextFooler (Jin 2020) Paragram+LaBSE",
+  "random_seed": 42,
+  "n_attacked": 144,
+  "n_successful": 102,
+  "asr": 0.7083,
+  "avg_queries": 94.4,
+  "avg_time": 19.97,
+  "completed_at": "2026-05-25T11:02:30.125195"
+}

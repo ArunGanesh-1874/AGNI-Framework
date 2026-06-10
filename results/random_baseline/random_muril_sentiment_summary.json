@@ -1,0 +1,14 @@
+{
+  "experiment_id": "random_muril_sentiment",
+  "task": "sentiment",
+  "victim_model": "muril",
+  "completed_at": "2026-06-04T08:41:21.242303",
+  "results": {
+    "total": 1000,
+    "successful": 331,
+    "failed": 669,
+    "asr": 0.331,
+    "avg_queries": 16.58,
+    "avg_time": 4.352
+  }
+}

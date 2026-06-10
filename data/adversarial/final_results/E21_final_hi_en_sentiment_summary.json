@@ -1,0 +1,19 @@
+{
+  "experiment_id": "E21_final_hi_en_sentiment",
+  "random_seed": 42,
+  "n_examples": 200,
+  "n_attacked": 144,
+  "n_successful": 21,
+  "asr": 0.1458,
+  "avg_queries": 19.6,
+  "avg_time_secs": 3.22,
+  "perturbations": {
+    "p1": 3,
+    "p2": 9,
+    "p3": 7,
+    "p4": 7,
+    "p5": 0,
+    "wordnet": 69
+  },
+  "completed_at": "2026-05-25T05:53:56.491519"
+}

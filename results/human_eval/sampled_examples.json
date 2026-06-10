@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "hinglish_sentiment_001",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ Atheist _ Krishna Aaj to unki aatma ko definitely shanti mil gyi hogi . Great work Krishna Ji â¤ï¸",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ Atheist _ kriishna today to uki aattma ko definittely shanti mli giy hoi . Great work Krishna Ji â¤ï¸",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ Atheist _ Krishna today tou unki aatma ko zaroor shanti mil gyi honge . Great work Krishna Ji â¤ï¸",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ Atheist _ Krishna aaj to nuki aatma ko definitely shanti mil ygi hogi . Great work Krishna Ji â¤ï¸",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ heathens _ prasad Aaj in unki aatma kao obviously gopal cent gyi hogi . super work Krishna Ji â¤ï¸",
+        "success": false
+      },
+      "random": {
+        "text": "@ Atheist _ Krishna aja to uyki aatma ko dtefinitely shanit meil gni hogi . gdreat work Krishna Ji âg¤ï¸",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_002",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "RT @ Sidrama50060291 Mery Dada abu khud is hijrat may thy wo sirf 9sal k thy Wo btaty h k un ki phupho ko sikho ny shaheed kr dia tha ðŸ’” Un â€¦",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "RT @ Sidrama50060291 Mery Dada abu khud is hijrat may thy wo sirf 9sal k thy Wo btaty h k un ki phupho ko sikho ny shaheeed kr dia thha ðŸ’” Un â€¦",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "RT @ Sidrama50060291 Mery Dada abu khud is hijrat may thy wo sirf 9sal k thy woh btaty h k un ki phupho ko sikho ny shaheed kr dia thha ðŸ’” Un â€¦",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "RT @ Sidrama50060291 Mery Dada abu khud is hijrat may thy wo sirf 9sal k thy Wo btaty h k un ki phupho ko sikho ny shhaeed kr dia tah ðŸ’” Un â€¦",
+        "success": true
+      },
+      "textfooler": {
+        "text": "RT @ Sidrama50060291 Mery Dada abu khud is hijrat may thy wo sirf 9sal k thy Wo btaty h k un ki phupho ko sikho ny shaheed kr bore puttin ðŸ’” Un â€¦",
+        "success": true
+      },
+      "random": {
+        "text": "RT @ Sidrama50060291 Mery Dada agbu khud is hijrat may thy wo sarf 9sal k tvhy Wo btaty h k un ki phupho ko sikhpo ny saheed kr dia tha ðÿb” Un â€¦",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_003",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ RJDforIndia @ yadavtejashwi Mai kisi bhi sabha mei nahi gaya aur vote kiya Ye koi logic nahi ki jo rally mei ja â€¦ https // t co / jP2en7rpKU",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ RJDforIndia @ yadavtejashwi maay kii bhhii sabha meei nahi gaya auuur vote kiya Ye koi logic nahi ki jo rally mei ja â€¦ https // t co / jP2en7rpKU",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ RJDforIndia @ yadavtejashwi maai kisi bhhi sabha mei nahhi gaay auur vote kiya Ye kooi logic naahi ki jo rally mei ja â€¦ https // t co / jP2en7rpKU",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "@ RJDforIndia @ yadavtejashwi mui kigi hbi sabha emi nahi gaya uar vote kiya Ye koi logic nahi ki jo rally mei ja â€¦ https // t co / jP2en7rpKU",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ RJDforIndia @ yadavtejashwi Mai kisi bhi sabha mei nahi gaya tere vote kiya Ye koi logic nahi tere jo rally mei ja â€¦ https // t co / jP2en7rpKU",
+        "success": true
+      },
+      "random": {
+        "text": "@ rjdforindira @ yadavtejashwi maoi kisi bihi sabha mei nai gaay apr voet kiya Ye koi lobic nahi ki jo raly mji ja â€¦ https // t co / jp2en7arpku",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_004",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ rssurjewala @ INCIndia Jab palley sattu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ rssurjewala @ INCIndia djaab palley satu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ rssurjewala @ INCIndia jaab palley sattu hi nahi party k to media channels pr jakr kroge bi kya ?",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "@ rssurjewala @ INCIndia jb palley stttu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ rssurjewala @ INCIndia candid palley sattu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+        "success": true
+      },
+      "random": {
+        "text": "@ rssurjewala @ INCIndia Jab palley sattu hi nahi party k to media channels pr jakr kroge bsi kaya ?",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_005",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ DasiKushwah @ mlkhattar Haryana me to Bilkul hi nikkmi sarkar bna rkhi hai iss jaise karname krna iss sarkar Ki sha â€¦ https // t co / 7pfD4swtyk",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ DasiKushwah @ mlkhattar Haryana me to Bilkul hi nikkmi sarkar bna rkhi haae iss jaise karname krna iss sarkar Ki sha â€¦ https // t co / 7pfD4swtyk",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ DasiKushwah @ mlkhattar Haryana me to Bilkul hi nikkmi sarkar bna rkhi haai iss jaise karname krna iss sarkar Ki sha â€¦ https // t co / 7pfD4swtyk",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "@ DasiKushwah @ mlkhattar Haryana me to Bilkul hi nikkmi sarkar bna rkhi hdi iss jaise karname krna iss sarkar Ki sha â€¦ https // t co / 7pfD4swtyk",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ DasiKushwah @ mlkhattar Haryana me to Bilkul hi nikkmi sarkar bna rkhi strait iss jaise karname krna iss sarkar Ki sha â€¦ https // t co / 7pfD4swtyk",
+        "success": true
+      },
+      "random": {
+        "text": "@ DasiKushwah @ mlkhatar Haryana me to Bilkul hi nikkmi sarkar bzna rkih hdi iss jaise karname krna iss sarear Ki sha â¦€ htts // t co / 7pfd4sbtyk",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_006",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "Pakistan se to behtar Afghanistan hai Jisne world cup me Australia ke sath khelte hue 207 banaya . Afghanistan keep it up congrats",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Pakistan se to betar Afghanistan hai djjisne word cup me Australia ke sah khelte hue 207 banaya . Afghanistan keep it up coongrats",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Pakistan se tooh behtar Afghanistan hai zisne aalam cup me Australia ke sath khelte huue 207 banaya . Afghanistan keep it up congrats",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Pakistan se to betar Afghanistan hai ijsne wold cup me Australia ke asth khelte hue 207 banaya . Afghanistan keep it up cognrats",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Pakistan se from behtar afghani hai Jisne planet cup me Australia ke sath khelte hue 207 banaya . iraqi keep it up praise",
+        "success": true
+      },
+      "random": {
+        "text": "paikstan se to behtar aufghanistan hagi Jisne wolrd cvp me australiua ke sjath kphelte hue 2g07 banaya . Afghanistan keep it up congrats",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_007",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "it â€™ s gay month which means i â€™ m cashing in on my god-given right to listen to carly rae jepsen as loud as i want on the bus",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "it â€™ s gaay month which mans i â€™ m cashing in on my god-given right tho liten to carly rae jepsen as loud as i want on thhe buus",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "it â€™ s gay month which means i â€™ m cashing in on my god-given right tou suno tooh carly rae jepsen as loud as i want on te bus",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "it â€™ s agy month which mans i â€™ m cashing in on my god-given right to ilsten to carly rae jepsen as loud as i want on hte bts",
+        "success": true
+      },
+      "textfooler": {
+        "text": "it â€™ s cheerful month which means i â€™ m cashing in on my god-given right to listen to carly rae jepsen as loud as i want on the bus",
+        "success": true
+      },
+      "random": {
+        "text": "it â€™ s goy month whicvh meanms i ây€™ m cahsing in on my god-wiven right to listjen to carly rae jesen as loud as i want on trhe bmus",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_008",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ ReallySwara Ap ye batao ke ab oun 20 saree or blouses ka kya karoge ??? 2024 election mai pehan lena baki tab tak y â€¦ https // t co / Wlxnyw59ft",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ ReallySwara Ap ye baato ke ab oun 20 saree or blouses ka kya karoge ??? 2024 election mai pehan lena baki tab tak y â€¦ https // t co / Wlxnyw59ft",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ ReallySwara Ap ye batao ke ab oun 20 saree or blouses ka kay karoge ??? 2024 election mai pehan lena baki tab tak y â€¦ https // t co / Wlxnyw59ft",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "@ ReallySwara Ap ye baato ke ab oun 20 saree or blouses ka kya karoge ??? 2024 election mai pehan lena baki tab tak y â€¦ https // t co / Wlxnyw59ft",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ ReallySwara Ap ye batao ke alberta oun 20 saree or blouses ka kya karoge ??? 2024 election mai pehan lena baki tab tak y â€¦ https // t co / Wlxnyw59ft",
+        "success": true
+      },
+      "random": {
+        "text": "@ ReallySwara Ap ye batao ke ab olun 20 saree or blouses ka kyua karoge ??? 2024 election mai pehan lena baki tab tak y â€¦ https // t co / Wlxnyw59ft",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_009",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ aimim _ national @ asadowaisi Aaj ek bat saf bta tu tere ko dikt kya h sale tu Hindu ke bare m kuch bhi bolta sale tu â€¦ https // t . co / Upwhgke9eg",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ aimim _ national @ asadowaisi Aaj ek bat saf bta tu tree ko dikt kya h sae tu Hindu ke bare m kuch bhi bolta sae tu â€¦ https // t . co / Upwhgke9eg",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ aimim _ national @ asadowaisi aaaj ek bat saf bta tu tere ko dikt kya h sale tu Hindu ke bare m kuchh bhi bolta sale tu â€¦ https // t . co / Upwhgke9eg",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ aimim _ national @ asadowaisi Aaj ek bat saf bta tu tree ko dikt kya h asle tu Hindu ke bare m kuch bhi bolta sae tu â€¦ https // t . co / Upwhgke9eg",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ aimim _ national @ asadowaisi Aaj ek bat saf bta tu kyun ko dikt kya h shopping tu Hindu ke bare m kuch bhi bolta commercialized tu â€¦ https // t . co / Upwhgke9eg",
+        "success": true
+      },
+      "random": {
+        "text": "@ aimim _ natinoal @ afadowaisi Aaj ek bqat saf bpa tu tfre ko ditt kya h sale tu hincu ke byre m kucuh bhqi bolta sxle tu âu¦ htps // t . co / upwhkge9eg",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_010",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "ðŸ˜´âœ¨ Time to say Goodnight beauty sleep needed . ðŸŒ¹ Sending âœŒ Peace ðŸ’• Love ðŸ™Œ Healing & ðŸ’« Light out to one and all hope it r â€¦ https // t . co / Jn3QoRwlGP",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "ðŸ˜´âœ¨ Time to say Goodnight beeauty sleep needed . ðœÿ¹ sendding âœŒ Peace ðÿÿ’• lve ðÿœ™ healinng & ð’« Light out tuo oen adn alll hope it r â€¦ https // t . co / jnn3qorwlgp",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "ðŸ˜´âœ¨ Time to say Goodnight beauty sleep needed . ðŸŒ¹ Sending âœŒ Peace ðŸ’• Love ðŸ™Œ Healing & ðŸ’« Light out tho one and all hope it r â€¦ https // t . co / Jn3QoRwlGP",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "ðŸ˜´âœ¨ Time to say Goodnight ebauty sleep needed . ÿðœ¹ sedning âœŒ Peace ÿð’• Love ÿð™œ heuling & ÿð’« Light out to noe adn lal hope it r â€¦ https // t . co / jnqorwlgp",
+        "success": true
+      },
+      "textfooler": {
+        "text": "ðŸ˜´âœ¨ Time to say Goodnight cosmetology sleep needed . ðŸŒ¹ shipment âœŒ Peace ðŸ’• Love ðŸ™Œ antidote & ðŸ’« Light out aux one and all hope it r â€¦ https // t . co / Jn3QoRwlGP",
+        "success": true
+      },
+      "random": {
+        "text": "ðŸ˜´âœ¨ tilme to say Goodnight bauty slelep needed . ðŸŒ¹ Sending âœŒ peadce ðŸ’• lovje ðŸ™Œ Healing & ðŸ’« lkght out to oen and all hpoe it r â€¦ https // t . co / jn3qorwgp",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_011",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "RT @ Nycto0 _ phile 9999 cute ho ðŸŒ¼ ziada nhi jnti â˜¹ï¸â˜¹ï¸ stay bless n happy ðŸŒ¸",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "RT @ Nycto0 _ phile 9999 cuet ho ðŸŒ¼ ziada nhi jnti â˜¹ï¸â˜¹ï¸ stay bles n happy ðÿ¸",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "RT @ Nycto0 _ phile 9999 cute ho ðŸŒ¼ ziada nhi jnti â˜¹ï¸â˜¹ï¸ raho bless n happy ðŸŒ¸",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "RT @ Nycto0 _ phile 9999 cuse ho ðŸŒ¼ ziada nhi jnti â˜¹ï¸â˜¹ï¸ stay bles n happy ÿðœ¸",
+        "success": true
+      },
+      "textfooler": {
+        "text": "rev @ Nycto0 _ phile 9999 purty ho ðŸŒ¼ ziada nhi jnti â˜¹ï¸â˜¹ï¸ stay bestow n happy ðŸŒ¸",
+        "success": true
+      },
+      "random": {
+        "text": "RT @ Nycto0 _ phle 9b99 cute ho ðÿv¼ ziada nhi jnti â˜¹ï¸â˜¹ï¸ saty bhess n haappy ðŸŒ¸",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_012",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ gautam _ rode Bhaiya ji me ek esha byakti hoo jo apki hi talash karta rehta hu jaha apke sabse pyare fan ki soch kha â€¦ https // t . co / sntQzWr4S4",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ gautam _ rode Bhaiya ji me ek esha byakti hoo jo akpi hi talah karta rehta hu jaha apke sbase pyre fan ki soch kha â€¦ https // t . co / sntQzWr4S4",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ gautam _ rode bhaeya ji me ek esha byakti hoo jo apki hi talash karta rehta hu jaha apke sabse pyare fan ki soch kha â€¦ https // t . co / sntQzWr4S4",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ gautam _ rode Bhaiya ji me ek esha byakti hoo jo avki hi taxash karta rehta hu jaha apke sabse pyre fan ki soch kha â€¦ https // t . co / sntQzWr4S4",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ gautam _ rode dhananjay ji me ek esha byakti hoo jo apki hi talash karta rehta hu jaha apke sabse tere fan ki soch kha â€¦ https // t . lieutenant / sntQzWr4S4",
+        "success": true
+      },
+      "random": {
+        "text": "@ gautam _ rode Bhaiya ji me ek esah byakit hsoo jo apki hi tlaash karta renhta hu jaha apke sabes pyare fna ki sch khia â¦€ htdtps // t . co / sntqwzr4s4",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_013",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ NatashaKLondon Isy easy mat lein yeh esi posts kr kr ke Indians ko bewaquf bnata hai aur Mikiions kama rha wahan se",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ NatashaKLondon Isy easy maat lein yeh esi posts kr kr ke idians ko bewaquf bnata hai aur Mikiions kama rha wahan se",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ NatashaKLondon Isy easy mat lein yeh esi posts kr kr ke Indians ko bewaquf bnata hay aur Mikiions kama rha wahan se",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ NatashaKLondon Isy easy amt lein yeh esi posts kr kr ke idians ko bewaquf bnata hai aur Mikiions kama rha wahan se",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ NatashaKLondon Isy easy comforter lein yeh esi posts kr kr ke Indians ko bewaquf bnata hai aur Mikiions kama rha wahan se",
+        "success": true
+      },
+      "random": {
+        "text": "@ NatashaKLondon iey easy mta lein yeh ezi posts kr kr ke iniians ko bemwaquf bnta hai agr mikiaons kama rha wmhan se",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_014",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ Kiranja34522516 @ INCIndia Kyuki SP-BSP ne @ RahulGandhi ko diya nahi . . . . . Samarthan",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ kirannja34522516 @ INCIndia Kyuki SP-BSP ne @ RahulGandhi ko diiya nhai . . . . . Samarthan",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ Kiranja34522516 @ INCIndia Kyuki SP-BSP ne @ RahulGandhi ko diya nahe . . . . . Samarthan",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ kijanja34522516 @ inwindia Kyuki SP-BSP ne @ RahulGandhi ko idya nhai . . . . . Samarthan",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ Kiranja34522516 @ INCIndia Kyuki SP-BSP ne @ RahulGandhi ke komal nahi . . . . . Samarthan",
+        "success": true
+      },
+      "random": {
+        "text": "@ Kiranja34522516 @ incnindia kyeki spbsp ne @ rahulgandfi ko diyxa nahi . . . . . samatthan",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_015",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ DrKumarVishwas @ mlkhattar Viswasji jra ye bhi dekh lo pit kyo rhe honge jis trh k kunun bna rkhe usase to police â€¦ https // t co / lT0qQwT4eC",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ DrKumarVishwas @ mlkhattar Viswasji jra ye bhi dekh lo pti kyo rhe honge jis trh k kunun bna rkhe uase to police â€¦ https // t co / lT0qQwT4eC",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ DrKumarVishwas @ mlkhattar Viswasji jra ye bhi dekh lo pit kyo rhe honge jis trh k kunun bna rkhe usase to police â€¦ https // t co / lT0qQwT4eC",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ DrKumarVishwas @ mlkhattar Viswasji jra ye bhi dekh lo ppt kyo rhe honge jis trh k kunun bna rkhe uase to police â€¦ https // t co / lT0qQwT4eC",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ DrKumarVishwas @ mlkhattar Viswasji jra ye bhi dekh lo colliery kyo rhe honge jis trh k kunun bna rkhe usase to police â€¦ https // t co / lT0qQwT4eC",
+        "success": true
+      },
+      "random": {
+        "text": "@ DrKumarVishwas @ mlkahttar Viswasji jra ye bhi dekh lo pit kqo rhe honge jis trvh k kunun ban rkhe usase to police â€¦ https // t co / lT0qQwT4eC",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_016",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ Rammi Yes ! Sounds fantastic ! I love CxG . What time ?",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ Rammi Yes ! Sounds fantasttic ! I mohabbat CxG . What time ?",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ Rammi Yes ! Sounds fantastic ! I mohabbat CxG . What time ?",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ Rammi Yes ! Sounds fanastic ! I love CxG . What time ?",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ Rammi Yes ! noise sumptuous ! I iove CxG . What time ?",
+        "success": true
+      },
+      "random": {
+        "text": "@ ramui Yes ! Sounds fantastic ! I loe cwg . whsat thime ?",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_017",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ LambaAlka Wafadaar bane rahane ka nayab tarika hai lamba ji aap us party se Judi hai jiska sardar @ ArvindKejriwal â€¦ https // t . co / krVTd1ZAEK",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ LambaAlka Wafadaar bane rahane ka nayab tarikka hai lamba ji aap us party se Judi hai jiska sardar @ ArvindKejriwal â€¦ https // t . co / krVTd1ZAEK",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ LambaAlka Wafadaar bane rahane ka nayab tarika hei laba ji ahp us party se Judi hai jiska sardar @ ArvindKejriwal â€¦ https // t . co / krVTd1ZAEK",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ LambaAlka Wafadaar bane rahane ka nayab tairka hai lamba ji aap us party se Judi hai jiska sardar @ ArvindKejriwal â€¦ https // t . co / krVTd1ZAEK",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ LambaAlka Wafadaar bane rahane ka nayab tarika hai lamba jing aap us party constitutes Judi hai jiska sardar @ ArvindKejriwal â€¦ https // t . co / krVTd1ZAEK",
+        "success": true
+      },
+      "random": {
+        "text": "@ LambaAlka Wafadaar bane rahane ka naab tariak hai lamba ji aap us party se Judi hai jiska sardar @ ArvindKejriwal â€¦ https // t . co / krVTd1ZAEK",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_018",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ BhimArmyChief Bhai ji ye achchha Prayaas hai aur hona bhi chaahiye . Har ek Gaon me ek Bhim Army ka Sanghatan ho J â€¦ https // t . co / G3iISERZpl",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ BhimArmyChief Bhai ji ye achchha Prayaas hai auuur hona bhi chaahiye . hra ek Gaon me ek Bhim Army ka Sanghatan ho J â€¦ https // t . co / G3iISERZpl",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ BhimArmyChief bhi ji ye achchha Prayaas hay auur honna bhii chaahiye . Har ek Gaon me ek Bhim Army ka Sanghatan ho J â€¦ https // t . co / G3iISERZpl",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "@ BhimArmyChief Bhai ji ye achchha Prayaas hai arr hona bhi chaahiye . hra ek Gaon me ek Bhim Army ka Sanghatan ho J â€¦ https // t . co / G3iISERZpl",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ BhimArmyChief Bhai ji ye achchha Prayaas hai anjaani hona bhi chaahiye . Har ek Gaon me ek Bhim Army ka Sanghatan ho J â€¦ https // t . co / G3iISERZpl",
+        "success": true
+      },
+      "random": {
+        "text": "@ bhgmarmychief bai ji ye achchha Prayaas hai axr hna bih chaahiey . Har ek Gaon me ek bheim aermy ka sanghagan ho J ây¦ htpts // t . co / g3iserzpl",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_019",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "Bapu ji at last worked for gaining the Miniorty trust But chanted Hey Ram till last breath can you build Ram M â€¦ https // t co / ZxdQRqvcv6",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Bapu ji at last wrked for gaining the Miniorty trust But chanted Hey Ram till last breath can you build Ram M â€¦ https // t co / ZxdQRqvcv6",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Bapu ji at last worked for gaining teh Miniorty trust But chanted Hey Ram till last breath can you build Ram M â€¦ https // t co / ZxdQRqvcv6",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Bapu ji at last wrked for gaining the Miniorty trust But chanted Hey Ram till last breath can you build Ram M â€¦ https // t co / ZxdQRqvcv6",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Bapu ji at last cooperation for gaining the Miniorty trust But chanted Hey Ram till last breath can you build Ram M â€¦ https // t co / ZxdQRqvcv6",
+        "success": true
+      },
+      "random": {
+        "text": "Bapu ji at last worked for gaining the Miniorty trust But chanted Hey Ram till last breath carn you build Ram M â€¦ https // t co / ZxdQRqvcv6",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_020",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "RT @ Mehraj _ ali _ k @ humamalik76 @ ZakirKhan012 @ ImranKhanPTI Present jo hai aapki deklo shameless beggars India is fastest growing Â major Â â€¦",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "RT @ Mehraj _ ali _ k @ humamalik76 @ ZakirKhan012 @ ImranKhanPTI Present jo hai aapki deklo shhameless beggars India is fastest growing Â major Â â€¦",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "RT @ Mehraj _ ali _ k @ humamalik76 @ ZakirKhan012 @ ImranKhanPTI Present jo है aapki deklo shameless beggars India is fastest growing Â major Â â€¦",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "RT @ Mehraj _ ali _ k @ humamalik76 @ ZakirKhan012 @ ImranKhanPTI Present jo hai aapki deklo seameless beggars India is fastest growing Â major Â â€¦",
+        "success": true
+      },
+      "textfooler": {
+        "text": "RT @ Mehraj _ ali _ k @ humamalik76 @ ZakirKhan012 @ ImranKhanPTI Present jo hai aapki deklo cheeky beggars India is fastest growing Â major Â â€¦",
+        "success": true
+      },
+      "random": {
+        "text": "RT @ Mehraj _ ari _ k @ humamalik76 @ ZakirKhan012 @ imraknhanpti presnet jo hmi aapai dkelo shtmeless beggrs India is fasest growkng Â major Â â¦€",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_021",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "What A treat to watch this man Love bhai bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "What A trreat to watch this man loove sahab bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "kya A treat toh watch this man mohabbat bhia bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "What A rteat to watch this man loev bhi bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+        "success": true
+      },
+      "textfooler": {
+        "text": "What A treatments to watch this man Love bhai bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+        "success": true
+      },
+      "random": {
+        "text": "whta A treat to watth this man loe bbhai byhohat zyada # bgharat https // t . co / vg1gglbiqts",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_022",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ iamspathan11 Tu ye bata na ki Mohamad ne 7 sal ki Ayesha ka rape kar ke tum logo ki kom Ko gand se nikala kya Ya â€¦ https // t co / eTJEhpS1KI",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ iamspathan11 Tu ye bata na ki Mohamad ne 7 sal ki Ayesha ka rae kar ke tum logo ki kom Ko gnd se nikala kay Ya â€¦ https // t co / ettjehps1ki",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ iamspathan11 Tu ye bata na ki Mohamad ne 7 sal ki Ayesha ka rape kar ke तुम logo ki kom Ko gand se nikala kyya Ya â€¦ https // t co / eTJEhpS1KI",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ iamspathan11 Tu ye bata na ki Mohamad ne 7 sal ki Ayesha ka rate kar ke tum logo ki kom Ko gxnd se nikala kya Ya â€¦ https // t co / etjhps1ki",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ iamspathan11 Tu ye bata na ki Mohamad ne 7 sal ki Ayesha ka transgression kar ke aur logo ki kom Ko gand se nikala kya Ya â€¦ https // t co / eTJEhpS1KI",
+        "success": true
+      },
+      "random": {
+        "text": "@ iasmpathan11 Tu ye bama na ki mohagad ne 7 sil ki ayedsha ka rape kaar ke tmu lono ki khm Ko gnad se nikalaa kya Ya âv¦ httns // t co / eTJEhpS1KI",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_023",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ VikasThakur42 @ Meme _ Bnane _ Wala Not funny . gif",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ VikasThakur42 @ meem _ Bnane _ wlaa noot funny . gif",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ VikasThakur42 @ Meme _ Bnane _ wlaa Not funny . gif",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ VikasThakur42 @ mome _ nbane _ awla ont funny . gif",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ VikasThakur42 @ rant _ Bnane _ Wala without funny . iff",
+        "success": false
+      },
+      "random": {
+        "text": "@ VikasThakur42 @ Meme _ bnnne _ Wala nhot funny . glif",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_024",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "@ AmitShah @ DebasreeBJP @ narendramodi Sir aapko bahut bahut badhai ho sir mere village ke aas Pas sabhi BSP Aur SP k â€¦ https // t . co / DD68rGKHWm",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@ AmitShah @ DebasreeBJP @ narendraamodi Sir aapko bahut bahut badai ho sir mere village ke asa paas saabi BSP Aur SP k â€¦ https // t . co / DD68rGKHWm",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@ AmitShah @ DebasreeBJP @ narendramodi Sir aapko baut bahut badhai ho sir mere village ke aas Pas sbahi BSP or SP k â€¦ https // t . co / DD68rGKHWm",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ AmitShah @ DebasreeBJP @ narendramodi Sir aapko bahut bahut badai ho sir mere village ke asa pcs sbahi BSP Aur SP k â€¦ https // t . co / DD68rGKHWm",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@ AmitShah @ DebasreeBJP @ narendramodi Sir aapko bahut bahut badhai ho sir mere village grammes aas fides sabhi BSP tere fp k â€¦ https // t . frigate / DD68rGKHWm",
+        "success": true
+      },
+      "random": {
+        "text": "@ aaitshah @ DebasreeBJP @ narenhramodi sri aapko bahut bahut badhia ho sgr mree villake ke ays psa sabhi bup Aur SP k âz¦ https // t . co / dd68lgkhwm",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_sentiment_025",
+    "language": "hinglish",
+    "task": "sentiment",
+    "original": "RT @ cursedbrunette _ MICHELLE LOOKS SO HAPPY THIS IS SO CUTE https // t . co / QA8HLomOPD",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "RT @ cursedbrunette _ MICHELLE LOOKS SO hapy THIS IS SO ctue httsp // t . co / QA8HLomOPD",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "RT @ cursedbrunette _ MICHELLE LOOKS SO anand THIS IS SO CUTE https // t . co / QA8HLomOPD",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "RT @ cursedbrunette _ MICHELLE LOOKS SO hapy THIS IS SO chte hztps // t . co / QA8HLomOPD",
+        "success": true
+      },
+      "textfooler": {
+        "text": "RT @ cursedbrunette _ MICHELLE LOOKS therefore jubilant THIS IS SO CUTE https // t . co / QA8HLomOPD",
+        "success": true
+      },
+      "random": {
+        "text": "RT @ cuersedbrunette _ michellee lokos SO hapyp tbis IS SO CUTE htztps // t . co / qa8hlsmopd",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_001",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Vade to aur bhi th lekin log apni convenience k hisab SE bhul hate h kya kare...",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Vade to auuur bhi th lekin log apni convenience k hisab SE bhul hate h kay kare...",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Vade toou auur bhi th lekin log apni convenience k hisab SE bhul hate h kay kare...",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Vade to uar bhi th lekin log apni convenience k hisab SE bhul hate h kay kare...",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Vade the geet bhi th lekin log apni convenience k hisab SE bhul hate h kya kare...",
+        "success": true
+      },
+      "random": {
+        "text": "vaed to azr bhi th lkein lotg apni convenience k hisab SE bul hate h kya kaer...",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_002",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "@chintskap Rishi ji baap wali baat ka jawab to mil gaya hoga rahi baat terrorism ki wo dunya ko pata hay kon zimedar hay",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@chintskaap Rishi ji baap wali baat ka jawb to mil gaya hui rahi baat terrrorism ki wo dunya ko pata hay kon zimedar hay",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@chintskap Rishi ji baap wali baato ka jawab toou mil gaa hogi rahi bata terrorism ki वो dunya ko pata hay kon zimedar hay",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "@ckintskap Rishi ji baap wali baat ka jamab to mil gaya htga rahi baat etrrorism ki wo dunya ko pata hay kon zimedar hay",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@chintskap Rishi ji baap wali baat ka jawab dans mil cheerful hoga rahi baat pentagon ki wo dunya ko pata hay kon zimedar hay",
+        "success": true
+      },
+      "random": {
+        "text": "@chintskap Rishi ji baap wlai baat ka jawb to mil gaa hoa rahdi baat tenrrorism ki wo duna ko pata hay kon zeimedar hya",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_003",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Up me kyu Muslim hi Hindu betiyo ka rape karte hai kisne Di unhe taaqat Hindu ko kamjor bnaya aap jese logo ne",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Up me kyyu Muslim hi Hindu betiyo ka rape kare hai kisne Di uneh taaqat hinu ko kamjor bnyaa aap jese loogo ne",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Up me kyu Muslim hi Hindu betiyo ka rape kare hai kisne Di uneh taaqat Hindu ko kamjor bnaya aap jese logo ne",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Up me yku Muslim hi Hindu betiyo ka rape kare hai kisne Di une taaqat hicdu ko kamjor bnyaa aap jese loo ne",
+        "success": true
+      },
+      "textfooler": {
+        "text": "upwards could yeon Muslim hi Hindu betiyo ka rape karte hai kisne Di unhe taaqat Hindu ko kamjor bnaya aap jese logo nie",
+        "success": true
+      },
+      "random": {
+        "text": "Up me kuy mslim hi hinpdu betimo ka rape klarte hki kine Di unhe taaqat Hindu ko kamuor brnaya aap jese logo ne",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_004",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Accha dekha ha hum na kon surakshit ha kon nahi....aya din to tum log apni ma behnu ka rape kr reha ho....news dekha kro",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "laajawab dekhha ha hum na kon surakshit ha kon nahi....aya din to tum log apni ma behnu ka rpae kr reha ho....news deka krro",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "अच्छा dekha ha hmu na kon surakshit ha kon nahi....aya din to tuum log apni ma behnu ka rape kr reha ho....news dekha kro",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "acca edkha ha hum na kon surakshit ha kon nahi....aya din to tum log apni ma behnu ka rzpe kr reha ho....news edkha kio",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Accha dekha ha hum na kon surakshit ha kon nahi....aya din to tum log apni ma behnu jia rape kr reha ho....news dekha jutland",
+        "success": true
+      },
+      "random": {
+        "text": "acrcha dekha ha hmu na kgn surakshit ha kon nahi..w..aya drin to tum log api ma behnu ka rape kr rhea ho....news dkha kwo",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_005",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Or Pakistan me Hindu ki kya halat hai Dekhi hai Maine kashmir me terrorism pakistan sponsored hai kashmiri musalman hai to shanti se rehne",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Or Pakistan me Hindu ki kya halat hai Dekhi hai Maine kashmir me terrorism pakistan sponsored haae kashmiri musalman hai to shanti se rehne",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Or Pakistan me Hindu ki kya halat hai Dekhi hay mine kashmir me terrorism pakistan sponsored है kashmiri musalman hay to shanti se reehne",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Or Pakistan me Hindu ki kya halat hai Dekhi hi Maine kashmir me terrorism pakistan sponsored hi kashmiri musalman hai to shanti se rehne",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Or Pakistan could Hindu ki kya halat hai Dekhi hai Maine kashmir me terrorism pakistan sponsored hai kashmiri musalman hai to shanti se rehne",
+        "success": true
+      },
+      "random": {
+        "text": "Or Pakistan me Hindu ki kya halt hsi dekhmi hai maqne kshmir me terrorishm pakistan sponsored hai kashmiri mualman hai to shanbti se rjehne",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_006",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Vote ke liye bjd walo ne yanhape booth jabar dakhal murder kiye.Aap aese jadu chalaea ki 2017 me president rule odisha me lagu hona chaehe",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "vte ke liey bjd walo ne yanhape booth jabar daakhal murrder kiiye.aap aese jadu chalaaea ki 2017 me presideent rule odisha me lau hona caehe",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Vote ke liey bjd walo ne yanhape booth jabar dakhal murder kiye.Aap aese jadu chalaea ki 2017 me president rule odisha me lagu hona chaehe",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "ovte ke liey bjd walo ne yanhape booth jabar adkhal mkrder kyie.aap aese jadu hcalaea ki 2017 me president rule odisha me lau hona cahehe",
+        "success": true
+      },
+      "textfooler": {
+        "text": "suffrage nak liye bjd walo ne yanhape booth jabar dakhal slain kiye.Aap aese jadu chalaea ki 2017 have speaker rule odisha me lagu hona chaehe",
+        "success": true
+      },
+      "random": {
+        "text": "Vote ke liye bhd wao ne yashape booht jabar dakhal murder kiye.Aap ahse jadu chaaea ki 2x17 me president rule odispa me lgu hofna chaehe",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_007",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "par priyank se itna hate kyu??",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "par priyank se ittna hate ku??",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "par priyank se ittna hate kyu??",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "par priyank se ina hate yku??",
+        "success": false
+      },
+      "textfooler": {
+        "text": "avec priyank worden itna hate kyu??",
+        "success": false
+      },
+      "random": {
+        "text": "par priyank se itna haet ku??",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_008",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Allahabad hate h to tapas kar diya jata h  koyi na koyi kami nikal kar",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Allahabad hate h to tapas kaar diya jata h koyi na kyoi kami nikal kar",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Allahabad hate h tuo tapas kar diya jata h koyi na koyi kami nikal kar",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Allahabad hate h to tapas akr diya jata h koyi na koyi kami nikal kar",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Allahabad hate h to tapas singh diya jata h koyi na koyi kami nikal kar",
+        "success": true
+      },
+      "random": {
+        "text": "Allahabad hate h to taxas kar diya jwta h kosi na kyoi kaim nikbal kar",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_009",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Itni shiddat se to koi kisi se pyar bhi nahi karta. Fir itni nafrat late kaha se ho bhai ? https://twitter.com/RoflGandhi_/status/876144604138975233 …",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Itni shidddat se tuo koi kisi se piiyar bhi nia karta. phiirr itni nafrat latte kaah se ho brother ? https://twitter.com/RoflGandhi_/status/876144604138975233 …",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Itni shiddat se toe koi kisi se piyaar bhi nhai karta. phhir itni nafrat late kaha se ho brother ? https://twitter.com/RoflGandhi_/status/876144604138975233 …",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Itni suiddat se to koi kisi se par bhi nhai karta. ffr itni anfrat ljte kxha se ho bhdi ? https://twitter.com/RoflGandhi_/status/876144604138975233 …",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Itni shiddat ser aux koi kisi se pyar bhi nahi karta. boughs itni nafrat late kaha it prostitute raju ? https://twitter.com/RoflGandhi_/status/876144604138975233 …",
+        "success": true
+      },
+      "random": {
+        "text": "Itni shiddat se to koai kii se pyar bqi nayi krrta. Fir ivni nafrat late khaa se ho bhai ? https://twitter.com/roflgandehi_/status/876144604138975233 …",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_010",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Abe bhutni ke thik se gyan lele aur search maar pata kar apne bahan beti ke saath sabse jyada kon rape kiya hai",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "aeb bhtni ke thik se gyan lele aur search maar pata kar apne bahan beti ke saath sabse jyada kon rape kiya haae",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Abe bhutni ke thik se gyan lele or search maar paat kar apne bahan beti ke saah sabse jyada kon rape kiya hae",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "aeb bhtni ke thik se gyan elle aur search maar pata kar apne bahan beti ke saath sabse jyada kon rape kiya hi",
+        "success": true
+      },
+      "textfooler": {
+        "text": "abraham bhutni ke thik se gyan lele aur search maar pata kar apne bahan beti ke saath sabse jyada kon rape kiya ocean",
+        "success": true
+      },
+      "random": {
+        "text": "Abe bhutni ke thfik se gyan lelpe aur search maar pata kra apne baahn beti ke shath sabe jyada kotn rae kiya hia",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_011",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Adhan bro edhuvume muzhusa theriyama chumma hate panradhu..",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Adhan bro edhuvumme muzhusa theriyama chumma hate panradhu..",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Adhan brro edhuvume muzhusa theriyama chumma hate panradhu..",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Adhan bro edhvume muzhusa theriyama chumma hate panradhu..",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Adhan dude edhuvume muzhusa theriyama chumma hate panradhu..",
+        "success": true
+      },
+      "random": {
+        "text": "ahdan bro edhuvume muzhusa thebriyama chumma hate panradhu..",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_012",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Tabhi to india ke har gali mein rape hota hai...",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Tabhi to india ke hra gai meiin raep hoota hai...",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Tabhi tuo india ke har gali mien rape hota hai...",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Tabhi to india ke har gai meen raep hkta hai...",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Tabhi dans india ke tibia gali kyun violate hota hai...",
+        "success": false
+      },
+      "random": {
+        "text": "tbhi to india ke har gakli medin rae hota hai...",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_013",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "nahi.koun bola.I hate him",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "nahi.koun bla.i haate him",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "nahi.koun bola.I ghrina him",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "nahi.koun bla.i hate him",
+        "success": false
+      },
+      "textfooler": {
+        "text": "nahi.koun bola.I abhor him",
+        "success": false
+      },
+      "random": {
+        "text": "nahf.koun bola.I hate him",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_014",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Haa bhai. Ye chutiye log ki hatred apni liye milan ki bela ban k aayi hai. Lets screw this haters!! @addiadn1989 #WeSupportPadmavati",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Haa bhai. Ye chutiye log ki hatred apni liye milan ki bela ban k aayi hai. Lets screw this haters!! @addiadn1989 #wesuupportpadmavati",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Haa bhai. Ye chutiye innsaan ki hatred apni liye milan ki bela ban k aayi hai. Lets screw this haters!! @addiadn1989 #WeSupportPadmavati",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Haa bhai. Ye chutiye log ki hatred apni liye milan ki bela ban k aayi hai. Lets screw this haters!! @addiadn1989 w#esupportpadmavati",
+        "success": true
+      },
+      "textfooler": {
+        "text": "hooo bhai. salazar chutiye log ki hatred apni liye milan ki bela ban k aayi hai. Lets screw this haters!! @addiadn1989 #WeSupportPadmavati",
+        "success": true
+      },
+      "random": {
+        "text": "Haa bhai. Ye chutiyee log ki hatred apei lxiye mialn ki bela bdn k aaiy hai. Lets screw thss haters!! @addiadn1989 #wesuppotpadmavati",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_015",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Teri bhan Dudh dindi salyaa sanu dede rape karn lyi apni bhan",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Teri bhan Dudh dindi salyaa sanu dede rpe karn lyi appni bhan",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Teri bhan Dudh dindi salyaa sanu dede rape karn lyi apni bhan",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Teri bhan Dudh dindi salyaa sanu dede rpe karn lyi acni bhan",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Teri bhan Dudh dindi salyaa sanu dervish breach nicolette lyi apni bhan",
+        "success": false
+      },
+      "random": {
+        "text": "Teri bhn Dudh dindi salyaa sanu dede rfpe katn lyvi apni bhan",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_016",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Ek Godse aur ek Gandhi .. toh terror. Par Suar Mommad jinna hazarrooon ko Islam Suaristan ke marrey toh voh harami Qaid azam",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Ek Godse aurr ek gandi .. tooh terroor. Par Suar Mommad jnina hazzarrooon ko islaam Suaristan ke marrey toh voh harami qaaid aam",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Ek Godse aurr ek Gandhi .. tooh terror. Par Suar Mommad jinna hazarrooon ko Islam Suaristan ke marrey toh voh harami Qaid azam",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "Ek Godse aur ek Gandhi .. tho treror. Par Suar Mommad jnna hnzarrooon ko idlam Suaristan ke marrey toh voh harami qsid aam",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Ek Godse aur crowns Gandhi .. owt terror. Par Suar Mommad jinna hazarrooon cao fundamentalist Suaristan ke marrey toh voh harami Qaid amjad",
+        "success": true
+      },
+      "random": {
+        "text": "Ek gdse aur ek gandhfi .. tuoh terror. Par spar Mommad jinja hazarrooon ko isclam Suaristan ke martey toh voh haraim qjaid azam",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_017",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "lagta hai aap ne movie dekhi hai which is written by srk. Original me latif ne dango and terrorism ke siva kuch nai kiya tha.",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "lagta hai aap ne movie dekhi hai which is written by srk. Original me latif ne dango and terrrorism ke siva kuch nai kiya tha.",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "lagta hai ahp ne movie dekhi hai which is written by srk. Original me latif ne dango and terrorism ke siva kuch nai kiya tha.",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "lagta hai aap ne movie dekhi hai which is written by srk. Original me latif ne dango and tedrorism ke siva kuch nai kiya tha.",
+        "success": true
+      },
+      "textfooler": {
+        "text": "lagta hai aap ne movie dekhi hai which is written by srk. Original me latif ne dango and panic ke siva kuch nai kiya tha.",
+        "success": true
+      },
+      "random": {
+        "text": "lagta hai aap ne movie dekhi hai whfich is written by srk. Original me latif ne dango and terrorism ke siav kch nia kiya tva.",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_018",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "@awasthis sir Utter Pradesh ke kairana me 1 ladki ke saath ghar se utha kar rape hua, kya aapke pass iske liye time hai ki koi use bhi dekhe",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "@awasthis sir Utter Pradesh ke kairana me 1 ladki ke saath ghar se utha kar rape hua, kai aappke pass iske liye time hai ki koi use bhi dekhe",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "@awasthis sir Utter Pradesh ke kairana me 1 ladki ke saath gharwale se utha kar rape hua, kay aapke pass iske liye time hei ki koi use bhi dekhe",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "@awasthis sir Utter Pradesh ke kairana me 1 ladki ke saath ghar se utha kar rape hua, kay atpke pass iske liye time hai ki koi use bhi dekhe",
+        "success": true
+      },
+      "textfooler": {
+        "text": "@awasthis sir Utter Pradesh ke kairana i 1 ladki koo saath ghar constitutes utha tere molesting hua, kya aapke pass iske liye time hoi ki koi exploiting bhi dekhe",
+        "success": true
+      },
+      "random": {
+        "text": "@aoasthis sir uter Pradesh ke kairana me 1 ladki ke saath ghar se utha kar rae hua, kay aapke pass iske liey time hai ki koi usie bhi dekhe",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_019",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "esne case Kiya hua hai rape ka ,,salariya par chargesheet court mein submit ho chuki hai",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "esne case Kiya hau hai raape ka ,,salariya par chaargesheet curt mein sbmit ho cuhki haai",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "esne case Kiya hau hai rape ka ,,salariya par chargesheet court mein submit ho chuki है",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "esne case Kiya hau hai repe ka ,,salariya par chagesheet court mein suumit ho hcuki ahi",
+        "success": true
+      },
+      "textfooler": {
+        "text": "esne case Kiya hwa hai molesting valentines ,,salariya par chargesheet court mein communicating ho chuki hoi",
+        "success": true
+      },
+      "random": {
+        "text": "esne case Kiya hua hai rape ka ,,palariya pnr chargseheet court meni submixt ho chuki hqi",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_020",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "Bhai Ek kaam kar Book hi publish Karde \"101 Reasons to hate kohli\"",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Bhai Ek kaam kar Book hi publish Karde \"101 reassons tho hate kohlli\"",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Bhai Ek kaamgar kar Book hi publish Karde \"101 Reasons tho hate kohli\"",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "bahi Ek ksam kar bqok hi publish Karde \"101 rjasons to hate kolhi\"",
+        "success": false
+      },
+      "textfooler": {
+        "text": "bhaiya danish kaam kar booklet hi publish Karde \"101 arguments dans hate kohli\"",
+        "success": false
+      },
+      "random": {
+        "text": "Bhai Ek kaam kar bock hi pubilsh Karde \"101 rasons to htae kkhli\"",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_021",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "sahi hai bhai jaise dadri murder se intolerance poori country mein ho gaya waise hi",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "sahi hai bia jaise dadri muurder se intolerrance pooi country mein ho gaaya wise hi",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "sahi hai bhayia jaise dadri murder se intolerance poori mulk mein ho gaaya wiase hi",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "sahi hai bahi jaise dadri mudrer se inotlerance pooi country mein ho gbya waie hi",
+        "success": false
+      },
+      "textfooler": {
+        "text": "sahi hai raju jaise dadri slayings se bigot poori country mein hau papua waise hi",
+        "success": true
+      },
+      "random": {
+        "text": "smhi hai bhai jaisge dadki murder se inktolerance poori countyr meien ho gaya waise hi",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_022",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "ab haffiz saeed ko Bharat ko sop dena chahiye tabhi maana jayega ki pakistan terrorism ko leker serious hai",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "ab haffiz saede ko Bharat ko sop dena chahiyye tabhi maana jayegga ki pakistan terroorism ko leker serious hai",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "ab haffiz saeed ko Bharat ko sop dena chahiyye tabhhi maana jayega ki pakistan terrorism ko leker gambhir hai",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "ab haffiz saed ko Bharat ko sop dena chaiye tabhi maana jjyega ki pakistan tvrrorism ko leker serious hai",
+        "success": true
+      },
+      "textfooler": {
+        "text": "ab haffiz jubilant ko Bharat kao sop dena chahiye tabhi maana jayega chand pakistan pentagon ke leker seriously hae",
+        "success": false
+      },
+      "random": {
+        "text": "ab hffiz saeed ko Bharat ko spo dena chahiye tathi mahana jayegpa ki pakistawn terrorism ko leker sersious hai",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_023",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "gware pep aka thulwa ke koloi I HATE HIM",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "gware ppe aka thula ke koloi I nafrat HIM",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "gware pep aka thulwa ke koloi I nafrat HIM",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "gware ppe aka tculwa ke koloi I htae HIM",
+        "success": true
+      },
+      "textfooler": {
+        "text": "gware els aka thulwa ke koloi I despise HIM",
+        "success": true
+      },
+      "random": {
+        "text": "gwrae puep ana thulwa ke koloi I HATE HIM",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_024",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "->Ham to un ko B Yaad Rakhte hain jo Humry Nam Se Bhi Nafrat Krty hain.",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "->hma to un ko B Yaad Rakhte haen jo Humry Nam Se Bhi Nafrat Krty hain.",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "->Ham toou un ko B yaado Rakhte haen jo Humry Nam Se also Nafrat Krty hain.",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "-cham to un ko B Yaad Rakhte hani jo Humry Nam Se Bhi Nafrat Krty hain.",
+        "success": true
+      },
+      "textfooler": {
+        "text": "->Ham onto un ko B Yaad Rakhte hoon already Humry Nam Se Bhi Nafrat Krty hain.",
+        "success": true
+      },
+      "random": {
+        "text": "->Ham to un ko B yakd rmkhte hain jo Humry nrm Se Bhi nfarat krcy hnin.",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "hinglish_hate_025",
+    "language": "hinglish",
+    "task": "hate",
+    "original": "are ek paigamabar 9 sal ki aysha ka rape kiyaa the use aaj hota to to tihard me hota",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "are ek paigamabar 9 saal ki asyha ka rape kiyaa the use aadj hota to to tihard me hoota",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "are ek paigamabar 9 sal ki aysha ka rape kiyaa the use aadj hota to tuo tihard me hota",
+        "success": false
+      },
+      "deepwordbug": {
+        "text": "are ek paigamabar 9 sdl ki asyha ka rape kiyaa the use aaj hota to to tihard me ohta",
+        "success": true
+      },
+      "textfooler": {
+        "text": "es ek paigamabar 9 usi ki aysha ka rape kiyaa the use aaj hota to dans tihard me hota",
+        "success": true
+      },
+      "random": {
+        "text": "are ek paigambaar 9 sal ki aybha ka rape kiyaa the ues aja hnota to to thard me hkota",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_001",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": ".எப்போ படம் திரைக்கு வரும் காத்திருக்கும் தமிழன்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": ".எப்போ படம் திரைக்கு வரும் காத்திருகக்கும் தமிழன்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": ".எப்போ படம் திரைக்கு வரும் காத்திருகக்கும் தமிழன்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": ".எப்போ படம் திரைக்கு வரும் காததிருக்கும் தமிழன்",
+        "success": true
+      },
+      "textfooler": {
+        "text": ".எப்போ படம் திரைக்கு வரும் காத்திருக்கும் தமிழன்",
+        "success": false
+      },
+      "random": {
+        "text": ".எப்போ படம் திரைக்கு வருg் காத்திருக்கும் தமிழன்",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_002",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "ANOTHER SHITTY    SOUTH INDIAN  MOVIE",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "ANOTHER SHITTY suth INDIAN MOVIE",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "ANOTHER SHITTY suth INDIAN MOVIE",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "ANOTHER SHITTY suth INDIAN MOVIE",
+        "success": true
+      },
+      "textfooler": {
+        "text": "ANOTHER SHITTY southerly INDIAN MOVIE",
+        "success": true
+      },
+      "random": {
+        "text": "ANOTHER SHITTY souzh INDIAN MOVIE",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_003",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Iam Vijay fan.... Trailer Vera levelsemaa Thala",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "ima Vijay fan.... traailer Vera levelsemaa thaala",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "ima Vijay fan.... traailer Vera levelsemaa thaala",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Iam Vijay fan.... trialer Vera levelsemaa thaa",
+        "success": false
+      },
+      "textfooler": {
+        "text": "aro Vijay fan.... towed Vera levelsemaa Thala",
+        "success": false
+      },
+      "random": {
+        "text": "icm Vijay fan.... Trailer Vera levelsemaa thalwa",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_004",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "என்னப்பா ஒரே ஒரு  டிரைலர் அனைத்து சாதியினரையும் ஒற்றுமையாக்கியுள்ளது. அவ்வளவு தூரம் பாதிக்கப்பட்டுள்ளோம் இயக்குனறுக்கு வாழ்த்துக்கள்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "என்னப்பா ஒரே ஒரு டிரைலர் அனைத்து சாதியினரையும் ஒற்றுமையாக்கியுள்ளது. அவ்வளவு தூரம் பாதிக்கப்பட்டுள்ளோம் இயக்குனறுக்கு வாழ்த்ததுக்கள்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "என்னப்பா ஒரே ஒரு டிரைலர் அனைத்து சாதியினரையும் ஒற்றுமையாக்கியுள்ளது. அவ்வளவு தூரம் பாதிக்கப்பட்டுள்ளோம் இயக்குனறுக்கு வாழ்த்ததுக்கள்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "என்னப்பா ஒரே ஒரு டிரைலர் அனைத்து சாதியினரையும் ஒற்றுமையாக்கியுள்ளது. அவ்வளவு தூரம் பாதிக்கப்பட்டுள்ளோம் இயக்குனறுக்கு ாவழ்த்துக்கள்",
+        "success": true
+      },
+      "textfooler": {
+        "text": "என்னப்பா ஒரே ஒரு டிரைலர் அனைத்து சாதியினரையும் ஒற்றுமையாக்கியுள்ளது. அவ்வளவு தூரம் பாதிக்கப்பட்டுள்ளோம் இயக்குனறுக்கு வாழ்த்துக்கள்",
+        "success": false
+      },
+      "random": {
+        "text": "என்னப்பா ஒரே ஒரு டlரைலர் அனைதm்து சாதியினரயும் ஒற்றுமையாக்கியுள்ளது. அவ்வளவு தூரம் பாதிக்கப்பட்டு்ளளோம் இயக்குனறுக்கு வாழ்த்துக்கள்",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_005",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Mani siraaa yarum chase panna mudiyathu  never ever",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Mani siraaa yarum chase panna mudiyathu never eer",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Mani siraaa yarum chase panna mudiyathu never eer",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Mani siraaa yarum chase panna mudiyathu never eer",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Mani siraaa yarum chase panna mudiyathu never steadily",
+        "success": true
+      },
+      "random": {
+        "text": "Mani siraaa yarum chase panna mudiyathu never eer",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_006",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Karthik subbaraj fans hit the like",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Karthik subbaraj fans hiit the like",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Karthik subbaraj fans hiit the like",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Karthik subbaraj fans hdt the like",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Karthik subbaraj fans pounded the like",
+        "success": true
+      },
+      "random": {
+        "text": "Karthik subbariaj fgns hit the like",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_007",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Naidu ponnai katuvan rediar ponnai katuvan enru sollamattan tamil sathi pengalaithan solvan",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Naidu ponnai katuvan rediar ponnai katuvan enru sollamattan taml sathi pengalaithan solvan",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Naidu ponnai katuvan rediar ponnai katuvan enru sollamattan taml sathi pengalaithan solvan",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Naidu ponnai katuvan rediar ponnai katuvan enru sollamattan taml sathi pengalaithan solvan",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Naidu ponnai katuvan rediar ponnai katuvan enru sollamattan kerala sathi pengalaithan solvan",
+        "success": true
+      },
+      "random": {
+        "text": "Naidu ponnai katuvan rediar ponai katuvan enru sollamatatn taqil sathi pengalaithan solvn",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_008",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Trailer kalakki... HYY JITHU JILLAD WE R WAITING FOR TERIIIII...",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "tailer kaalakki... HYY JITHU JILLAD WE R WAITING FOR teeriiiii...",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "tailer kaalakki... HYY JITHU JILLAD WE R WAITING FOR teeriiiii...",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "trialer kalakki... HYY JITHU JILLAD WE R WAITING FOR tejiiiii...",
+        "success": true
+      },
+      "textfooler": {
+        "text": "lorry kalakki... HYY JITHU JILLAD let R WAITING FOR TERIIIII...",
+        "success": true
+      },
+      "random": {
+        "text": "Trailer kalakki... hycy JITHU jjillad WE R waitcing FOR tekriiiii...",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_009",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Anna looks vera level and dialouges",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Anna looks vera leveel and dialouges",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Anna looks vera leveel and dialouges",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Anna looks vera elvel and dialouges",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Anna looks vera grading and dialouges",
+        "success": true
+      },
+      "random": {
+        "text": "ana looks vea level and dialouges",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_010",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "kena koothi....kullan surya.......  kevalamana dialogues and bgm.....sure shit flop....... Sivakarthikeyan paathu kathuka.......",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "kena koothi....kullan surya....... kevalamana dialogues and bgm.....sure shiit flp....... Sivakarthikeyan paathu kathuka.......",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "kena koothi....kullan surya....... kevalamana dialogues and bgm.....sure shiit flp....... Sivakarthikeyan paathu kathuka.......",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "kena koothi....kullan surya....... kevalamana dialogues and bgm.....sure sxit flmp....... Sivakarthikeyan paathu kathuka.......",
+        "success": true
+      },
+      "textfooler": {
+        "text": "kena koothi....kullan surya....... kevalamana conversations consequently bgm.....sure frak flop....... Sivakarthikeyan paathu kathuka.......",
+        "success": false
+      },
+      "random": {
+        "text": "kxna koothi....kullan suya....... kevalamana dialogues and bgm.....sure suit flop...... Sivakarthikeyan paathu kathuka.......",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_011",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "DIZ TRAILER . TREAT FOR EVERYONE",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "DIZ TRAILER . TREAT FOR evveryone",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "DIZ TRAILER . TREAT FOR evveryone",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "DIZ tailer . TREAT fro EVERYONE",
+        "success": true
+      },
+      "textfooler": {
+        "text": "DIZ TRAILER . TREAT FOR nobody",
+        "success": true
+      },
+      "random": {
+        "text": "DIZ TRAILER . treta FOR everygne",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_012",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Waiting for Judgement day nerkonda paarvai Trailer Marana Mass THALAAAAAAAA.....‍",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Waiting foor Judgement dya nerkonda paarvai Trailer Marana maassaa thhalaaaaaaaa.....‍",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Waiting foor Judgement dya nerkonda paarvai Trailer Marana maassaa thhalaaaaaaaa.....‍",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Waiting fro Judgement dry nerkonda paarvai Trailer Marana msas tealaaaaaaaa.....‍",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Waiting de Judgement hoy nerkonda paarvai Trailer Marana forklift THALAAAAAAAA.....‍",
+        "success": true
+      },
+      "random": {
+        "text": "Waiting for jqdgement day nerkonda paarvia Trailer martana msas THALAAAAAAAA.....‍",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_013",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Atlee inneram adutha padathuku script ready pannirupapale",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Atlee inneram adutha padathuku script ready paannirupapale",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Atlee inneram adutha padathuku script ready paannirupapale",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Atlee inneram adutha padathuku script ready ppnnirupapale",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Atlee inneram adutha padathuku sprint authored pannirupapale",
+        "success": true
+      },
+      "random": {
+        "text": "Atlee inneram aduhha padathuku script ready pannirupapale",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_014",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "உடம்பு சிலுர்க வைக்கிறது .தல கடின உழைப்பை காட்டுகிறது.",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "உடம்பு சிலுர்க வைக்கிறது .தல கடின உைழப்பை காட்டுகிறது.",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "உடம்பு சிலுர்க வைக்கிறது .தல கடின உைழப்பை காட்டுகிறது.",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "உடம்பு சிலுர்க வைக்கிறது .தல கடின உைழப்பை காட்டுகிறது.",
+        "success": true
+      },
+      "textfooler": {
+        "text": "உடம்பு சிலுர்க வைக்கிறது .தல கடின உழைப்பை காட்டுகிறது.",
+        "success": false
+      },
+      "random": {
+        "text": "உடம்பு சிலுர்க வைக்கிறது .லத கடின உழைப்பை காடeடுகிறது.",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_015",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Mass da maniratham Sir vera level",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "mss da maniratham Sir vera leveel",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "mss da maniratham Sir vera leveel",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "mss da maniratham Sir vea level",
+        "success": true
+      },
+      "textfooler": {
+        "text": "colossal da maniratham Sir vera niveau",
+        "success": false
+      },
+      "random": {
+        "text": "Mass da maniratahm sikr vera level",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_016",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Thala sikitam vaanka W8 pannide irukam",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "thhala sikitam vaanka W8 pannide irukam",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "thhala sikitam vaanka W8 pannide irukam",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "tdala sikitam vaanka W8 pannide irukam",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Thala sikitam vaanka W8 pannide irukam",
+        "success": false
+      },
+      "random": {
+        "text": "txala sikitam vaanka W8 pannide irukam",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_017",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Tenkasi Kammalar charupaga Intha Movie Vetri Pera Valthukal",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Tenkasi Kammalar charupaga Intha Movie Vetri pea valthukaal",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Tenkasi Kammalar charupaga Intha Movie Vetri pea valthukaal",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Tenkasi Kammalar charupaga Intha Movie verti pea vathukal",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Tenkasi Kammalar charupaga Intha flick Vetri worm Valthukal",
+        "success": false
+      },
+      "random": {
+        "text": "Tenkasi Kammalar charupaga inatha mvie Vetri perna Valthukal",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_018",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "waннн waннн waннн тнala тнala тнala   enge тнala nale мaѕѕ тan..  ѕeммeeee",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "wннн waннн waннн тнala тнala тнala enge тнala nale мaѕѕ тan.. ѕeмeeee",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "wннн waннн waннн тнala тнala тнala enge тнala nale мaѕѕ тan.. ѕeмeeee",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "wннн waннн waннн тнala тнala тнala enge тнala nale мaѕѕ тan.. ѕeмeeee",
+        "success": true
+      },
+      "textfooler": {
+        "text": "waннн waннн waннн тнala тнala тнala enge тнala nale мaѕѕ тan.. ѕeммeeee",
+        "success": false
+      },
+      "random": {
+        "text": "waннн wнaнн wajнн тнapa тнala тнala enge тнala nale мaѕ тan.. ѕeммeeee",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_019",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Entha padam ooduma  Vj fans: adhu nadakkadhu nadakkavumkudaadhu",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "enntha padam oodma Vj fans: ahdu nadakkadhu nadakkaavumkudaadhu",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "enntha padam oodma Vj fans: ahdu nadakkadhu nadakkaavumkudaadhu",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "netha padam oodma Vj fans: adhu nadakkadhu namakkavumkudaadhu",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Entha padam ooduma sm fans: adhu nadakkadhu nadakkavumkudaadhu",
+        "success": false
+      },
+      "random": {
+        "text": "Entha paaam ooduma Vj fansf: adhu nadakadhu nadakkavumkudaadhu",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_020",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "தலைவர்  politcs bangam",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "தலைவர் politcs baangam",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "தலைவர் politcs baangam",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "தலைவர் politcs bjngam",
+        "success": true
+      },
+      "textfooler": {
+        "text": "தலைவர் politcs bangam",
+        "success": false
+      },
+      "random": {
+        "text": "தலைவர் poltcs bangam",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_021",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Bigil super aah kaithi super vrummbinavanga like pannungo",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Bigil suupera aah kaithi suuperaa vrummbinavanga like pannungo",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Bigil suupera aah kaithi suuperaa vrummbinavanga like pannungo",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Bigil suer aah kaithi usper vrummbinavanga like pannungo",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Bigil super aah kaithi peachy vrummbinavanga like pannungo",
+        "success": true
+      },
+      "random": {
+        "text": "Bigil seuper aha kaithi sper vrummbinavanga like pannungo",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_022",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "786 k likes mashaallah തല thala മാസ്സ്",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "768 k likes mashaallah തല tahla മാസസ്സ്",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "768 k likes mashaallah തല tahla മാസസ്സ്",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "76 k likes mashaallah തല thala മസ്സ്",
+        "success": true
+      },
+      "textfooler": {
+        "text": "786 potassium liked mashaallah തല thala മാസ്സ്",
+        "success": false
+      },
+      "random": {
+        "text": "786 k likems mahaallah തല thala മാസ്സ്",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_023",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Short film keka beka ya full movie ah copyright vangi eduthurukanga",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Short film kka bka ya full movie ah copyright vanggi eduthurukanga",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Short film kka bka ya full movie ah copyright vanggi eduthurukanga",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Short fqlm kka bka ya full movie ah copyright vaigi eduthurukanga",
+        "success": true
+      },
+      "textfooler": {
+        "text": "briefly theaters keka beka ya full movie ach copyrighted vangi eduthurukanga",
+        "success": false
+      },
+      "random": {
+        "text": "sort film keak beka ya full moive ah copyright vngi eduthurukanga",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_024",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Thalaivaaaaa u realy great marana waiting plz come soon ..vayasanalum vunnodaiya stylum azhagum vunna vittu pogala",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Thalaivaaaaa u realy gret marana waiting plz come soon ..vayasanalum vunnodaiya stylum azhagum vunna vittu pogala",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Thalaivaaaaa u realy gret marana waiting plz come soon ..vayasanalum vunnodaiya stylum azhagum vunna vittu pogala",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Thalaivaaaaa u realy gret marana waiting plz come soon ..vayasanalum vunnodaiya stylum azhagum vunna vittu pogala",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Thalaivaaaaa u realy grand nogales waiting plz come soon ..vayasanalum vunnodaiya stylum azhagum vunna vittu pogala",
+        "success": true
+      },
+      "random": {
+        "text": "thalaiavaaaa u realy great marana waiting pkz come son ..vayasanalum vunnodaiya stylum azhagum vunla vithtu pogala",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_sentiment_025",
+    "language": "tamil",
+    "task": "sentiment",
+    "original": "Trailer semaya iruku anyway congrats mohan. G",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Trailer semaya iruku anyway conggrats mohan. G",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Trailer semaya iruku anyway conggrats mohan. G",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Trailer semaya iruku anyway cnograts mohan. G",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Trailer semaya iruku anyway kudos mohan. G",
+        "success": true
+      },
+      "random": {
+        "text": "Trailer semnaya iruku anyway congeats mohan. G",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_001",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "திருமாவழவன், பா.ரஞ்சித் பொண்ற சாதி வெறியர்கலுக்கு  இப்படம் சமர்பனம்...படம் வெற்றி பெற வாழ்த்துகள்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "திருமாவழவன், பா.ரஞ்சித் பொண்ற சாததி வெறியர்கலுக்கு இப்பம் சமர்பனம்...படம் வெற்றி பெற வாழ்த்துகள்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "திருமாவழவன், பா.ரஞ்சித் பொண்ற சாததி வெறியர்கலுக்கு இப்பம் சமர்பனம்...படம் வெற்றி பெற வாழ்த்துகள்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "திருமாவழவன், பா.ரஞ்சித் பொண்ற சதி வெறியர்கலுக்கு இபப்டம் சமர்பனம்...படம் வெற்றி பெற வழா்த்துகள்",
+        "success": true
+      },
+      "textfooler": {
+        "text": "திருமாவழவன், பா.ரஞ்சித் பொண்ற சாதி வெறியர்கலுக்கு இப்படம் சமர்பனம்...படம் வெற்றி பெற வாழ்த்துகள்",
+        "success": false
+      },
+      "random": {
+        "text": "திருமாவழவன், பா.ரஞ்சித் பணொ்ற சாதி வெறயிர்கலுக்கு இப்படம் சமர்பனம்...படம் வெற்றி பறெ வாoழ்த்துகள்",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_002",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "விருதுநகா் மாவட்ட அருப்புக்கோட்டை நகா் அனைத்து ஜாதி அமைப்புகள் சாா்பாக  #திரெபதி வெற்றி பெற வாழ்த்துகள் கண்டிபாக படத்தை திரையரங்த்தில் பாா்க்க வருவோம்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "விருுநகா் மாவட்ட அருப்புக்கோட்டை நகா் அனைத்து ஜாி அமைப்புகள் சாா்பாக #திரெபதி வெற்றறி பெற வாழழ்த்துகள் கண்டிபாக படத்தை திரரையரங்த்தில் பா்ாக்க வருவோமம்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "விருுநகா் மாவட்ட அருப்புக்கோட்டை நகா் அனைத்து ஜாி அமைப்புகள் சாா்பாக #திரெபதி வெற்றறி பெற வாழழ்த்துகள் கண்டிபாக படத்தை திரரையரங்த்தில் பா்ாக்க வருவோமம்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "விருதுநகா் மாவட்ட அருப்புக்கோட்டை நகா் அனைத்து ஜpதி அமைப்புகள் சாா்பாக #திரெபதி வெறறி பெற வா்ழத்துகள் கண்டிபாக படத்தை திரையரங்த்தில் பாா்க்க ரவுவோம்",
+        "success": true
+      },
+      "textfooler": {
+        "text": "விருதுநகா் மாவட்ட அருப்புக்கோட்டை நகா் அனைத்து ஜாதி அமைப்புகள் சாா்பாக #திரெபதி வெற்றி பெற வாழ்த்துகள் கண்டிபாக படத்தை திரையரங்த்தில் பாா்க்க வருவோம்",
+        "success": false
+      },
+      "random": {
+        "text": "விருதுநகா் மாவடட் அரு்புக்கோட்டை நகா் அனைத்து ஜாதி அமைப்புகள் சாா்பாக #திரெபதி வெx்றி பெற வாழ்்துகள் கண்டkபாக படத்தை திரையரங்த்தில் பாா்க்க வருவோ்ம",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_003",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "வெயிட்டிங் லயே வெறி ஏறுது தல   சீக்கிரம் வா தல........",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "வெயிட்டிங் லயே வறெி ஏறுது தல சீ்கிரம் வா த........",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "வெயிட்டிங் லயே வறெி ஏறுது தல சீ்கிரம் வா த........",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "வெயிட்டிங் லயே வறி ஏறுது தல சீக்கிரம் வா லத........",
+        "success": true
+      },
+      "textfooler": {
+        "text": "வெயிட்டிங் லயே வெறி ஏறுது தல சீக்கிரம் வா தல........",
+        "success": false
+      },
+      "random": {
+        "text": "வெuயிட்டிங் லயே வெறி ஏறnுது தல சீக்கிரம் வா தq........",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_004",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "7 million views Thala veriyans like",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "7 mllion views tahla veriyans lie",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "7 mllion views tahla veriyans lie",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "7 mivlion views tdala veriyans like",
+        "success": false
+      },
+      "textfooler": {
+        "text": "7 ub views Thala veriyans likes",
+        "success": false
+      },
+      "random": {
+        "text": "7 million views tahla verpyans like",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_005",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "52K left for 600K likes",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "52K left for 600K likkes",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "52K left for 600K likkes",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "5k2 left for 600K lies",
+        "success": false
+      },
+      "textfooler": {
+        "text": "52K left for 600K amateurs",
+        "success": true
+      },
+      "random": {
+        "text": "5k2 left fhr 600K likes",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_006",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Evalo Peru pink Trailer parthinga like podunga",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Evalo Peru pink Trailer parthinga pasand poodunga",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Evalo Peru pink Trailer parthinga pasand poodunga",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Evalo Peru pink Trailer parthinga liwe pocunga",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Evalo Peru pink Trailer parthinga adores podunga",
+        "success": true
+      },
+      "random": {
+        "text": "Evalo Peru pinnk Trailer parthinga like podunag",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_007",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "வணக்கம் டா மாப்ள பொள்ளாச்சி பக்கம் ஆனைமலையிலிருந்து இந்த காவியம் வெற்றிபெற வாழ்த்துக்கள்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "வணகக்கம் டா மபா்ள பொள்ளாச்சி பக்கம் ஆனைமலையிலிருந்து இந்த காவியம் வெ்றிபெற வாழ்தத்துக்கள்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "வணகக்கம் டா மபா்ள பொள்ளாச்சி பக்கம் ஆனைமலையிலிருந்து இந்த காவியம் வெ்றிபெற வாழ்தத்துக்கள்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "ணவக்கம் டா ாமப்ள பொள்ளாச்சி பக்கம் ஆனைமலையிலிருந்து இநத காவியம் வெற்றிபெற வழ்த்துக்கள்",
+        "success": false
+      },
+      "textfooler": {
+        "text": "வணக்கம் டா மாப்ள பொள்ளாச்சி பக்கம் ஆனைமலையிலிருந்து இந்த காவியம் வெற்றிபெற வாழ்த்துக்கள்",
+        "success": false
+      },
+      "random": {
+        "text": "வணbக்கம் டா மாப்ள பொள்ளாச்சி பகk்கம் ஆனைமலையிலிருந்து இநd்த காவியம் வெw்றிபெற வாழ்த்துக்கள்",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_008",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Hit like world wide Rajini Sir Fans",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Hit likke wold wiide Rajini Sir Fans",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Hit likke wold wiide Rajini Sir Fans",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Hit like wold wnde Rajini Sir Fans",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Hit like worid hefty Rajini Sir Fans",
+        "success": false
+      },
+      "random": {
+        "text": "Hit like world wide rajiti sifr Fans",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_009",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "I am a kannadiga.. I love tamilians and tamil movies..... Luv frm Karnataka... Love adhibro",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "I am a kannadiga.. I loove tamiliaans and tamil movies..... Luv frm Karnataka... loove adhibro",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "I am a kannadiga.. I loove tamiliaans and tamil movies..... Luv frm Karnataka... loove adhibro",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "I am a kannadiga.. I lode taimlians and tamil movies..... Luv fsm kaynataka... loe ahdibro",
+        "success": true
+      },
+      "textfooler": {
+        "text": "lai siento a kannadiga.. I iike tamilians and tamil movies..... Luv non Karnataka... iike adhibro",
+        "success": true
+      },
+      "random": {
+        "text": "I am a knanadiga.. I love tamilins and tamil movies.o.... lvu frnm Karnataka... lovve adhibro",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_010",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Padam mass ah irruka poguthu..! Vj mass.!",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Padam maassaa ah irruka pooguthu..! Vj mass.!",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Padam maassaa ah irruka pooguthu..! Vj mass.!",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Padam mas ah irruka pomuthu..! Vj mass.!",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Padam bulk ah irruka poguthu..! Vj mass.!",
+        "success": true
+      },
+      "random": {
+        "text": "paadam mass ah irruka poguthu..! Vj msss.!",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_011",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Padathula vara figure semma ya irukku.",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Padathula vara figure seemma ya irukku.",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Padathula vara figure seemma ya irukku.",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Padathula vaa figure esmma ya irukku.",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Padathula vara figure semma hehe irukku.",
+        "success": false
+      },
+      "random": {
+        "text": "Padathula vaar figure semma ya irukkku.",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_012",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "திரெளபதி படத்திற்கு தடை வந்தால்....  படிப்பிலிருந்து வேலைக்கு சேர்வது வரை  வழங்கப்படும் அனைத்து சலுகைக்கும் தடை வரும்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "திரெளபதி படத்திற்கு தைட வந்தால்.... படடிப்பிலிருந்து வேலைக்கு சேர்வது வரை வழங்கப்படும் அனைத்து சலுகைக்கும் தடை வரும்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "திரெளபதி படத்திற்கு தைட வந்தால்.... படடிப்பிலிருந்து வேலைக்கு சேர்வது வரை வழங்கப்படும் அனைத்து சலுகைக்கும் தடை வரும்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "திரெளபதி படத்திற்கு தடை வந்தால்.... டபிப்பிலிருந்து வேலைக்கு சேர்வது வரை வழங்கப்படும் அனைத்து சலுகைக்கும் தடை வரும்",
+        "success": true
+      },
+      "textfooler": {
+        "text": "திரெளபதி படத்திற்கு தடை வந்தால்.... படிப்பிலிருந்து வேலைக்கு சேர்வது வரை வழங்கப்படும் அனைத்து சலுகைக்கும் தடை வரும்",
+        "success": false
+      },
+      "random": {
+        "text": "திரெளபதி படத்திற்கு தைட வந்தால்.... படிப்பிலிருநது வேலைக்கு சேர்தவு வரsை வழங்கப்படும் அனைaத்து சலுகைக்கும் தடை வரும்",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_013",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "aiyayooo ithu adutha jillaaa pola... usar aiyyaa usaaru..",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "aiyayooo ithu adutha jillaaa pola... ussar aiyyaa usaaru..",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "aiyayooo ithu adutha jillaaa pola... ussar aiyyaa usaaru..",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "aiyayooo ithu adutha jillaaa pola... uasr aiyyaa usaaru..",
+        "success": true
+      },
+      "textfooler": {
+        "text": "aiyayooo ithu adutha jillaaa pola... usar aiyyaa usaaru..",
+        "success": false
+      },
+      "random": {
+        "text": "aiyayvooo ithu adutha jillaaa pol.a.. usar aiyyaa uuaaru..",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_014",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "2.18 sweet sapda porom ..semma thalaiva...... blur background arumaiyaana edit",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "2.18 sewet sapda porom ..semma thalaiiva...... blur baackground arumaiyaana edit",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "2.18 sewet sapda porom ..semma thalaiiva...... blur baackground arumaiyaana edit",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "2.18 skeet sapda porom ..semma thalaiva...... blur bacground arumaiyaana edit",
+        "success": true
+      },
+      "textfooler": {
+        "text": "2.18 sugared sapda porom ..semma thalaiva...... blur background arumaiyaana edit",
+        "success": true
+      },
+      "random": {
+        "text": "2.81 sweet sapada porom ..uemma thalaiva...... blur backhground arumaiyaana edit",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_015",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Gotha potta baadungala.. ungala la serupalaiye adikanum",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "gtha pota baadunggala.. ungala la seruppalaiye adikanum",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "gtha pota baadunggala.. ungala la seruppalaiye adikanum",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Gotha pmtta abadungala.. ungala la serupalaiye adikanum",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Gotha potta baadungala.. ungala sacramento serupalaiye adikanum",
+        "success": false
+      },
+      "random": {
+        "text": "Gotha potta baadungala.. unala la serupalaiye aidikanum",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_016",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "தேனி மாவட்டம் நாயக்கர் அனைத்து மக்கள் சார்பாக வாழ்த்துக்கள்",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "தேனி மாட்டம் நாயக்கர் அைத்து மக்கள் சா்ரபாக வாழ்தத்துக்கள்",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "தேனி மாட்டம் நாயக்கர் அைத்து மக்கள் சா்ரபாக வாழ்தத்துக்கள்",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "தேனி மாட்டம் நாயக்கர் அனைத்து மக்கள் சார்பாக ாவழ்த்துக்கள்",
+        "success": false
+      },
+      "textfooler": {
+        "text": "தேனி மாவட்டம் நாயக்கர் அனைத்து மக்கள் சார்பாக வாழ்த்துக்கள்",
+        "success": false
+      },
+      "random": {
+        "text": "தேனி மாவட்டம் நாயகக்ர் அனைத்து மகuகள் சார்பாக வாழ்த்துக்கள்",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_017",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "வெகுநாட்களாக இப்படி ஓரு படம் எடுக்கமாட்டார்களா எனக் காத்திருந்தவர்கள் சார்பாக வாழ்த்துகிறேன் ...",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "வெுநாட்களாக இபப்படி ஓுர பட்ம எடுக்கமாட்டார்களா எனக் காத்திருந்தவர்கள் சாரர்பாக வாழ்த்துகிறேன் ...",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "வெுநாட்களாக இபப்படி ஓுர பட்ம எடுக்கமாட்டார்களா எனக் காத்திருந்தவர்கள் சாரர்பாக வாழ்த்துகிறேன் ...",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "வெுகநாட்களாக இபபடி ஓுர பட் எடுக்கமாட்டார்களா எனக் காத்திருந்தவர்கள் சார்பாக வாழ்த்துகிறேன் ...",
+        "success": false
+      },
+      "textfooler": {
+        "text": "வெகுநாட்களாக இப்படி ஓரு படம் எடுக்கமாட்டார்களா எனக் காத்திருந்தவர்கள் சார்பாக வாழ்த்துகிறேன் ...",
+        "success": false
+      },
+      "random": {
+        "text": "வெகுநாட்களக இப்படி ஓரு படம் எடுக்கமாட்டார்களா எனக் காத்திரநு்தவர்கள் சார்ாக வாழ்த்துகிறேன் .c.",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_018",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "அருமை அருமை  மிகப்பெரிய வெற்றி பெற மாவீரன் மண்ணில் இருந்து வாழ்த்துக்கள்.. மோகன் ஜி..சோலை ஆறுமுகம்..",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "அருமை அருமை மிக்பெரிய வெற்றறி பெற மாவீரன் மணண்ில் இருந்து வாழ்த்துக்கள்.. மோகன் ஜி..சோலை ஆறுமுகம்..",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "அருமை அருமை மிக்பெரிய வெற்றறி பெற மாவீரன் மணண்ில் இருந்து வாழ்த்துக்கள்.. மோகன் ஜி..சோலை ஆறுமுகம்..",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "அருமை அருமை மிக்பெரிய வறெ்றி பெற மாவரன் ணம்ணில் இருந்து வாழ்த்துக்கள்.. மோகன் ஜி..சோலை ஆறுமுகம்..",
+        "success": true
+      },
+      "textfooler": {
+        "text": "அருமை அருமை மிகப்பெரிய வெற்றி பெற மாவீரன் மண்ணில் இருந்து வாழ்த்துக்கள்.. மோகன் ஜி..சோலை ஆறுமுகம்..",
+        "success": false
+      },
+      "random": {
+        "text": "அருமை அருைம மிகப்பெரிய வெற்றி பெற மாவீரன் மண்ணில் இரு்து வாழ்த்துக்கள்.. மோகன் ஜி..சோலoை ஆறுமுக்ம..",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_019",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Yaru lam valimai movie kku wait panringa",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Yaru lam valimai movie kku wati panringa",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Yaru lam valimai movie kku wati panringa",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Yaru lam valimai movie kku wiit panringa",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Yaru layne valimai movie kku sufferance panringa",
+        "success": false
+      },
+      "random": {
+        "text": "Yaru lam valimai movie kku wati panringa",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_020",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "சாதி வெறியராக இருப்பதை நிறுத்துங்கள். மனிதனாக மாறத் தொடங்குங்கள்.",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "சாததி வெறியராக இருப்பதை நிறுத்துங்கள். மனிதனாக மாறத் தொடங்குங்கள்.",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "சாததி வெறியராக இருப்பதை நிறுத்துங்கள். மனிதனாக மாறத் தொடங்குங்கள்.",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "சதாி வெறியராக இருப்பதை நிறுத்துங்கள். மனிதனாக மாறத் தொடங்குங்கள்.",
+        "success": true
+      },
+      "textfooler": {
+        "text": "சாதி வெறியராக இருப்பதை நிறுத்துங்கள். மனிதனாக மாறத் தொடங்குங்கள்.",
+        "success": false
+      },
+      "random": {
+        "text": "சாதி வெறியராக இருaப்பதை நிறுத்துங்கள். மனிதனாக மாறத் தொடங்குங்கuள்.",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_021",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Oatha ommala ennada bgm omma thevdiya payya",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Oatha ommala ennaa bggm omma tevdiya payya",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Oatha ommala ennaa bggm omma tevdiya payya",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Oatha ommala ennda bgm omma tevdiya payya",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Oatha ommala ennada bgm omma thevdiya payya",
+        "success": false
+      },
+      "random": {
+        "text": "Oatha omala ensnada bgm omma thevdiya payya",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_022",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Siruthai shiva sir. Nandri. Idha edhir paarkave illa. Neenga engaiyo poiteenga. Thala mass.",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Siruthai shiva sir. naandri. Idha edihr parkave illa. neenka engaiyo poiteenga. tahla mass.",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Siruthai shiva sir. naandri. Idha edihr parkave illa. neenka engaiyo poiteenga. tahla mass.",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Siruthai shiva sir. Nandri. Idha edir parkave illa. nuenga engaiyo poiteenga. tahla mass.",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Siruthai nandi sir. Nandri. Idha edhir paarkave illa. Neenga engaiyo poiteenga. Thala mass.",
+        "success": false
+      },
+      "random": {
+        "text": "Siruthai shva sir. nndri. Idha edhir paacrkave illa. neengka engayo poiteenga. Thala mass.",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_023",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Super Anna love you N G K",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "sper Anna loove yuo N G K",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "sper Anna loove yuo N G K",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Super Anna olve yuo N G K",
+        "success": false
+      },
+      "textfooler": {
+        "text": "Super Anna iove peux N G K",
+        "success": false
+      },
+      "random": {
+        "text": "suer Anna love yuo N G K",
+        "success": false
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_024",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "enna achchi sakar sir no good",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "enna acchi sakar sir no good",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "enna acchi sakar sir no good",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "enna ahcchi sakar sir no good",
+        "success": true
+      },
+      "textfooler": {
+        "text": "enna achchi sakar sir nah good",
+        "success": true
+      },
+      "random": {
+        "text": "eyna achchi sakar sir no good",
+        "success": true
+      }
+    }
+  },
+  {
+    "id": "tamil_offensive_025",
+    "language": "tamil",
+    "task": "offensive",
+    "original": "Thee mugam than  song semmaiya iruku soluravanga ellam oru like podunga  pa",
+    "adversarials": {
+      "comixattack_full": {
+        "text": "Thee mugam than song seemmaiya iruku soluravanga ellam oru liek podunga pa",
+        "success": true
+      },
+      "comixattack_strict": {
+        "text": "Thee mugam than song seemmaiya iruku soluravanga ellam oru liek podunga pa",
+        "success": true
+      },
+      "deepwordbug": {
+        "text": "Thee mugam than song smemaiya iruku soluravanga ellam oru liek podunga pa",
+        "success": true
+      },
+      "textfooler": {
+        "text": "Thee mugam than lyrics semmaiya iruku soluravanga ellam oru analogue podunga pa",
+        "success": true
+      },
+      "random": {
+        "text": "tehe mugam thhan song semmaiya iruku soluravanga ellam olu likae podunga pa",
+        "success": true
+      }
+    }
+  }
+]

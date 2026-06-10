@@ -1,0 +1,14 @@
+{
+  "experiment_id": "textfooler_mbert_offensive",
+  "task": "offensive",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-09T19:26:04.745302",
+  "results": {
+    "total": 1000,
+    "successful": 338,
+    "failed": 662,
+    "asr": 0.338,
+    "avg_queries": 42.31,
+    "avg_time": 3.892
+  }
+}

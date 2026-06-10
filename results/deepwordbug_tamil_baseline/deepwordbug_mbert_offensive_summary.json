@@ -1,0 +1,14 @@
+{
+  "experiment_id": "deepwordbug_mbert_offensive",
+  "task": "offensive",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-09T12:45:35.613963",
+  "results": {
+    "total": 1000,
+    "successful": 461,
+    "failed": 539,
+    "asr": 0.461,
+    "avg_queries": 31.98,
+    "avg_time": 3.41
+  }
+}

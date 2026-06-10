@@ -1,0 +1,23 @@
+{
+  "experiment_id": "comixattack_mbert_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-02T16:05:21.223818",
+  "results": {
+    "total": 1000,
+    "successful": 274,
+    "failed": 726,
+    "asr": 0.274,
+    "avg_queries": 14.76,
+    "avg_time": 3.374,
+    "p1_used": 250,
+    "p2_used": 513,
+    "p3_used": 139,
+    "p4_used": 120,
+    "p5_used": 16,
+    "p6_used": 377,
+    "p7_used": 72,
+    "pc_used": 256
+  }
+}

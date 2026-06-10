@@ -1,0 +1,252 @@
+[
+  {
+    "method": "CoMixAttack-Strict",
+    "task": "sentiment",
+    "model": "xlmr",
+    "asr": 0.273,
+    "avgq": 14.0,
+    "sim": 0.9697,
+    "q_norm": 0.1443,
+    "aqi": 0.2265
+  },
+  {
+    "method": "CoMixAttack-Strict",
+    "task": "sentiment",
+    "model": "muril",
+    "asr": 0.284,
+    "avgq": 15.6,
+    "sim": 0.9697,
+    "q_norm": 0.1608,
+    "aqi": 0.2311
+  },
+  {
+    "method": "CoMixAttack-Strict",
+    "task": "sentiment",
+    "model": "mbert",
+    "asr": 0.274,
+    "avgq": 14.8,
+    "sim": 0.9697,
+    "q_norm": 0.1526,
+    "aqi": 0.2252
+  },
+  {
+    "method": "CoMixAttack-Strict",
+    "task": "hate",
+    "model": "xlmr",
+    "asr": 0.2242,
+    "avgq": 24.8,
+    "sim": 0.9697,
+    "q_norm": 0.2557,
+    "aqi": 0.1618
+  },
+  {
+    "method": "CoMixAttack-Strict",
+    "task": "hate",
+    "model": "muril",
+    "asr": 0.2338,
+    "avgq": 23.6,
+    "sim": 0.9697,
+    "q_norm": 0.2433,
+    "aqi": 0.1716
+  },
+  {
+    "method": "CoMixAttack-Strict",
+    "task": "hate",
+    "model": "mbert",
+    "asr": 0.4629,
+    "avgq": 19.3,
+    "sim": 0.9697,
+    "q_norm": 0.199,
+    "aqi": 0.3596
+  },
+  {
+    "method": "CoMixAttack-Full",
+    "task": "sentiment",
+    "model": "xlmr",
+    "asr": 0.886,
+    "avgq": 32.1,
+    "sim": 0.9291,
+    "q_norm": 0.3309,
+    "aqi": 0.5508
+  },
+  {
+    "method": "CoMixAttack-Full",
+    "task": "sentiment",
+    "model": "muril",
+    "asr": 0.878,
+    "avgq": 32.1,
+    "sim": 0.9291,
+    "q_norm": 0.3309,
+    "aqi": 0.5458
+  },
+  {
+    "method": "CoMixAttack-Full",
+    "task": "sentiment",
+    "model": "mbert",
+    "asr": 0.899,
+    "avgq": 30.2,
+    "sim": 0.9291,
+    "q_norm": 0.3113,
+    "aqi": 0.5752
+  },
+  {
+    "method": "CoMixAttack-Full",
+    "task": "hate",
+    "model": "xlmr",
+    "asr": 0.5634,
+    "avgq": 55.6,
+    "sim": 0.9291,
+    "q_norm": 0.5732,
+    "aqi": 0.2234
+  },
+  {
+    "method": "CoMixAttack-Full",
+    "task": "hate",
+    "model": "muril",
+    "asr": 0.52,
+    "avgq": 54.6,
+    "sim": 0.9291,
+    "q_norm": 0.5629,
+    "aqi": 0.2112
+  },
+  {
+    "method": "CoMixAttack-Full",
+    "task": "hate",
+    "model": "mbert",
+    "asr": 0.8457,
+    "avgq": 31.3,
+    "sim": 0.9291,
+    "q_norm": 0.3227,
+    "aqi": 0.5322
+  },
+  {
+    "method": "DeepWordBug",
+    "task": "sentiment",
+    "model": "xlmr",
+    "asr": 0.903,
+    "avgq": 47.9,
+    "sim": 0.9336,
+    "q_norm": 0.4938,
+    "aqi": 0.4267
+  },
+  {
+    "method": "DeepWordBug",
+    "task": "sentiment",
+    "model": "muril",
+    "asr": 0.891,
+    "avgq": 47.4,
+    "sim": 0.9336,
+    "q_norm": 0.4887,
+    "aqi": 0.4254
+  },
+  {
+    "method": "DeepWordBug",
+    "task": "sentiment",
+    "model": "mbert",
+    "asr": 0.935,
+    "avgq": 44.6,
+    "sim": 0.9336,
+    "q_norm": 0.4598,
+    "aqi": 0.4716
+  },
+  {
+    "method": "DeepWordBug",
+    "task": "hate",
+    "model": "xlmr",
+    "asr": 0.5398,
+    "avgq": 58.8,
+    "sim": 0.9336,
+    "q_norm": 0.6062,
+    "aqi": 0.1985
+  },
+  {
+    "method": "DeepWordBug",
+    "task": "hate",
+    "model": "muril",
+    "asr": 0.4892,
+    "avgq": 59.0,
+    "sim": 0.9336,
+    "q_norm": 0.6082,
+    "aqi": 0.1789
+  },
+  {
+    "method": "DeepWordBug",
+    "task": "hate",
+    "model": "mbert",
+    "asr": 0.8101,
+    "avgq": 42.1,
+    "sim": 0.9336,
+    "q_norm": 0.434,
+    "aqi": 0.4281
+  },
+  {
+    "method": "Random",
+    "task": "sentiment",
+    "model": "xlmr",
+    "asr": 0.328,
+    "avgq": 17.0,
+    "sim": 0.8975,
+    "q_norm": 0.1753,
+    "aqi": 0.2428
+  },
+  {
+    "method": "Random",
+    "task": "sentiment",
+    "model": "muril",
+    "asr": 0.331,
+    "avgq": 16.6,
+    "sim": 0.8975,
+    "q_norm": 0.1711,
+    "aqi": 0.2462
+  },
+  {
+    "method": "Random",
+    "task": "sentiment",
+    "model": "mbert",
+    "asr": 0.334,
+    "avgq": 16.9,
+    "sim": 0.8975,
+    "q_norm": 0.1742,
+    "aqi": 0.2475
+  },
+  {
+    "method": "Random",
+    "task": "hate",
+    "model": "xlmr",
+    "asr": 0.1268,
+    "avgq": 14.1,
+    "sim": 0.8975,
+    "q_norm": 0.1454,
+    "aqi": 0.0973
+  },
+  {
+    "method": "Random",
+    "task": "hate",
+    "model": "muril",
+    "asr": 0.1538,
+    "avgq": 14.1,
+    "sim": 0.8975,
+    "q_norm": 0.1454,
+    "aqi": 0.118
+  },
+  {
+    "method": "Random",
+    "task": "hate",
+    "model": "mbert",
+    "asr": 0.2344,
+    "avgq": 13.2,
+    "sim": 0.8975,
+    "q_norm": 0.1361,
+    "aqi": 0.1817
+  },
+  {
+    "method": "TextFooler",
+    "task": "sentiment",
+    "model": "xlmr",
+    "asr": 0.708,
+    "avgq": 94.4,
+    "sim": 0.71,
+    "q_norm": 0.9732,
+    "aqi": 0.0135
+  }
+]

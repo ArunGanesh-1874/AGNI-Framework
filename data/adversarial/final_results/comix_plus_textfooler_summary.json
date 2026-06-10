@@ -1,0 +1,12 @@
+{
+  "method": "CoMixAttack+TextFooler",
+  "random_seed": 42,
+  "n_attacked": 144,
+  "n_successful": 43,
+  "asr": 0.2986,
+  "avg_queries": 42.8,
+  "avg_time": 24.11,
+  "hindi_perturbs": 22,
+  "english_perturbs": 122,
+  "completed_at": "2026-05-26T12:59:10.888515"
+}

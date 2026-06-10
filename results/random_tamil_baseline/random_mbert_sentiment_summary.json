@@ -1,0 +1,14 @@
+{
+  "experiment_id": "random_mbert_sentiment",
+  "task": "sentiment",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-09T05:47:02.617267",
+  "results": {
+    "total": 1000,
+    "successful": 181,
+    "failed": 819,
+    "asr": 0.181,
+    "avg_queries": 6.54,
+    "avg_time": 1.461
+  }
+}

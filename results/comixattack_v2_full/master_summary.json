@@ -1,0 +1,134 @@
+[
+  {
+    "experiment_id": "comixattack_xlmr_sentiment",
+    "language_pair": "hi-en",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "completed_at": "2026-05-28T11:33:57.461017",
+    "results": {
+      "total": 1000,
+      "successful": 218,
+      "failed": 782,
+      "asr": 0.218,
+      "avg_queries": 10.17,
+      "avg_time": 2.251,
+      "p1_used": 143,
+      "p2_used": 469,
+      "p3_used": 156,
+      "p4_used": 148,
+      "p5_used": 18,
+      "p6_used": 370
+    },
+    "total_wall_time": 4411.0
+  },
+  {
+    "experiment_id": "comixattack_muril_sentiment",
+    "language_pair": "hi-en",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "completed_at": "2026-05-28T12:51:38.442927",
+    "results": {
+      "total": 1000,
+      "successful": 222,
+      "failed": 778,
+      "asr": 0.222,
+      "avg_queries": 10.91,
+      "avg_time": 2.38,
+      "p1_used": 163,
+      "p2_used": 505,
+      "p3_used": 160,
+      "p4_used": 148,
+      "p5_used": 6,
+      "p6_used": 413
+    },
+    "total_wall_time": 4380.7
+  },
+  {
+    "experiment_id": "comixattack_mbert_sentiment",
+    "language_pair": "hi-en",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "completed_at": "2026-05-28T14:08:52.835064",
+    "results": {
+      "total": 1000,
+      "successful": 215,
+      "failed": 785,
+      "asr": 0.215,
+      "avg_queries": 9.97,
+      "avg_time": 2.216,
+      "p1_used": 179,
+      "p2_used": 355,
+      "p3_used": 189,
+      "p4_used": 157,
+      "p5_used": 19,
+      "p6_used": 456
+    },
+    "total_wall_time": 4347.7
+  },
+  {
+    "experiment_id": "comixattack_xlmr_hate",
+    "language_pair": "hi-en",
+    "task": "hate",
+    "victim_model": "xlmr",
+    "completed_at": "2026-05-28T14:40:21.618511",
+    "results": {
+      "total": 339,
+      "successful": 59,
+      "failed": 280,
+      "asr": 0.174,
+      "avg_queries": 17.26,
+      "avg_time": 3.669,
+      "p1_used": 90,
+      "p2_used": 270,
+      "p3_used": 112,
+      "p4_used": 62,
+      "p5_used": 14,
+      "p6_used": 124
+    },
+    "total_wall_time": 1852.0
+  },
+  {
+    "experiment_id": "comixattack_muril_hate",
+    "language_pair": "hi-en",
+    "task": "hate",
+    "victim_model": "muril",
+    "completed_at": "2026-05-28T15:06:40.768335",
+    "results": {
+      "total": 325,
+      "successful": 58,
+      "failed": 267,
+      "asr": 0.1785,
+      "avg_queries": 14.69,
+      "avg_time": 3.053,
+      "p1_used": 51,
+      "p2_used": 177,
+      "p3_used": 111,
+      "p4_used": 75,
+      "p5_used": 8,
+      "p6_used": 126
+    },
+    "total_wall_time": 1543.8
+  },
+  {
+    "experiment_id": "comixattack_mbert_hate",
+    "language_pair": "hi-en",
+    "task": "hate",
+    "victim_model": "mbert",
+    "completed_at": "2026-05-28T15:35:31.245863",
+    "results": {
+      "total": 337,
+      "successful": 121,
+      "failed": 216,
+      "asr": 0.3591,
+      "avg_queries": 13.51,
+      "avg_time": 3.013,
+      "p1_used": 73,
+      "p2_used": 166,
+      "p3_used": 84,
+      "p4_used": 73,
+      "p5_used": 8,
+      "p6_used": 129
+    },
+    "total_wall_time": 1687.0
+  }
+]

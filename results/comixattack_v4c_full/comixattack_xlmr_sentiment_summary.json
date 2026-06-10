@@ -1,0 +1,23 @@
+{
+  "experiment_id": "comixattack_xlmr_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-04T14:24:48.509137",
+  "results": {
+    "total": 1000,
+    "successful": 886,
+    "failed": 114,
+    "asr": 0.886,
+    "avg_queries": 32.08,
+    "avg_time": 7.4,
+    "p1_used": 46,
+    "p2_used": 3317,
+    "p3_used": 24,
+    "p4_used": 40,
+    "p5_used": 9,
+    "p6_used": 52,
+    "p7_used": 17,
+    "pc_used": 210
+  }
+}

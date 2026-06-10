@@ -1,0 +1,86 @@
+[
+  {
+    "experiment_id": "deepwordbug_xlmr_sentiment",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-03T06:43:15.447727",
+    "results": {
+      "total": 1000,
+      "successful": 903,
+      "failed": 97,
+      "asr": 0.903,
+      "avg_queries": 47.89,
+      "avg_time": 6.472
+    }
+  },
+  {
+    "experiment_id": "deepwordbug_muril_sentiment",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "completed_at": "2026-06-03T08:27:35.517682",
+    "results": {
+      "total": 1000,
+      "successful": 891,
+      "failed": 109,
+      "asr": 0.891,
+      "avg_queries": 47.44,
+      "avg_time": 5.931
+    }
+  },
+  {
+    "experiment_id": "deepwordbug_mbert_sentiment",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-03T10:11:05.979311",
+    "results": {
+      "total": 1000,
+      "successful": 935,
+      "failed": 65,
+      "asr": 0.935,
+      "avg_queries": 44.58,
+      "avg_time": 5.857
+    }
+  },
+  {
+    "experiment_id": "deepwordbug_xlmr_hate",
+    "task": "hate",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-03T10:55:27.266020",
+    "results": {
+      "total": 339,
+      "successful": 183,
+      "failed": 156,
+      "asr": 0.5398,
+      "avg_queries": 58.8,
+      "avg_time": 7.638
+    }
+  },
+  {
+    "experiment_id": "deepwordbug_muril_hate",
+    "task": "hate",
+    "victim_model": "muril",
+    "completed_at": "2026-06-03T11:38:09.097611",
+    "results": {
+      "total": 325,
+      "successful": 159,
+      "failed": 166,
+      "asr": 0.4892,
+      "avg_queries": 59.02,
+      "avg_time": 7.666
+    }
+  },
+  {
+    "experiment_id": "deepwordbug_mbert_hate",
+    "task": "hate",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-03T12:09:03.818688",
+    "results": {
+      "total": 337,
+      "successful": 273,
+      "failed": 64,
+      "asr": 0.8101,
+      "avg_queries": 42.1,
+      "avg_time": 5.302
+    }
+  }
+]

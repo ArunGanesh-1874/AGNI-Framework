@@ -1,0 +1,11 @@
+{
+  "method": "CoMixAttack-v4-Combined",
+  "n_attacked": 6,
+  "n_successful": 6,
+  "asr": 1.0,
+  "avg_queries": 29.2,
+  "avg_time_secs": 4.43,
+  "hindi_perturbations": 8,
+  "english_perturbations": 0,
+  "completed_at": "2026-05-25T05:17:17.786589"
+}

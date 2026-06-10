@@ -1,0 +1,9 @@
+{
+  "method": "WordNet-Baseline (TextFooler-style)",
+  "n_attacked": 136,
+  "n_successful": 52,
+  "asr": 0.3824,
+  "avg_queries": 27.3,
+  "avg_time_secs": 4.06,
+  "completed_at": "2026-05-16T05:17:05.186635"
+}
