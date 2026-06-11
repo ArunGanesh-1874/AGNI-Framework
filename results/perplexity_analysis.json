@@ -1,0 +1,202 @@
+[
+  {
+    "method": "AGNI-Full",
+    "language": "hinglish",
+    "task": "sentiment",
+    "n_examples": 200,
+    "avg_orig_ppl": 260.47,
+    "avg_adv_ppl": 436.95,
+    "ppl_ratio": 1.6775,
+    "ppl_increase": 67.75
+  },
+  {
+    "method": "AGNI-Strict",
+    "language": "hinglish",
+    "task": "sentiment",
+    "n_examples": 200,
+    "avg_orig_ppl": 260.47,
+    "avg_adv_ppl": 307.58,
+    "ppl_ratio": 1.1808,
+    "ppl_increase": 18.08
+  },
+  {
+    "method": "DeepWordBug",
+    "language": "hinglish",
+    "task": "sentiment",
+    "n_examples": 200,
+    "avg_orig_ppl": 260.47,
+    "avg_adv_ppl": 452.52,
+    "ppl_ratio": 1.7373,
+    "ppl_increase": 73.73
+  },
+  {
+    "method": "TextFooler",
+    "language": "hinglish",
+    "task": "sentiment",
+    "n_examples": 200,
+    "avg_orig_ppl": 260.47,
+    "avg_adv_ppl": 394.02,
+    "ppl_ratio": 1.5127,
+    "ppl_increase": 51.27
+  },
+  {
+    "method": "Random",
+    "language": "hinglish",
+    "task": "sentiment",
+    "n_examples": 200,
+    "avg_orig_ppl": 260.47,
+    "avg_adv_ppl": 673.51,
+    "ppl_ratio": 2.5857,
+    "ppl_increase": 158.57
+  },
+  {
+    "method": "AGNI-Full",
+    "language": "hinglish",
+    "task": "hate",
+    "n_examples": 200,
+    "avg_orig_ppl": 424.04,
+    "avg_adv_ppl": 793.66,
+    "ppl_ratio": 1.8717,
+    "ppl_increase": 87.17
+  },
+  {
+    "method": "AGNI-Strict",
+    "language": "hinglish",
+    "task": "hate",
+    "n_examples": 199,
+    "avg_orig_ppl": 398.53,
+    "avg_adv_ppl": 596.51,
+    "ppl_ratio": 1.4968,
+    "ppl_increase": 49.68
+  },
+  {
+    "method": "DeepWordBug",
+    "language": "hinglish",
+    "task": "hate",
+    "n_examples": 200,
+    "avg_orig_ppl": 424.04,
+    "avg_adv_ppl": 815.83,
+    "ppl_ratio": 1.9239,
+    "ppl_increase": 92.39
+  },
+  {
+    "method": "TextFooler",
+    "language": "hinglish",
+    "task": "hate",
+    "n_examples": 200,
+    "avg_orig_ppl": 424.04,
+    "avg_adv_ppl": 725.35,
+    "ppl_ratio": 1.7106,
+    "ppl_increase": 71.06
+  },
+  {
+    "method": "Random",
+    "language": "hinglish",
+    "task": "hate",
+    "n_examples": 200,
+    "avg_orig_ppl": 424.04,
+    "avg_adv_ppl": 926.15,
+    "ppl_ratio": 2.1841,
+    "ppl_increase": 118.41
+  },
+  {
+    "method": "AGNI-Full",
+    "language": "tamil",
+    "task": "sentiment",
+    "n_examples": 191,
+    "avg_orig_ppl": 874.64,
+    "avg_adv_ppl": 1016.41,
+    "ppl_ratio": 1.1621,
+    "ppl_increase": 16.21
+  },
+  {
+    "method": "AGNI-Strict",
+    "language": "tamil",
+    "task": "sentiment",
+    "n_examples": 191,
+    "avg_orig_ppl": 874.64,
+    "avg_adv_ppl": 1016.41,
+    "ppl_ratio": 1.1621,
+    "ppl_increase": 16.21
+  },
+  {
+    "method": "DeepWordBug",
+    "language": "tamil",
+    "task": "sentiment",
+    "n_examples": 192,
+    "avg_orig_ppl": 906.65,
+    "avg_adv_ppl": 1158.91,
+    "ppl_ratio": 1.2782,
+    "ppl_increase": 27.82
+  },
+  {
+    "method": "TextFooler",
+    "language": "tamil",
+    "task": "sentiment",
+    "n_examples": 192,
+    "avg_orig_ppl": 922.21,
+    "avg_adv_ppl": 990.89,
+    "ppl_ratio": 1.0745,
+    "ppl_increase": 7.45
+  },
+  {
+    "method": "Random",
+    "language": "tamil",
+    "task": "sentiment",
+    "n_examples": 191,
+    "avg_orig_ppl": 882.3,
+    "avg_adv_ppl": 1407.58,
+    "ppl_ratio": 1.5953,
+    "ppl_increase": 59.53
+  },
+  {
+    "method": "AGNI-Full",
+    "language": "tamil",
+    "task": "offensive",
+    "n_examples": 194,
+    "avg_orig_ppl": 1283.19,
+    "avg_adv_ppl": 1512.07,
+    "ppl_ratio": 1.1784,
+    "ppl_increase": 17.84
+  },
+  {
+    "method": "AGNI-Strict",
+    "language": "tamil",
+    "task": "offensive",
+    "n_examples": 194,
+    "avg_orig_ppl": 1283.19,
+    "avg_adv_ppl": 1512.07,
+    "ppl_ratio": 1.1784,
+    "ppl_increase": 17.84
+  },
+  {
+    "method": "DeepWordBug",
+    "language": "tamil",
+    "task": "offensive",
+    "n_examples": 192,
+    "avg_orig_ppl": 1232.0,
+    "avg_adv_ppl": 1523.93,
+    "ppl_ratio": 1.237,
+    "ppl_increase": 23.7
+  },
+  {
+    "method": "TextFooler",
+    "language": "tamil",
+    "task": "offensive",
+    "n_examples": 190,
+    "avg_orig_ppl": 1219.43,
+    "avg_adv_ppl": 1311.74,
+    "ppl_ratio": 1.0757,
+    "ppl_increase": 7.57
+  },
+  {
+    "method": "Random",
+    "language": "tamil",
+    "task": "offensive",
+    "n_examples": 191,
+    "avg_orig_ppl": 1268.64,
+    "avg_adv_ppl": 1667.12,
+    "ppl_ratio": 1.3141,
+    "ppl_increase": 31.41
+  }
+]
