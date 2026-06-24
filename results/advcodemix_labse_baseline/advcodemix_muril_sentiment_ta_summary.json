@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_muril_sentiment_ta",
+  "task": "sentiment",
+  "victim_model": "muril",
+  "completed_at": "2026-06-18T15:17:52.656995",
+  "results": {
+    "total": 1000,
+    "successful": 639,
+    "failed": 361,
+    "asr": 0.639,
+    "avg_queries": 35.12,
+    "avg_time": 3.548
+  }
+}

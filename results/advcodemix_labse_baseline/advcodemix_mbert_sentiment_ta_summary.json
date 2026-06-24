@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_mbert_sentiment_ta",
+  "task": "sentiment",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-18T16:31:03.459551",
+  "results": {
+    "total": 1000,
+    "successful": 634,
+    "failed": 366,
+    "asr": 0.634,
+    "avg_queries": 36.6,
+    "avg_time": 4.141
+  }
+}

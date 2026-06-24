@@ -1,0 +1,23 @@
+{
+  "experiment_id": "comixattack_muril_offensive",
+  "language_pair": "ta-en",
+  "task": "offensive",
+  "victim_model": "muril",
+  "completed_at": "2026-06-23T14:25:07.610165",
+  "results": {
+    "total": 1000,
+    "successful": 134,
+    "failed": 866,
+    "asr": 0.134,
+    "avg_queries": 10.5,
+    "avg_time": 1.225,
+    "p1_used": 6,
+    "p2_used": 835,
+    "p3_used": 0,
+    "p4_used": 21,
+    "p5_used": 1,
+    "p6_used": 53,
+    "p7_used": 5,
+    "pc_used": 110
+  }
+}

@@ -17,7 +17,7 @@ torch.manual_seed(SEED); torch.cuda.manual_seed_all(SEED)
 DEVICE     = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 DATA_DIR   = "/workspace/comixattack/data/processed"
 MODEL_DIR  = "/workspace/comixattack/models"
-OUTPUT_DIR = "/workspace/comixattack/results/comixattack_tamil_full"
+OUTPUT_DIR = "/workspace/comixattack/results/comixattack_tamil_v2_full"
 N_EXAMPLES = 1000
 LANGUAGE_PAIR = "ta-en"
 
@@ -168,7 +168,8 @@ for (task, model_name, model_path, test_file, label2id) in EXPERIMENTS:
     print(f"   AvgQ    : {r['avg_queries']:.1f}")
     print(f"   AvgTime : {r['avg_time']:.3f}s")
     print(f"   P-types : P1={r['p1_used']} P2={r['p2_used']} "
-          f"P3={r['p3_used']} P4={r['p4_used']} P5={r['p5_used']}")
+          f"P3={r['p3_used']} P4={r['p4_used']} P5={r['p5_used']} "
+          f"P6={r['p6_used']} P7={r['p7_used']} PC={r['pc_used']}")
 
     # Free GPU memory
     del model

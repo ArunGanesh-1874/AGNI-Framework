@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_xlmr_sentiment_ta",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-18T14:14:45.436151",
+  "results": {
+    "total": 1000,
+    "successful": 692,
+    "failed": 308,
+    "asr": 0.692,
+    "avg_queries": 34.15,
+    "avg_time": 3.545
+  }
+}

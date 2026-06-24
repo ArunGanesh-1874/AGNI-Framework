@@ -1,0 +1,170 @@
+[
+  {
+    "experiment_id": "advcodemix_xlmr_sentiment_hi",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-18T07:08:00.157534",
+    "results": {
+      "total": 1000,
+      "successful": 916,
+      "failed": 84,
+      "asr": 0.916,
+      "avg_queries": 55.81,
+      "avg_time": 7.359
+    }
+  },
+  {
+    "experiment_id": "advcodemix_muril_sentiment_hi",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "completed_at": "2026-06-18T09:07:33.062069",
+    "results": {
+      "total": 1000,
+      "successful": 920,
+      "failed": 80,
+      "asr": 0.92,
+      "avg_queries": 53.6,
+      "avg_time": 6.845
+    }
+  },
+  {
+    "experiment_id": "advcodemix_mbert_sentiment_hi",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-18T11:09:17.146627",
+    "results": {
+      "total": 1000,
+      "successful": 943,
+      "failed": 57,
+      "asr": 0.943,
+      "avg_queries": 51.42,
+      "avg_time": 6.893
+    }
+  },
+  {
+    "experiment_id": "advcodemix_xlmr_hate_hi",
+    "task": "hate",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-18T12:01:56.619654",
+    "results": {
+      "total": 339,
+      "successful": 192,
+      "failed": 147,
+      "asr": 0.5664,
+      "avg_queries": 70.46,
+      "avg_time": 9.133
+    }
+  },
+  {
+    "experiment_id": "advcodemix_muril_hate_hi",
+    "task": "hate",
+    "victim_model": "muril",
+    "completed_at": "2026-06-18T12:35:13.378026",
+    "results": {
+      "total": 266,
+      "successful": 233,
+      "failed": 33,
+      "asr": 0.8759,
+      "avg_queries": 59.12,
+      "avg_time": 7.286
+    }
+  },
+  {
+    "experiment_id": "advcodemix_mbert_hate_hi",
+    "task": "hate",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-18T13:11:36.487389",
+    "results": {
+      "total": 337,
+      "successful": 283,
+      "failed": 54,
+      "asr": 0.8398,
+      "avg_queries": 48.18,
+      "avg_time": 6.266
+    }
+  },
+  {
+    "experiment_id": "advcodemix_xlmr_sentiment_ta",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-18T14:14:45.436151",
+    "results": {
+      "total": 1000,
+      "successful": 692,
+      "failed": 308,
+      "asr": 0.692,
+      "avg_queries": 34.15,
+      "avg_time": 3.545
+    }
+  },
+  {
+    "experiment_id": "advcodemix_muril_sentiment_ta",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "completed_at": "2026-06-18T15:17:52.656995",
+    "results": {
+      "total": 1000,
+      "successful": 639,
+      "failed": 361,
+      "asr": 0.639,
+      "avg_queries": 35.12,
+      "avg_time": 3.548
+    }
+  },
+  {
+    "experiment_id": "advcodemix_mbert_sentiment_ta",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-18T16:31:03.459551",
+    "results": {
+      "total": 1000,
+      "successful": 634,
+      "failed": 366,
+      "asr": 0.634,
+      "avg_queries": 36.6,
+      "avg_time": 4.141
+    }
+  },
+  {
+    "experiment_id": "advcodemix_xlmr_offensive_ta",
+    "task": "offensive",
+    "victim_model": "xlmr",
+    "completed_at": "2026-06-18T17:35:02.200563",
+    "results": {
+      "total": 1000,
+      "successful": 600,
+      "failed": 400,
+      "asr": 0.6,
+      "avg_queries": 36.08,
+      "avg_time": 3.638
+    }
+  },
+  {
+    "experiment_id": "advcodemix_muril_offensive_ta",
+    "task": "offensive",
+    "victim_model": "muril",
+    "completed_at": "2026-06-18T18:35:19.415981",
+    "results": {
+      "total": 1000,
+      "successful": 570,
+      "failed": 430,
+      "asr": 0.57,
+      "avg_queries": 36.49,
+      "avg_time": 3.403
+    }
+  },
+  {
+    "experiment_id": "advcodemix_mbert_offensive_ta",
+    "task": "offensive",
+    "victim_model": "mbert",
+    "completed_at": "2026-06-18T19:47:22.648908",
+    "results": {
+      "total": 1000,
+      "successful": 513,
+      "failed": 487,
+      "asr": 0.513,
+      "avg_queries": 38.27,
+      "avg_time": 4.105
+    }
+  }
+]

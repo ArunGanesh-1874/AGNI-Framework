@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_xlmr_hate_hi",
+  "task": "hate",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-18T12:01:56.619654",
+  "results": {
+    "total": 339,
+    "successful": 192,
+    "failed": 147,
+    "asr": 0.5664,
+    "avg_queries": 70.46,
+    "avg_time": 9.133
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_muril_offensive_ta",
+  "task": "offensive",
+  "victim_model": "muril",
+  "completed_at": "2026-06-18T18:35:19.415981",
+  "results": {
+    "total": 1000,
+    "successful": 570,
+    "failed": 430,
+    "asr": 0.57,
+    "avg_queries": 36.49,
+    "avg_time": 3.403
+  }
+}

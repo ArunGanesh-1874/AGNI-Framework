@@ -1,0 +1,23 @@
+{
+  "experiment_id": "comixattack_mbert_offensive",
+  "language_pair": "ta-en",
+  "task": "offensive",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-23T14:51:58.638853",
+  "results": {
+    "total": 1000,
+    "successful": 98,
+    "failed": 902,
+    "asr": 0.098,
+    "avg_queries": 11.17,
+    "avg_time": 1.388,
+    "p1_used": 12,
+    "p2_used": 958,
+    "p3_used": 0,
+    "p4_used": 55,
+    "p5_used": 1,
+    "p6_used": 60,
+    "p7_used": 2,
+    "pc_used": 58
+  }
+}

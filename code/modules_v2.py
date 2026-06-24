@@ -142,6 +142,8 @@ class LanguageDetector:
         'avanga','inga','avaru','ivaru','yaar','yaaru',
         'unna','enna','avana','avala','namma','ungaluku',
         'enaku','avanuku','avaluku','namaku','ellorum',
+        'avanugaluku','avalugaluku','naangaluku','neengaluku',
+        'avan','aval','avanga','ivan','ival','ivanga',
         # Verbs
         'paaru','paaren','paakuren','paakureen','paarunga',
         'iruku','iruken','irukken','irukkean','illai','illa',
@@ -151,10 +153,35 @@ class LanguageDetector:
         'paesu','pesu','pesunga','kelu','kelunga',
         'theriyum','theriyaadu','puriguthu','puriyala',
         'pannuven','panren','panuvom','seiven','seivom',
-        # Adjectives
+        'varuvaan','varuvaal','varuvaanga','poovaan','poovaal',
+        'solluvaen','solluvaanga','ketpaen','ketpaanga',
+        'paakuvaen','paakuvaanga','pannuvaen','pannuvaanga',
+        'tharuvaen','tharuvaanga','vaanguvaen','vaanguvaanga',
+        'padikiren','padikireen','padikaama','padichuten',
+        'paarkirein','paarkiren','paarkiraanga','paarthuten',
+        'pesikireen','pesikiren','pesikiraanga','pesichuten',
+        'seikireen','seikiren','seikitraanga','seithuten',
+        # Adjectives - expanded
         'nallavan','nallavana','kettavan','periya','sinna',
         'azhaga','azhagana','mosama','mosaman','bayangara',
         'arumai','arumaiyana','mukkiyam','mukkiyamana',
+        'nalladhu','kettadhu','periadhu','sinnadhu',
+        'azhagana','mosam','bayangaram','arumaiyana',
+        'mudiyum','mudiyaadhu','vennum','vaenum','venda',
+        'santhosham','sandhosham','dukham','kovam','aasai',
+        'bayam','nambikai','unmai','poi','nalla','ketta',
+        'mukkiyam','saadharana','asamaanya','therinja','theriyaadha',
+        # Sentiment words
+        'nalla','nalladhu','nallavan','nallavana','nallaa',
+        'ketta','kettadhu','kettavan','kettavana','kettaa',
+        'super','superaa','supera','semma','mass','vera level',
+        'mokka','mokkaa','worst','worsta','pathetic','pathetica',
+        'happy','happya','sad','sada','angry','angrya',
+        'love','lovea','hate','hatea','like','likea',
+        'beautiful','beautifula','ugly','uglya','cute','cutea',
+        'santhosham','sandhosham','dukham','kovam','aasai',
+        'payam','bayam','nambikai','niraisaa','erichal',
+        'kalakuran','kalakkiraan','mass pannuran','semma pannuran',
         # Common expressions
         'machan','machen','machaan','da','di','nga','pa','ma',
         'seri','saeri','otay','okay','sari','dei','dei',
@@ -167,10 +194,42 @@ class LanguageDetector:
         'scene','setting','matter','problem','solution',
         'kaduppu','kaduppe','bore','borea','interest','interestaa',
         'feel','feelaa','mood','moodaa','vibe','vibea',
-        # Time/place
+        'kadhal','anbu','piriya','virumbu','pidi','pidika',
+        'veruppu','erchu','erichal','kovam','thappu','sari',
+        'unmai','poi','nambikkai','nambikai','thelivu','sandegam',
+        # Social media expressions
+        'lol','lola','haha','hahaha','omg','omga','wow','wowa',
+        'bro','broa','da','di','pa','ma','nga','ra',
+        'illa','illai','ama','aama','seri','sari','okay','ok',
+        'yellam','ellam','onnum','onum','yaarum','aarum',
+        'epovum','eppoovum','ennavum','onnavum','evanum','evanum',
+        # Time/place - expanded
         'ippo','ippO','appo','appO','naalaiku','inniku',
         'mudila','munnaadi','pinnaadi','mela','kela',
         'vaitu','veetla','schoolla','collegela','officela',
+        'kaalaila','maalaila','raathiri','pakal','neram',
+        'inniki','naalaiku','netchathiram','vaaram','maasam',
+        'idatha','adatha','yedathula','engeyum','engum',
+        'veetula','schoolla','collegela','officela','hospitalla',
+        # Intensifiers
+        'romba','rombha','rumba','konjam','adhigam','oru vaela',
+        'super','semma','mass','vera level','kalakkal',
+        'mokka','bekar','worst','pathetic','useless',
+        'thaan','dhaan','kuda','kooda','mattum','matum',
+        'ellam','yellam','onnum','onum','vera','veru',
+        # Hate speech related Tamil words
+        'thevdiya','ommala','punda','otha','koothi',
+	'sunni','oombu','olu','poolu','ooka','soothu', 
+        'paiyan','ponna','aalu','naaye','kazhudhai',
+        'mudarikku','thayoli','loosu','paithiyam','mental',
+        'vekkam','maanam','mosam','kevalama','azhukku',
+        'racist','casteist','communal','violence','attack',
+        'hate','hateful','offensive','abuse','abusive',
+        # Discourse markers
+        'aana','aanaa','aadha','aadhaan','aaganaa','aagadhu',
+        'adhukku','idhukkku','idhukku','andha','indha',
+        'appuram','ipuram','mudichitu','mudinja','mudiyala',
+        'therinja','theriyaama','pakkaama','paathitten','illana',
     }
 
     def detect(self, token: str, script: str,
@@ -198,7 +257,8 @@ class InputProcessor:
         self.lang_det       = LanguageDetector()
 
     def process(self, text: str,
-                budget: float = 0.40) -> Dict:
+                budget: float = 0.40,
+                restrict_to_target_language: bool = False) -> Dict:
         tokens      = text.strip().split()
         orig_result = self.predict(text)
 
@@ -255,10 +315,11 @@ class InputProcessor:
             pos for pos, _ in scores[:n_candidates]
         }
         # Force-include English sentiment words as candidates
+        # — only when NOT restricted to target-language tokens (AGNI-Full behavior)
         for tok in processed_tokens:
             if tok['position'] in top_positions:
                 tok['is_candidate'] = True
-            elif tok['text'].lower() in ENGLISH_SENTIMENT:
+            elif (not restrict_to_target_language) and tok['text'].lower() in ENGLISH_SENTIMENT:
                 tok['is_candidate'] = True
 
         return {
@@ -330,9 +391,11 @@ class PhoneticGenerator:
 
 
 class CharacterGenerator:
-    def generate(self, token_dict):
+    def generate(self, token_dict, restrict_to_target_language=False):
         token    = token_dict['text']
         language = token_dict['language']
+        if restrict_to_target_language and language == 'en':
+            return []
         if len(token) < 3:
             return []
         candidates  = []
@@ -513,38 +576,83 @@ class TransliterationVariantGenerator:
     }
 
     TAMIL_VARIANTS = {
+        # Greetings
         'vanakkam':['vanakam','vanagam','vanakkum'],
-        'romba':['rombha','rumba','rombaa'],
-        'nalla':['nala','nallah','nallaaa'],
-        'paaru':['paro','paaro','parunga'],
-        'iruku':['irukku','irruku','irukuu'],
+        'romba':['rombha','rombaa','rumba'],
+        'nalla':['nala','nallah','nallaa'],
+        'super':['superaa','supera','supper'],
+        'semma':['semmaa','sema','semba'],
+        'mass':['maas','massaa','maass'],
+        'vera':['veraa','verraa','verra'],
+        # Pronouns
+        'naan':['naaan','naanu','nan'],
+        'nee':['neee','neeye','ni'],
+        'avan':['avaan','avann','avane'],
+        'aval':['avaal','avall','avale'],
+        'naanga':['naangaa','naangga','nanga'],
+        'neenga':['neengaa','neengga','nenga'],
+        'enna':['yenna','ena','ennada'],
+        'unna':['unnaa','unnda','una'],
+        # Common words
+        'machan':['machen','machaan','macha'],
+        'seri':['sari','seeri','seriya'],
+        'okay':['okayaa','okaa','okey'],
+        'aama':['aamaa','aamaaa','aamma'],
         'illai':['ilai','illa','illaiye'],
         'illa':['illai','illaiye','ila'],
-        'machan':['machen','machaan','macha'],
-        'sollu':['solu','solluu','sollunga'],
-        'enna':['yenna','ena','ennada'],
-        'seri':['sari','seeri','seriya'],
+        'ippo':['ippoo','ippou','ippa'],
         'epdi':['eppadi','eppdi','epadi'],
-        'konjam':['konjem','konjum','konjaam'],
-        'romba':['rombha','rombaa','rumba'],
-        'super':['superaa','supera','superrr'],
-        'semma':['semmaa','semmaaa','sema'],
-        'mass':['maas','massaa','maass'],
-        'vera':['veraa','verraa','vera'],
-        'naan':['naaan','naanu','nanu'],
-        'nee':['neee','neeye','neenga'],
-        'poda':['podaa','podaaa','pottaa'],
-        'mokka':['mokkaa','mokkah','moka'],
-        'kaduppu':['kaduppe','kadupuu','kadupu'],
-        'ippo':['ippoo','ippou','ippooo'],
-        'naalaiku':['nalaiku','naalaikku','nalaikku'],
-        'inniku':['innikku','innikkuu','inikku'],
-        'theriyum':['theriyumm','theriyuma','teriuma'],
-        'puriguthu':['puriyuthu','puriyithu','puriguthu'],
-        'aama':['aamaa','aamaaa','aamma'],
+        'enge':['engey','engaa','enga'],
+        'eppo':['eppoo','eppov','eppa'],
+        # Verbs
+        'paaru':['paro','paaro','parunga'],
+        'iruku':['irukku','irruku','irukuu'],
+        'sollu':['solu','solluu','sollunga'],
+        'vaa':['vaaa','vaang','vaanga'],
+        'po':['poo','pooo','ponga'],
+        'podu':['poduu','podunga','podung'],
+        'saapu':['saapdu','saapidu','saapitu'],
+        'paesu':['pesu','pesuu','pesunga'],
+        'kelu':['keluu','kelunga','keling'],
+        'pannuven':['pannuvaen','panniduven','pannidren'],
+        'seiven':['seikireen','seivaen','seiyaen'],
+        'padikiren':['padikireen','padikiraen','padichen'],
+        # Adjectives/sentiment
+        'nallavan':['nallavaan','nallavaane','nallavane'],
+        'kettavan':['kettavaan','kettavaane','kettavane'],
+        'azhaga':['azhagaa','azhakaa','azhagana'],
+        'mosama':['mosamaa','mosamaaa','mosam'],
+        'periya':['periyaa','periyaaa','peria'],
+        'sinna':['sinnaa','sinnaaa','china'],
+        'mukkiyam':['mukkiyamaa','mukkiam','mukiyam'],
+        # Expressions
         'dei':['dey','deii','deyyy'],
         'da':['daa','daaa','dah'],
         'nga':['ngaa','ngaaa','nnga'],
+        'poda':['podaa','podaaa','pottaa'],
+        'mokka':['mokkaa','mokkah','moka'],
+        'kaduppu':['kaduppe','kadupuu','kadupu'],
+        'naalaiku':['nalaiku','naalaikku','nalaikku'],
+        'inniku':['innikku','innikkuu','inikku'],
+        # Sentiment expressions
+        'santhosham':['sandhosham','sandosham','santhosam'],
+        'dukham':['dukam','dukkam','dhukkam'],
+        'kovam':['kovaam','kobam','koopam'],
+        'aasai':['asai','aasaai','aasaay'],
+        'kadhal':['kaadhal','kaadal','kadal'],
+        'anbu':['anbuu','anpuu','anpu'],
+        'veruppu':['verupu','verruppuu','verrupu'],
+        'nambikai':['nambikkai','nambikay','nambikkai'],
+        # Discourse markers
+        'theriyum':['theriyumm','theriyuma','teriuma'],
+        'puriguthu':['puriyuthu','puriyithu','puriyuthu'],
+        'konjam':['konjem','konjum','konjaam'],
+        'mudinja':['mudincha','mudinjaa','mudinjaa'],
+        'therinja':['therincha','therinjaa','therinjaa'],
+        # Social media
+        'kalakkal':['kalakkalaa','kalakal','kalakkalaa'],
+        'paithiyam':['paithiam','paidhiyam','paithiyamaa'],
+        'loosu':['loosuu','loosaa','lusuu'],
     }
 
     def __init__(self, language_pair):
@@ -629,19 +737,47 @@ class MorphologicalGenerator:
     }
 
     TAMIL_PARADIGMS = {
-        'irukken':['irukkeaan','irukkean','irukkaan'],
-        'paakuren':['paakureen','paakuraan','paakurean'],
-        'illai':['illa','illaiye','illaiyaa'],
-        'illa':['illai','illaiye','illaiyaa'],
-        'nalla':['nallavan','nallavana','nalladu'],
-        'paaru':['paaren','paarunga','paarttaan'],
-        'sollu':['sollunga','solluvaan','solunga'],
-        'vaa':['vaanga','varuvan','varuvaan'],
-        'po':['ponga','poovaan','poovaal'],
-        'saapu':['saapidu','saapiduvaan','saapituvaanga'],
-        'iruku':['irukkaan','irukaal','irukkaanga'],
-        'puriguthu':['puriyuthu','puriyala','purinjuchu'],
-        'theriyum':['theriyaadu','therinjuchu','theriyumaa'],
+        # Verb conjugations
+        'irukken':['irukkeaan','irukkean','irukkaan','irukkiren'],
+        'paakuren':['paakureen','paakuraan','paakurean','paakiren'],
+        'illai':['illa','illaiye','illaiyaa','illena'],
+        'illa':['illai','illaiye','illaiyaa','illena'],
+        'nalla':['nallavan','nallavana','nalladu','nalladhu'],
+        'paaru':['paaren','paarunga','paarttaan','paarthaan'],
+        'sollu':['sollunga','solluvaan','solunga','solluvaal'],
+        'vaa':['vaanga','varuvan','varuvaan','varuvaal'],
+        'po':['ponga','poovaan','poovaal','povaanga'],
+        'saapu':['saapidu','saapiduvaan','saapituvaanga','saapiduvaal'],
+        'iruku':['irukkaan','irukaal','irukkaanga','irukkiral'],
+        'puriguthu':['puriyuthu','puriyala','purinjuchu','puriyuthu'],
+        'theriyum':['theriyaadu','therinjuchu','theriyumaa','theriyaadhu'],
+        # Additional verb paradigms
+        'pannuran':['pannuraan','pannuvaan','pannuvaal','pannuvaanga'],
+        'paakiran':['paakiraen','paakiiraan','paakiraanga','paakiraal'],
+        'pesiran':['pesiraen','pesiraan','pesiraanga','pesiraal'],
+        'seiran':['seiraen','seiraan','seiraanga','seiraal'],
+        'varuvan':['varuvaan','varuvaal','varuvaanga','varuvom'],
+        'poovan':['poovaan','poovaal','poovaanga','poovom'],
+        'solluvaan':['solluvaanga','solluvaal','solluvom','solluvaen'],
+        'paarthaan':['paarthaanga','paarthaal','paarthom','paarthaen'],
+        # Adjective paradigms
+        'nallavan':['nallavaanga','nallavaal','nallavanukku','nallavalukku'],
+        'kettavan':['kettavaanga','kettavaal','kettavanukku','kettavalukku'],
+        'periyavan':['periyavaanga','periyavaal','periyavanukku','periyavalukku'],
+        'sinnavan':['sinnavaanga','sinnavaal','sinnavanukku','sinnavalukku'],
+        # Noun paradigms
+        'veedu':['veetula','veetukku','veetta','veettukku'],
+        'ooru':['oorula','oorukku','oorda','oordukku'],
+        'paeru':['paerul','paerukku','paeroda','paerodukku'],
+        'kaadhal':['kaadhalula','kaadhalkku','kaadhala','kaadhalukku'],
+        'nanbam':['nanbamula','nanbamkku','nanbama','nanbamukku'],
+        'kovam':['kovamula','kovamkku','kovama','kovamukku'],
+        'santhosham':['santhoshamula','santhoshamkku','santhoshama','santhoshamukku'],
+        # Tense variations
+        'vandhen':['vandhaen','vandhom','vandhaanga','vandhaal'],
+        'ponaen':['ponom','ponaanga','ponaal','ponaan'],
+        'paarthenn':['paarthenom','paarthaanga','paarthaal','paarthaan'],
+        'sonnean':['sonnom','sonnaanga','sonnaal','sonnaan'],
     }
 
     def __init__(self, language_pair):
@@ -766,11 +902,13 @@ class CodeSwitchingGenerator:
 
 class PerturbationEngine:
     def __init__(self, language_pair='hi-en',
-                 active_types=None):
+                 active_types=None,
+                 restrict_to_target_language=False):
         # Default includes P7
         self.active_types = active_types or [
             'P1','P2','P3','P4','P5','P6','P7','PC'
         ]
+        self.restrict_to_target_language = restrict_to_target_language
         self.generators = {
             'P1': PhoneticGenerator(language_pair),
             'P2': CharacterGenerator(),
@@ -785,6 +923,14 @@ class PerturbationEngine:
     def generate_candidates(self, token_dict):
         all_candidates = []
         for ptype in self.active_types:
+            if ptype == 'P2' and 'P2' in self.generators:
+                all_candidates.extend(
+                    self.generators['P2'].generate(
+                        token_dict,
+                        restrict_to_target_language=self.restrict_to_target_language
+                    )
+                )
+                continue
             if ptype in self.generators:
                 all_candidates.extend(
                     self.generators[ptype].generate(token_dict)

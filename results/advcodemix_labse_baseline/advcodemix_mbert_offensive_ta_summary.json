@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_mbert_offensive_ta",
+  "task": "offensive",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-18T19:47:22.648908",
+  "results": {
+    "total": 1000,
+    "successful": 513,
+    "failed": 487,
+    "asr": 0.513,
+    "avg_queries": 38.27,
+    "avg_time": 4.105
+  }
+}

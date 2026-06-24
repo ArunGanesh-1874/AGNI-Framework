@@ -137,7 +137,8 @@ for (task, model_name, model_path, test_file, label2id) in EXPERIMENTS:
 
     # Setup modules
     engine    = PerturbationEngine(language_pair=LANGUAGE_PAIR,
-                                   active_types=['P1','P2','P3','P4','P5','P6','P7','PC'])
+                                   active_types=['P1','P2','P3','P4','P5','P6','P7','PC'],
+                                   restrict_to_target_language=True)
     validator = ValidationModule(labse, predict_fn,
                                  threshold=0.80, task=task)
     processor = InputProcessor(predict_fn, get_conf_fn,
@@ -153,8 +154,8 @@ for (task, model_name, model_path, test_file, label2id) in EXPERIMENTS:
     for idx, row in enumerate(selected):
         try:
             text = str(row['text'])
-            processed = processor.process(text, budget=0.60)
-            result    = searcher.search(processed, engine, budget=0.60)
+            processed = processor.process(text, budget=0.40, restrict_to_target_language=True)
+            result    = searcher.search(processed, engine, budget=0.40)
             output_gen.save_example(result, idx)
             output_gen.print_progress(interval=100)
         except Exception as e:

@@ -113,6 +113,8 @@ def textfooler_attack(text, predict_fn, get_conf_fn,
     query_count = 0
 
     # Step 1: Word importance ranking
+    # Note: Stop word filter omitted — English stopword lists
+    # do not apply to code-mixed Hindi/Tamil tokens
     scores = []
     for i, token in enumerate(tokens):
         if len(token) <= 1:
