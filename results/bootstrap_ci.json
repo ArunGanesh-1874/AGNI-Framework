@@ -1,0 +1,218 @@
+[
+  {
+    "method": "AGNI-Full",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "asr": 0.886,
+    "ci_lower": 0.866,
+    "ci_upper": 0.905,
+    "n": 1000
+  },
+  {
+    "method": "AGNI-Full",
+    "lang": "hinglish",
+    "task": "hate",
+    "asr": 0.5634,
+    "ci_lower": 0.5103,
+    "ci_upper": 0.6165,
+    "n": 339
+  },
+  {
+    "method": "AGNI-Strict",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "asr": 0.249,
+    "ci_lower": 0.222,
+    "ci_upper": 0.276,
+    "n": 1000
+  },
+  {
+    "method": "AGNI-Strict",
+    "lang": "hinglish",
+    "task": "hate",
+    "asr": 0.2035,
+    "ci_lower": 0.1622,
+    "ci_upper": 0.2478,
+    "n": 339
+  },
+  {
+    "method": "DeepWordBug",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "asr": 0.903,
+    "ci_lower": 0.884,
+    "ci_upper": 0.921,
+    "n": 1000
+  },
+  {
+    "method": "DeepWordBug",
+    "lang": "hinglish",
+    "task": "hate",
+    "asr": 0.5398,
+    "ci_lower": 0.4867,
+    "ci_upper": 0.5929,
+    "n": 339
+  },
+  {
+    "method": "TextFooler",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "asr": 0.916,
+    "ci_lower": 0.898,
+    "ci_upper": 0.933,
+    "n": 1000
+  },
+  {
+    "method": "TextFooler",
+    "lang": "hinglish",
+    "task": "hate",
+    "asr": 0.6903,
+    "ci_lower": 0.6401,
+    "ci_upper": 0.7404,
+    "n": 339
+  },
+  {
+    "method": "Random",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "asr": 0.328,
+    "ci_lower": 0.299,
+    "ci_upper": 0.357,
+    "n": 1000
+  },
+  {
+    "method": "Random",
+    "lang": "hinglish",
+    "task": "hate",
+    "asr": 0.1268,
+    "ci_lower": 0.0914,
+    "ci_upper": 0.1622,
+    "n": 339
+  },
+  {
+    "method": "AdvCodeMix",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "asr": 0.916,
+    "ci_lower": 0.898,
+    "ci_upper": 0.933,
+    "n": 1000
+  },
+  {
+    "method": "AdvCodeMix",
+    "lang": "hinglish",
+    "task": "hate",
+    "asr": 0.5664,
+    "ci_lower": 0.5133,
+    "ci_upper": 0.6195,
+    "n": 339
+  },
+  {
+    "method": "AGNI-Full",
+    "lang": "tamil",
+    "task": "sentiment",
+    "asr": 0.753,
+    "ci_lower": 0.726,
+    "ci_upper": 0.78,
+    "n": 1000
+  },
+  {
+    "method": "AGNI-Full",
+    "lang": "tamil",
+    "task": "offensive",
+    "asr": 0.647,
+    "ci_lower": 0.617,
+    "ci_upper": 0.676,
+    "n": 1000
+  },
+  {
+    "method": "AGNI-Strict",
+    "lang": "tamil",
+    "task": "sentiment",
+    "asr": 0.277,
+    "ci_lower": 0.249,
+    "ci_upper": 0.305,
+    "n": 1000
+  },
+  {
+    "method": "AGNI-Strict",
+    "lang": "tamil",
+    "task": "offensive",
+    "asr": 0.187,
+    "ci_lower": 0.163,
+    "ci_upper": 0.212,
+    "n": 1000
+  },
+  {
+    "method": "DeepWordBug",
+    "lang": "tamil",
+    "task": "sentiment",
+    "asr": 0.662,
+    "ci_lower": 0.633,
+    "ci_upper": 0.69,
+    "n": 1000
+  },
+  {
+    "method": "DeepWordBug",
+    "lang": "tamil",
+    "task": "offensive",
+    "asr": 0.55,
+    "ci_lower": 0.519,
+    "ci_upper": 0.581,
+    "n": 1000
+  },
+  {
+    "method": "TextFooler",
+    "lang": "tamil",
+    "task": "sentiment",
+    "asr": 0.515,
+    "ci_lower": 0.484,
+    "ci_upper": 0.546,
+    "n": 1000
+  },
+  {
+    "method": "TextFooler",
+    "lang": "tamil",
+    "task": "offensive",
+    "asr": 0.469,
+    "ci_lower": 0.438,
+    "ci_upper": 0.5,
+    "n": 1000
+  },
+  {
+    "method": "Random",
+    "lang": "tamil",
+    "task": "sentiment",
+    "asr": 0.207,
+    "ci_lower": 0.182,
+    "ci_upper": 0.233,
+    "n": 1000
+  },
+  {
+    "method": "Random",
+    "lang": "tamil",
+    "task": "offensive",
+    "asr": 0.129,
+    "ci_lower": 0.109,
+    "ci_upper": 0.15,
+    "n": 1000
+  },
+  {
+    "method": "AdvCodeMix",
+    "lang": "tamil",
+    "task": "sentiment",
+    "asr": 0.692,
+    "ci_lower": 0.663,
+    "ci_upper": 0.721,
+    "n": 1000
+  },
+  {
+    "method": "AdvCodeMix",
+    "lang": "tamil",
+    "task": "offensive",
+    "asr": 0.6,
+    "ci_lower": 0.569,
+    "ci_upper": 0.63,
+    "n": 1000
+  }
+]
