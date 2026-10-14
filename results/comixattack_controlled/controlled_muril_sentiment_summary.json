@@ -1,0 +1,23 @@
+{
+  "experiment_id": "controlled_muril_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "muril",
+  "completed_at": "2026-09-28T15:54:34.764565",
+  "results": {
+    "total": 1000,
+    "successful": 836,
+    "failed": 164,
+    "asr": 0.836,
+    "avg_queries": 26.78,
+    "avg_time": 4.24,
+    "p1_used": 34,
+    "p2_used": 2729,
+    "p3_used": 33,
+    "p4_used": 27,
+    "p5_used": 3,
+    "p6_used": 32,
+    "p7_used": 15,
+    "pc_used": 143
+  }
+}

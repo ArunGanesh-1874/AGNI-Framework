@@ -1,0 +1,92 @@
+{
+  "hinglish": {
+    "results": {
+      "AGNI-Full": {
+        "naturalness": 3.066,
+        "meaning": 3.395,
+        "codemix": 3.158,
+        "n": 76
+      },
+      "AGNI-Strict": {
+        "naturalness": 3.113,
+        "meaning": 3.419,
+        "codemix": 3.194,
+        "n": 62
+      },
+      "DeepWordBug": {
+        "naturalness": 3.112,
+        "meaning": 3.375,
+        "codemix": 3.112,
+        "n": 80
+      },
+      "TextFooler": {
+        "naturalness": 3.167,
+        "meaning": 3.182,
+        "codemix": 3.0,
+        "n": 66
+      },
+      "Random": {
+        "naturalness": 3.513,
+        "meaning": 3.333,
+        "codemix": 3.141,
+        "n": 78
+      },
+      "AdvCodeMix": {
+        "naturalness": 3.127,
+        "meaning": 3.338,
+        "codemix": 3.042,
+        "n": 71
+      }
+    },
+    "alpha": {
+      "alpha_naturalness": 0.0172,
+      "alpha_meaning": 0.0352,
+      "alpha_codemix": 0.0501
+    }
+  },
+  "tamil": {
+    "results": {
+      "AGNI-Full": {
+        "naturalness": 3.55,
+        "meaning": 3.45,
+        "codemix": 3.258,
+        "n": 120
+      },
+      "AGNI-Strict": {
+        "naturalness": 3.496,
+        "meaning": 3.348,
+        "codemix": 3.304,
+        "n": 115
+      },
+      "DeepWordBug": {
+        "naturalness": 3.218,
+        "meaning": 3.143,
+        "codemix": 3.176,
+        "n": 119
+      },
+      "TextFooler": {
+        "naturalness": 2.389,
+        "meaning": 2.195,
+        "codemix": 2.283,
+        "n": 113
+      },
+      "Random": {
+        "naturalness": 3.218,
+        "meaning": 3.109,
+        "codemix": 3.109,
+        "n": 119
+      },
+      "AdvCodeMix": {
+        "naturalness": 2.904,
+        "meaning": 2.781,
+        "codemix": 2.825,
+        "n": 114
+      }
+    },
+    "alpha": {
+      "alpha_naturalness": -0.0091,
+      "alpha_meaning": -0.0077,
+      "alpha_codemix": -0.0056
+    }
+  }
+}

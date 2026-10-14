@@ -1,0 +1,23 @@
+{
+  "experiment_id": "controlled_mbert_hate",
+  "language_pair": "hi-en",
+  "task": "hate",
+  "victim_model": "mbert",
+  "completed_at": "2026-09-29T06:58:10.092593",
+  "results": {
+    "total": 498,
+    "successful": 400,
+    "failed": 98,
+    "asr": 0.8032,
+    "avg_queries": 26.3,
+    "avg_time": 3.928,
+    "p1_used": 53,
+    "p2_used": 1136,
+    "p3_used": 31,
+    "p4_used": 35,
+    "p5_used": 5,
+    "p6_used": 34,
+    "p7_used": 8,
+    "pc_used": 66
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "agni_p2only_xlmr_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-09-29T08:14:10.924501",
+  "results": {
+    "total": 1000,
+    "successful": 887,
+    "failed": 113,
+    "asr": 0.887,
+    "avg_queries": 26.01,
+    "avg_time": 4.035,
+    "p1_used": 0,
+    "p2_used": 3474,
+    "p3_used": 0,
+    "p4_used": 0,
+    "p5_used": 0,
+    "p6_used": 0,
+    "p7_used": 0,
+    "pc_used": 0
+  }
+}

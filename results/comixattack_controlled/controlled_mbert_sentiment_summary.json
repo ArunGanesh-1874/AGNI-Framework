@@ -1,0 +1,23 @@
+{
+  "experiment_id": "controlled_mbert_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "mbert",
+  "completed_at": "2026-09-28T17:15:30.362383",
+  "results": {
+    "total": 1000,
+    "successful": 862,
+    "failed": 138,
+    "asr": 0.862,
+    "avg_queries": 27.54,
+    "avg_time": 4.359,
+    "p1_used": 54,
+    "p2_used": 2751,
+    "p3_used": 32,
+    "p4_used": 39,
+    "p5_used": 4,
+    "p6_used": 70,
+    "p7_used": 29,
+    "pc_used": 137
+  }
+}

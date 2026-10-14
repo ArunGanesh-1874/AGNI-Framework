@@ -1,0 +1,2102 @@
+[
+  {
+    "pair_id": "tamil_Random_004",
+    "method": "Random",
+    "original": "thala always  thala dha da",
+    "adversarial": "thlaa always trala dha da",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_033",
+    "method": "TextFooler",
+    "original": "வாழ்த்துக்கள்  ...sir I'm cuddalore support",
+    "adversarial": "வாழ்த்துக்கள் ...sir I'm cuddalore aids",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_046",
+    "method": "Random",
+    "original": "Trailer paathutey irukkanum polavey irukku .,,,Athan thala pola ......",
+    "adversarial": "Trailer paathutey irukkanum polavey iurkku .,,,than thalaa pola ......",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_004",
+    "method": "AdvCodeMix",
+    "original": "Trailer semaya iruku anyway congrats mohan. G",
+    "adversarial": "Trailer semaya iruku anyway cnograts mohan. G",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_024",
+    "method": "TextFooler",
+    "original": "National award confirm vankumnu solltravanka like pannunka",
+    "adversarial": "National award confirm vankumnu solltravanka adores pannunka",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_046",
+    "method": "AGNI-Strict",
+    "original": "semaaaaaaaaaaaaaaaaaaaa !!!!!!!!!!   thalaiva iam waiting",
+    "adversarial": "semaaaaaaaaaaaaaaaaaaaa !!!!!!!!!! thalaiva iam waiting",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_023",
+    "method": "TextFooler",
+    "original": "Sivakumar naala surya market aey poochu... disliked for Shiva Kumar",
+    "adversarial": "Sivakumar naala surya market aey poochu... hates for Shiva Kumar",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_010",
+    "method": "AdvCodeMix",
+    "original": "Vijay sethupathi....   ..... Mass Thala Nee....",
+    "adversarial": "Vijay sethupathi.... ..... maus Thala Nee....",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_001",
+    "method": "AdvCodeMix",
+    "original": "Wow...Surya and Sai Pallavi jodi semma cute",
+    "adversarial": "Wow...Surya adn Sai Pallavi jodi seqma cute",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_044",
+    "method": "Random",
+    "original": "Enna da viswasam bgma  slow motionla potrukaan",
+    "adversarial": "Enna da viswasam bpgma slow motionla potrujkaan",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_032",
+    "method": "AGNI-Full",
+    "original": "Yuvan Music  Vera level",
+    "adversarial": "Yuvan musc vra level",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_042",
+    "method": "DeepWordBug",
+    "original": "You will see our RAGE in theaters. Thalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!",
+    "adversarial": "You will see or RAGE in teaters. tahlaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_003",
+    "method": "Random",
+    "original": "Vera level padam don't miss it guys",
+    "adversarial": "Vera level padam don't msis it guys",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_007",
+    "method": "DeepWordBug",
+    "original": "வீர வன்னியர்  இளைஞர்கள் சார்பில் வாழ்த்துக்கள்",
+    "adversarial": "வyர வன்னியர் இளைஞர்கள் சார்பில் வாf்த்துக்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_001",
+    "method": "AGNI-Strict",
+    "original": "உண்க தலயை இந்தியன் இராணுவத்தில் சேர்த்துவிடுங்கள் சீனக்கும் இந்தியாக்கும் வரைருக்க்கு பொரிலிருந்து இந்தியாவை காபாத்துவாார்",
+    "adversarial": "உண்க தலயை இந்தியன் இராணுவத்தில் சேர்த்துவிடுங்கள் சீனக்கும் இந்தியாக்கும் வரைருக்க்கு பொரிலிருந்து இந்தியாவை காபா்துவாார்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_016",
+    "method": "AGNI-Strict",
+    "original": "வன்னியர் வீரமும் பாசமும் உலகறியச் செய்வோம் திரௌபதி படம் வெற்றி அடைய  வாழ்த்துக்கள்",
+    "adversarial": "வன்னியர் வீரமும் பாசமும் உலகறியச் செய்வோம் திரௌபதி பட்ம வெற்றறி அடைய வாழ்தத்துக்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_045",
+    "method": "AGNI-Full",
+    "original": "Surya anna massssss vera level iuv so much",
+    "adversarial": "surrya anna massssss vrea level ivu so mucch",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_041",
+    "method": "AGNI-Strict",
+    "original": "Pakka pakka mass class thala vere level",
+    "adversarial": "Pakka pakka maassaa class thala vere levvel",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_041",
+    "method": "AdvCodeMix",
+    "original": "#01 ON trending in sri lanka",
+    "adversarial": "#01 ON trending in suri lwnka",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_034",
+    "method": "DeepWordBug",
+    "original": "11 milion views  confirm   paccaaaaaaaaaaaaaaa  hittz",
+    "adversarial": "11 mixion views confirm pccaaaaaaaaaaaaaaa hittz",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_013",
+    "method": "TextFooler",
+    "original": "pakathana porra pongaluku engaloda aatatha 10th JANUARY 2K19",
+    "adversarial": "pakathana porra pongaluku engaloda aatatha 10th october 2K19",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_033",
+    "method": "AGNI-Strict",
+    "original": "மண்ணு பொண்ணு ரெண்டுமே முக்கியம்....படம் வெற்றி பெற வாழ்த்துக்கள்...",
+    "adversarial": "மண்ணு பொண்ணு ரெண்டுமே முக்கியம்....படம் வெற்றறி பெற வாழ்தத்துக்கள்...",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_011",
+    "method": "AGNI-Full",
+    "original": "Thirumangalam  pillaimaar samudhaayam saarbaaga padam vetri pera vazhthugiren",
+    "adversarial": "Thirumangalam pillaimaar samudhaayam saarbaaga padam veti pera vazhthugiiren",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_028",
+    "method": "AGNI-Strict",
+    "original": "ஆதனூர் யாதவர் சார்பில் படம் வெற்றிபெர வாழ்த்தூகள்",
+    "adversarial": "ஆதனூர் யாதவர் சார்பில் படம் வெற்றறிபெர வாழழ்த்தூகள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_003",
+    "method": "AdvCodeMix",
+    "original": "Kola Verithanam Trailer   Award Kandipa Kedaikkun",
+    "adversarial": "Kola Verithanam Trailer awxard Kandipa Kedaikkun",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_012",
+    "method": "Random",
+    "original": "Marana Mass... back to Back... May31 NGK , Aug kaapan",
+    "adversarial": "mraana mass..g. baock to backh... May31 NGK , Aug kaapan",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_032",
+    "method": "AdvCodeMix",
+    "original": "style la irukkena?? .... naturally!!!  Vera level thalaiva",
+    "adversarial": "style la irukkena?? ..h.. nagurally!!! Vera lezel thalaiva",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_015",
+    "method": "TextFooler",
+    "original": "Waste padam tharu maru flop aamai nakkis",
+    "adversarial": "junk padam tharu maru fiasco aamai nakkis",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_048",
+    "method": "AdvCodeMix",
+    "original": "Rangaraj Pandey rockzzzz🤗 Welcome to Tamil cinema",
+    "adversarial": "ranaraj Pandey rockzzzz🤗 wlecome to Tamil cinema",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_043",
+    "method": "Random",
+    "original": "Vijay Kumar i'm waitting for you!! :)",
+    "adversarial": "Vijay kumra i'm waitting fyr you!! :)",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_039",
+    "method": "Random",
+    "original": "Asuran hit aagum nu ninaikuravanga like panunga",
+    "adversarial": "Asuran hut aagum nu ninaikuravanga like panuyga",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_028",
+    "method": "AGNI-Full",
+    "original": "திரெளபதி திரைப்படம் வெற்றி பெற வாழ்த்துக்கள் அன்னா...",
+    "adversarial": "திரெளபதி திரைப்படம் வெற்றி பெற வா்த்துக்கள் அன்னனா...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_005",
+    "method": "TextFooler",
+    "original": "Visuals lam vera level periya budget padam maari iruku",
+    "adversarial": "Visuals lam vera plano periya budget padam maari iruku",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_043",
+    "method": "AdvCodeMix",
+    "original": "Kadasiya neeyym unga appanum phsycovathanda aga poringa",
+    "adversarial": "kladasiya neeyym unga appanum phsycovathanda aga pmringa",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_027",
+    "method": "AGNI-Full",
+    "original": "Vikram Fans From Andra Pradesh like Vikram",
+    "adversarial": "Vikram fns From Andra prdesh like Vikram",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_047",
+    "method": "AGNI-Strict",
+    "original": "Epadi mathi mathi build kodukarathum,punch dialogue illama tamil cinema eppa than da edupeenga.",
+    "adversarial": "Epadi mathi mathi build kodukarathum,punch dialogue illama tamil cinema eppa than dah edupeenga.",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_014",
+    "method": "AGNI-Full",
+    "original": "THALA Fan FROM   Belgium",
+    "adversarial": "THALA Fan FROM belgiuum",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_009",
+    "method": "AdvCodeMix",
+    "original": "thalapathy masss..... theriiii varlan va varlan va va va bairava bgm semma gethuuu",
+    "adversarial": "thalapathy mosss..... theriiii varlan va varlan va va va bariava bgm siemma gethuuu",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_015",
+    "method": "AGNI-Full",
+    "original": "All the best from Arnold Schwarzenegger fans",
+    "adversarial": "All the bst from Arnold Schwarzenegger fans",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_009",
+    "method": "AGNI-Strict",
+    "original": "சமுதாயத்திற்கு மிக முக்கியமான மிக முக்கியமான ஒன்று மாபெரும் வெற்றி பெற வாழ்த்துக்கள் இப்படிக்கு மாவீரன் தம்பிகள்",
+    "adversarial": "சமுதாயத்திற்கு மிக முக்கியமான மிக முக்கியமான ஒன்று மாபெரும் வெற்றி பெற வா்த்துக்கள் இப்படிக்கு மாவீரன் தமம்பிகள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_004",
+    "method": "AGNI-Strict",
+    "original": "Singam 2 va fast forward ellama hari eduthirunthaarna 6 mani neram odum.. Idhu ethana mani neram odumo..",
+    "adversarial": "Singam 2 va tez forward ellama hari eduthirunthaarna 6 mani neram odum.. Idhu ethana mani neeram odumo..",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_002",
+    "method": "AGNI-Full",
+    "original": "Who's here after bigil trailer",
+    "adversarial": "Who's here after bigil traiiler",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_047",
+    "method": "AGNI-Full",
+    "original": "Epadi paathalum thala massssssssssssss ah irukaaru",
+    "adversarial": "Epadi paathhalum thhala maassssssssssssss ah irukaaru",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_001",
+    "method": "TextFooler",
+    "original": "theri ya chi thoo adhela oru padama therikavidhlama nammadha ajith da paradesi vijay fangale",
+    "adversarial": "theri ya chi thoo adhela oru padama therikavidhlama nammadha ajith counsel paradesi vijay fangale",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_028",
+    "method": "TextFooler",
+    "original": "Make it 800k fast... Speed up folks",
+    "adversarial": "Make it 800k fast... Speed up blokes",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_000",
+    "method": "AdvCodeMix",
+    "original": "Marana masss kaappaan teaser surya vara level ayan movie matheri kaaappaan balckbuster",
+    "adversarial": "Marana moasss kaappaan teaser surya vara elvel ayan movie matheri kaaappaan balckbuster",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_037",
+    "method": "AGNI-Strict",
+    "original": "Super thaliva intha mathiri padangal kandippa varanum......padam vetri pera vaazhththukkal",
+    "adversarial": "suppera thaliva intha mathiri padangal kandippa varanum......padam vetri pera vaazhththukkal",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_036",
+    "method": "AdvCodeMix",
+    "original": "Thalaiva Str nu Vaya unna pakka thaya wait panren love u thalaiva",
+    "adversarial": "Thalaiva sutr nu vzaya unna panka thaya wait panren love u thoalaiva",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_001",
+    "method": "Random",
+    "original": "Almost king maker AK in NKP",
+    "adversarial": "Almost knig maker AK in NKP",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_049",
+    "method": "AGNI-Strict",
+    "original": "ஐங்குலத்தோர்  விஸ்வகுலம் சார்பாக படம் வெற்றியடைய வாழ்த்துக்கள்",
+    "adversarial": "ஐங்குலத்தோர் விஸ்வகுலம் சார்பாக பம் வெற்றியடைய வாழ்தத்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_031",
+    "method": "AGNI-Strict",
+    "original": "Only for மிஷ்கின் காக மட்டுமே ......🥰",
+    "adversarial": "Only for மிஷ்கினன் காக மட்டுமே ......🥰",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_021",
+    "method": "DeepWordBug",
+    "original": "Cinematography... At peak.. love nirav sha",
+    "adversarial": "Cinematography... At peak.. loe nirav sha",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_025",
+    "method": "AGNI-Full",
+    "original": "தேனி மாவட்டம் வீரபாண்டி வெள்ளாளர் முன்னேற்ற கழகம் சார்பாக வாழ்த்துக்கள்",
+    "adversarial": "தேனி மாவட்டம் வீரபாண்டி வெள்ளாளர் முன்னேற்ற கழகம் சா்பாக வாழ்தத்துக்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_044",
+    "method": "AGNI-Strict",
+    "original": "pakkalam padam thalaivar shankar arr combo vera waiting",
+    "adversarial": "pakkalam padam thalaivar shankar arr combo vrea waiting",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_037",
+    "method": "DeepWordBug",
+    "original": "Best trailer SuparStar Rajnikaant dialogue must.....",
+    "adversarial": "Best trailer SuparStar ranikaant dialogue mukt.....",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_021",
+    "method": "AGNI-Full",
+    "original": "Vetrimaaran + Dhanush  BB",
+    "adversarial": "Vetrimaaran + dhhanush BB",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_045",
+    "method": "AdvCodeMix",
+    "original": "மாவீரன் மாவட்டத்திலிருந்து படம் வெற்றி அடைய வாழ்த்துக்களைத் தெரிவித்துக் கொள்கிறேன்",
+    "adversarial": "மாவீரன் மாவட்டத்திலிருந்து படம் வறெ்றி அடைய வாழ்த்துக்களைத் தwெரிவித்துக் களொ்கிறேன்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_038",
+    "method": "AdvCodeMix",
+    "original": "Suriya Anna Vera level    acting superb",
+    "adversarial": "sqriya Anna Vera level acting usperb",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_036",
+    "method": "AGNI-Strict",
+    "original": "Entha padam ooduma  Vj fans: adhu nadakkadhu nadakkavumkudaadhu",
+    "adversarial": "Entha padam ooduma Vj fans: adhu nadakkadhu nadakkavumkudaadhu",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_014",
+    "method": "DeepWordBug",
+    "original": "Asuran trailer no 1 go nice",
+    "adversarial": "ajuran trialer no 1 go nice",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_031",
+    "method": "TextFooler",
+    "original": "Enna da padam சாதி பு..ட படம்",
+    "adversarial": "Enna bar padam சாதி பு..ட படம்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_031",
+    "method": "AdvCodeMix",
+    "original": "ம(ப)ள்ளர்கள் சார்பாக படம் வெற்றி பெற வாழ்த்துகள்....",
+    "adversarial": "ம(ப)ள்ளர்கள் சார்பாக படa் வெற்றி பெற வழா்த்துகள்....",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_005",
+    "method": "AGNI-Strict",
+    "original": "முதல் முறையாக தமிழினத்தை வளர்க்கும் ஒரு அருமையான பதிவு. அனைத்து சமுதயத்தினரும். பெற்ற பெண்களுக்கு காட்ட வேண்டிய திரைப்படம்.. Super blockbuster movie",
+    "adversarial": "முலத் முறறையாக தமிழினத்தை வளர்க்குமம் ஒரு அரமுையான பதிவு. அனைத்தது சமுதயத்தினரும். பெற்ற பெண்களுக்கு காட்ட வேணண்டிய திரைப்படம்.. Super blockbuster movie",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_045",
+    "method": "Random",
+    "original": "#அகமுடையர் சேர்வை சார்பாக படம் வெற்றிபெற வாழ்த்துக்கள்",
+    "adversarial": "#அகமுடையர் சேர்sை சார்பாxக படம் வெற்றிபெற வாழ்த்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_018",
+    "method": "AGNI-Full",
+    "original": "தேனி மாவட்டம் ஆண்டிபட்டி தாலுகா இராஜகம்பளம் நாயக்கர் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்",
+    "adversarial": "தேனி மாவட்டம் ஆண்டிபட்டி தாலுகா இராஜகம்பளம் நாயக்கர் சார்பாக படமம் வெற்றி பெற வாழ்தத்துக்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_028",
+    "method": "AdvCodeMix",
+    "original": "சமுகத்தில் நல்ல வரவேற்பு கிடைக்கும் திரொபதி க்கு வாழ்த்துக்கள் அண்ணா",
+    "adversarial": "சமுகத்தில் நல்ல வரவேற்பு கிடைக்கும் திlரொபதி க்கு வழா்த்துக்கள் அணணா",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_046",
+    "method": "TextFooler",
+    "original": "Masssss Na massss dha pakkkkaaaaa masssssss ummmmmmhhaaaa",
+    "adversarial": "Masssss nor massss dha pakkkkaaaaa masssssss ummmmmmhhaaaa",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_017",
+    "method": "AGNI-Strict",
+    "original": "முத்தரையர்களின் சார்பில்  படம் வெற்றி  பெற  வாழ்த்துகள்...",
+    "adversarial": "முத்தரையர்களின் சார்பில் படம் வெற்றறி பெற வாழ்தத்துகள்...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_043",
+    "method": "DeepWordBug",
+    "original": "vijay vijay  vijay vijay vijay vijay vijay ann.......a",
+    "adversarial": "ivjay vijy vijay vijay vijay vijay vijay anc.......a",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_006",
+    "method": "AGNI-Strict",
+    "original": "Vadachennai ku aprom oru come back pa",
+    "adversarial": "Vadachennai ku aprom oru aao back pa",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_012",
+    "method": "AGNI-Full",
+    "original": "Full mass on August 8 vange therikevidalam",
+    "adversarial": "Full mss on August 8 vange therikevidalam",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_043",
+    "method": "AGNI-Strict",
+    "original": "Kola Verithanam Trailer   Award Kandipa Kedaikkun",
+    "adversarial": "Kola Verithanam Trailer Award Kandipa Kedaikkun",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_011",
+    "method": "TextFooler",
+    "original": "Aiyoooo intha manusanuku unmaiyave age enna nu therila pa epadi irukaru Thalapathy fans verithanam",
+    "adversarial": "Aiyoooo intha manusanuku unmaiyave age enna nu therila pa epadi irukaru Thalapathy multitudes verithanam",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_023",
+    "method": "AdvCodeMix",
+    "original": "En thalaivam eruma saani vijay oruka than trailer la vaararu da",
+    "adversarial": "En thalaivam eruma sraani vijay orua thran trailer la vqaararu da",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_004",
+    "method": "AGNI-Full",
+    "original": "Throwbathi mari padathuku serupu adi thalaivaindha padam congrtzz",
+    "adversarial": "Throwbathi mari padathukku serupu adi thalaivaindha padam coongrtzz",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_013",
+    "method": "AGNI-Strict",
+    "original": "Vijay anna na mass Adha no doubt..... teaser..... la Adha katitaga",
+    "adversarial": "Vijay anna na mass Adha nahi doubt..... teaser..... la Adha katitaga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_012",
+    "method": "AdvCodeMix",
+    "original": "Trailer semma class and mass padathiku kaathirupaa",
+    "adversarial": "Trailer syemma class and mss padathiku kaathirupaa",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_039",
+    "method": "DeepWordBug",
+    "original": "Thaliva you are great like rate super",
+    "adversarial": "theliva you are great like rate suepr",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_040",
+    "method": "AGNI-Strict",
+    "original": "Yara avan editor loosu koodhi Mayiru madhiri cut panirukan trailer ah Thu.... Kiruku thayoli",
+    "adversarial": "Yara avan editor loou koodhi Mayiru madhiri cut panirukan trailer ah Thu.... Kiruku thayyoli",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_010",
+    "method": "AGNI-Strict",
+    "original": "thala mass da otha thalaya pathi yaravathu thappa pesininga savandipan",
+    "adversarial": "thala mass daaaa otha thalaya pathi yaravathu thappa pesininga savandipan",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_048",
+    "method": "DeepWordBug",
+    "original": "Surya anna massssss vera level iuv so much",
+    "adversarial": "sruya anna massssss vera level ivu so mcuh",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_018",
+    "method": "Random",
+    "original": "Vjs ku wait pannanvanga hit like",
+    "adversarial": "Vjs ku wait pannanvanga hict like",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_008",
+    "method": "TextFooler",
+    "original": "Vera level padam don't miss it guys",
+    "adversarial": "Vera level padam don't mistook it guys",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_040",
+    "method": "AdvCodeMix",
+    "original": "Ponna thotta .. kaiya vettuvinhala. ... pollachi sambavathapo yenhada poninha ..",
+    "adversarial": "Ponna thotta .. kaiya vkttuvinhala. .z. opllachi sambavathapo yenhada ponnha ..",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_036",
+    "method": "TextFooler",
+    "original": "#01 ON trending in sri lanka",
+    "adversarial": "#01 ON trending in colombo sri",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_028",
+    "method": "Random",
+    "original": "Semmaa comedy irukku,,views ayum likes ayum paatha🤘",
+    "adversarial": "Semmaa comedy irukku,,vienws ayum likes ayum paadha🤘",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_020",
+    "method": "TextFooler",
+    "original": "1m likes hit pannnnum bro 5hr kullla",
+    "adversarial": "1m likes slugged pannnnum bro 5hr kullla",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_049",
+    "method": "TextFooler",
+    "original": "\"apadi yellam solla kudathu\"\" its awesome\"",
+    "adversarial": "\"apadi yellam solla kudathu\"\" tsm awesome\"",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_040",
+    "method": "TextFooler",
+    "original": "Ravi anna luv u so muchhhh............",
+    "adversarial": "Ravi catherine luv u similarly muchhhh............",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_024",
+    "method": "Random",
+    "original": "த்தா இததாண்டா இத்தனை நாளா எதிர்பாத்தோம்..  குருமா க்ரூப்ஸ் க்கு இப்பவே வயத்த கலக்கி இருக்கும்..",
+    "adversarial": "த்தா இததாண்டா இத்தை நாளா எதிர்பாத்தோம்.. கoுருமா க்ரூப்ஸ் க்கு இப்பவே வயதf்த கலக்கி இருக்கு்..",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_006",
+    "method": "Random",
+    "original": "Atlee inneram adutha padathuku script ready pannirupapale",
+    "adversarial": "Atlee inneram aduhha padathuku script ready pannirupapale",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_033",
+    "method": "DeepWordBug",
+    "original": "ningal masssaa i love you  vijay annaaaa",
+    "adversarial": "niegal masssaa i love you vijay ananaaa",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_020",
+    "method": "AGNI-Strict",
+    "original": "கதிர்வேல் தர்மபுரி மாவட்டம் இத்திரைப்படம் மாபெரும் வெற்றியடைய வாழ்த்துகிறோம் நம் வன்னியர் சமூகத்தினர் அனைவரும் இத்திரைப்படத்தை காண வாருங்கள்",
+    "adversarial": "கதிர்வேல் தர்மபுரி மாவட்டம் இத்திரைப்படம் மபாெரும் வெற்றியடைய வாழ்தத்துகிறோம் நம் வன்னியர் சமூகத்தினர் அனைவரும் இத்திரைப்படத்தை கணா வாரு்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_042",
+    "method": "AGNI-Full",
+    "original": "Suriya Anna and yuvan sir selva sir masss",
+    "adversarial": "suriiya Anna and yuvan sri sellva sri masss",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_027",
+    "method": "AdvCodeMix",
+    "original": "Padam vera level la iruku polaye",
+    "adversarial": "Padam veba level la iruku polaye",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_002",
+    "method": "Random",
+    "original": "நாடக காதல் கும்பல் இத பாத்துட்டு நாண்டுகிட்டு சாவட்டும்-வாழ்த்துகள்",
+    "adversarial": "நாடக காதல் குமபல் இத பாத்துட்டு நாண்டுகிட்டு சாவட்டும்-வாழ்த்தsுகள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_005",
+    "method": "AdvCodeMix",
+    "original": "AIDSPATHY Visai pans Inga vanthu aluguranunga naalaikku school iruku poi thoongungada",
+    "adversarial": "AIDSPATHY Visai phns Inga vanthu aluguranunga naalaikku school iruku poi thvoongungada",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_020",
+    "method": "AdvCodeMix",
+    "original": "சிவகங்கை மாவட்ட நடுமாங்குடி கிராம வீர முத்தரையர்கள் சார்பாக படக்குழுவுக்கு வாழ்த்துக்கள்...",
+    "adversarial": "சிவகங்கை மாவட்ட நடுமாங்குடி கிராம வீர முத்தரையர்கள் ாசர்பாக படக்குழுவுக்கு வழா்த்துக்கள்...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_019",
+    "method": "AGNI-Full",
+    "original": "Sadhi  veri comments la nalla theriyadhu.  Ivlo peru velipadaya sadhi veriya velipaduyhuringa . Kevalathin utham",
+    "adversarial": "Sadhi veri commennts la nalla theriyadhu. Ivlo peru velipadaya sadhi veriya velipaduyhuringa . keevalathin utham",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_029",
+    "method": "DeepWordBug",
+    "original": "Anyone here telugu  sai pallavi  fans",
+    "adversarial": "Anyone here telugu sai palavi fans",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_039",
+    "method": "TextFooler",
+    "original": "Suriya Anna and yuvan sir selva sir masss",
+    "adversarial": "Suriya Anna then yuvan capt selva massa masss",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_016",
+    "method": "AdvCodeMix",
+    "original": "நல்ல திரைப்படம் நல்ல விழிப்புணர்வுடன் இருந்தால் வெற்றி பெறும் இதற்க்கு சாதி எனும் சாயத்தை பூசி இன்னொரு சாதியை இழிவு படுத்துவது தவறு",
+    "adversarial": "ந்ல திரைப்படம் நல்ல விழிப்புணர்வுடன் இருந்தால் வெற்றி பெறும் இதற்க்கு சாதி எனும் சாயத்தை பூசி இன்னொரு சாதியை இழிவு டபுத்துவது தவறு",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_025",
+    "method": "AGNI-Strict",
+    "original": "Beethoven music never gets old",
+    "adversarial": "Beethoven music kabhi gets old",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_030",
+    "method": "AdvCodeMix",
+    "original": "Surya va thalaiva va thalaiva. Thalaiva masss.....",
+    "adversarial": "shurya va thalaiva va talaiva. Thalaiva masss.....",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_014",
+    "method": "TextFooler",
+    "original": "Jeyam and yogi vera level perfomence......",
+    "adversarial": "Jeyam and yogi truthful categories perfomence......",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_008",
+    "method": "AdvCodeMix",
+    "original": "Law students mattum oru like ah potutu ponga",
+    "adversarial": "Law students mattum ozu like ah potutu ponga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_016",
+    "method": "Random",
+    "original": "Poi theatre la paarunga merandruvinga ellarum!",
+    "adversarial": "Poi theatre la paarunga merandruvinga elltarum!",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_042",
+    "method": "TextFooler",
+    "original": "varalammmmmmm varalammm vaa varalam va bairavaaaa",
+    "adversarial": "varalammmmmmm varalammm vaa varalam want bairavaaaa",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_034",
+    "method": "AGNI-Full",
+    "original": "semmmmmmmaaaaaaaaaaaa performance thala Mr.Ajith sir........... Good",
+    "adversarial": "seemmmmmmmaaaaaaaaaaaa performance thhala Mr.Ajith si........... Good",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_037",
+    "method": "TextFooler",
+    "original": "Padam Vera level vetri pera vaazhthukkal",
+    "adversarial": "Padam Vera ranking vetri worm vaazhthukkal",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_000",
+    "method": "DeepWordBug",
+    "original": "Sagadikanum ponnugala emathi kootinu pora naigkaa 100 trailer sema",
+    "adversarial": "Sagadikanum ponnugala emathi kootinu pora naigkaa 100 trailer seya",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_043",
+    "method": "AGNI-Full",
+    "original": "Intha bgm mobile la piano app use panna athula varum",
+    "adversarial": "Intha bmg mbile la piano appp use panan athulla varum",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_003",
+    "method": "AGNI-Strict",
+    "original": "மறக்காம தருமபுரில திரையிடுமாறுக் கேட்டுக்கொள்கிறேன்! வேற லெவல்",
+    "adversarial": "மறக்காம தருமபுரில திரையிடுமாறுக் கேடட்டுக்கொள்கிறேன்! வேற லவெல்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_009",
+    "method": "DeepWordBug",
+    "original": "Trailer vera level NGK blockbuster movie of 2019",
+    "adversarial": "Trailer vrea leyel NGK blockbuster movie of 2019",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_015",
+    "method": "AdvCodeMix",
+    "original": "sema sema sema... he is back... am rajinified...",
+    "adversarial": "sela seua seka... he is back... am rajinified...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_048",
+    "method": "AGNI-Strict",
+    "original": "Vijay sethupathi anna semma mass unga voiceku na adimy bro melum ungaludaya movie vettriyadiya valthukkal",
+    "adversarial": "Vijay sethupathi anna seemmaa mass unga voiceku na adimy bro melum ungaludaya movie vettriyadiya valthukkal",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_035",
+    "method": "AGNI-Full",
+    "original": "Vere level movie...  Semmaa movie..  Very good movie....",
+    "adversarial": "Vere level movie... semaa movi.. verry good moovie....",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_008",
+    "method": "AGNI-Full",
+    "original": "yappa varumnu solla numa vara vandi ya narattula sari ya varum bairava",
+    "adversarial": "yappa varuumnu solla numma vara vandi ya narattula sair ya varum bairava",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_031",
+    "method": "Random",
+    "original": "Superb ajith garu... I'm big fan of Pawankalyan..",
+    "adversarial": "Superb ajith garu... iym bqg fin of Pawankalyan..",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_017",
+    "method": "AGNI-Full",
+    "original": "V V join pana semya erukum  Vetri maran and vijay",
+    "adversarial": "V V join pana seyma erukum Vetri maraan adn vijjay",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_034",
+    "method": "Random",
+    "original": "Nee Free aa Ticket kodutha kuda na Viswasam dha Povan., Thiruku Thakida",
+    "adversarial": "nnee frve aa Ticket kodutha kdua na Viswasam dha powvan., Thiruku Thakida",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_045",
+    "method": "AGNI-Strict",
+    "original": "Vara level PA trailer asuran vettaiku varan",
+    "adversarial": "Vara leveel PA trailer asuran vettaiku varan",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_015",
+    "method": "AGNI-Strict",
+    "original": "Yaruya ivaaru  ipdi mass katraru",
+    "adversarial": "Yaruya ivaaru ipdi maas katraru",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_011",
+    "method": "AdvCodeMix",
+    "original": "கொங்கு வேளாளர் கவுண்டர்கள் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்  கோயம்புத்தூர் கவுண்டன்",
+    "adversarial": "கொங்கு வேளாளர் கவுண்டர்கள் சார்பாக படம் வெற்றி பெற வழா்த்துக்கள் கோயம்புத்தூர் கவுண்டன்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_017",
+    "method": "DeepWordBug",
+    "original": "Mass da maniratham Sir vera level",
+    "adversarial": "mss da maniratham Sir vea level",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_024",
+    "method": "AGNI-Full",
+    "original": "oruthar mela nenga viswasath katarathuga enoruthar Yan asingapaduthiringa.",
+    "adversarial": "orutthar mela nenga viswasath katarathuga enoruthar Yan asingapaduthiringa.",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_049",
+    "method": "AGNI-Full",
+    "original": "i love you annaaaa niceee",
+    "adversarial": "i loove yoou anaaaa niceee",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_037",
+    "method": "AGNI-Full",
+    "original": "padam nala ila nee setha da mavane",
+    "adversarial": "padam nala illa nee seetha daaaa mavanne",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_030",
+    "method": "TextFooler",
+    "original": "Suriya sir vera level congratulations",
+    "adversarial": "Suriya sir vera grades kudos",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_012",
+    "method": "AGNI-Strict",
+    "original": "Dhanus acting Sollamuiyala asura very manusan eppadi ippadiyallam   semma",
+    "adversarial": "Dhanus acting Sollamuiyala asura very manusan eppadi ippadiyallam smema",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_047",
+    "method": "TextFooler",
+    "original": "Vijay Kumar i'm waitting for you!! :)",
+    "adversarial": "Vijay ashok i'm waitting under you!! :)",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_023",
+    "method": "DeepWordBug",
+    "original": "തല  appappappaa mass kaa baapp..  thala katta lover from kerala",
+    "adversarial": "തല appappappaa mass kaa baapp.. thala katta loevr fom keala",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_037",
+    "method": "AdvCodeMix",
+    "original": "#அகமுடையர் சேர்வை சார்பாக படம் வெற்றிபெற வாழ்த்துக்கள்",
+    "adversarial": "#அகமுடையர் சேர்வை சார்பாக படi் வெற்றிபெற வழா்த்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_025",
+    "method": "AdvCodeMix",
+    "original": "22hours 10million views woww thalaivaaaa...ipa vaanga da china pasangala..",
+    "adversarial": "2j2hours 10million views woww thalaivaaaa...ipa vaanga da china pasangala..",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_030",
+    "method": "DeepWordBug",
+    "original": "Anna , Super My ஆதி அண்ணா",
+    "adversarial": "anna , usper My ஆதி அண்ணா",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_024",
+    "method": "AGNI-Strict",
+    "original": "Ajith paraellama nadipenga epom rompa mosam",
+    "adversarial": "Ajith paraellama nadipenga epom rompa msam",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_000",
+    "method": "Random",
+    "original": "Nammala naamey rewind pani pakramari iruku trailerey ipdna padam veralevel  hiphop music tharam",
+    "adversarial": "nammla naamey rewind pani pakramari iruku trailerey ipdna padam veralevel hiphop music tharam",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_039",
+    "method": "AGNI-Full",
+    "original": "கரூர் காெங்கு கவுண்டன் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள் ..",
+    "adversarial": "கரூர் காெங்கு கவுணண்டன் சார்பாக பட் வெற்றறி பெற வாழ்தத்துக்கள் ..",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_007",
+    "method": "AdvCodeMix",
+    "original": "Indha varushathoda best entertainer indha movie dhaan no doubt !!!!!",
+    "adversarial": "Indha varushathoda best entertainer indha movie dhaan no dcubt !!!!!",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_034",
+    "method": "TextFooler",
+    "original": "Thala and Yuvan => Mega Mass !",
+    "adversarial": "Thala neither Yuvan => Mega gigantic !",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_025",
+    "method": "TextFooler",
+    "original": "Manju chechi and danush combo katta waiting",
+    "adversarial": "Manju chechi and danush combo katta sufferance",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_007",
+    "method": "AGNI-Strict",
+    "original": "Dhanush Kadavul Kaaga paathavanga like podunga",
+    "adversarial": "Dhanush Kadavul Kaaga paathavanga lie podunga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_048",
+    "method": "TextFooler",
+    "original": "Rishi potu da mokka teaser la mokka solla ma nalla irukkunu na solluva avala dha unakku",
+    "adversarial": "Rishi potu tax mokka teaser sacramento mokka solla massachusetts nalla irukkunu ng solluva avala dha unakku",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_002",
+    "method": "AdvCodeMix",
+    "original": "Trailer Nlam Nalla Dhan Iruku Padam Oduna Pothum Chiyaan My FaV",
+    "adversarial": "Trailer Nlam nealla dfan iiruku Padam Oduna Pothum Chiyaan My FaV",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_046",
+    "method": "DeepWordBug",
+    "original": "#1 trending in Asia ,,, bhairavaaaaaa",
+    "adversarial": "#1 treding in Asia ,t, bhairavaaaaaa",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_003",
+    "method": "AGNI-Full",
+    "original": "Oru pakkam bigil. Bigil anil kunjugalin alaparaikal",
+    "adversarial": "Oru pakkam bigil. Bigil annil kunnjugalin alaparaikal",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_041",
+    "method": "DeepWordBug",
+    "original": "Sema kalakkal kalaai about Rajni sir",
+    "adversarial": "Sema kaakkal kalaai about Rajni smr",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_029",
+    "method": "AGNI-Strict",
+    "original": "Bro palaya vannarapetta movie mass athepola irukkum pola",
+    "adversarial": "Bro palaya vannarapetta movie maassaa athepola irukkum pola",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_040",
+    "method": "AGNI-Full",
+    "original": "டாப் ஸ்டார் பிரசாந்த் ரசிகர்கள் சார்பாக வாழ்த்துக்கள்",
+    "adversarial": "டாப் ஸ்டார் பிரசாந்த் ரசிகரர்கள் சார்ாக வாழ்தத்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_011",
+    "method": "AGNI-Strict",
+    "original": "என்னைக்குமே விஜய் சேதுபதி அப்புறம் சிம்பு மாஸ் வேற லெவல்",
+    "adversarial": "என்னைக்குமே விஜய் சேதுபதி அப்புறம் சிம்பு மஸா் வேற லவெல்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_007",
+    "method": "AGNI-Full",
+    "original": "trailer finishing semma bangam ... hahahahaha",
+    "adversarial": "trailer finishing seema bangam ... hahahahaha",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_047",
+    "method": "Random",
+    "original": "Thala va thala va therika vidalama",
+    "adversarial": "thlaa va thala va thejika vidalama",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_024",
+    "method": "DeepWordBug",
+    "original": "Vera level padam don't miss it guys",
+    "adversarial": "Vera level padam don't mss it guys",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_036",
+    "method": "Random",
+    "original": "Surya va thalaiva va thalaiva. Thalaiva masss.....",
+    "adversarial": "Surya va thylaiva va thalaiva. thlaaiva masss.....",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_035",
+    "method": "TextFooler",
+    "original": "Epadi paathalum thala massssssssssssss ah irukaaru",
+    "adversarial": "Epadi paathalum thala massssssssssssss woah irukaaru",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_033",
+    "method": "AGNI-Full",
+    "original": "Vera level . waiting  Old Surya vaa pakka ra Mari irrruku🤩",
+    "adversarial": "vrea level . waitiing Old suurya vaa pakka ra mai irrrukku🤩",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_032",
+    "method": "TextFooler",
+    "original": "Suriya Anna mass na Selva sir super  Yuvan Anna semma",
+    "adversarial": "Suriya anne mass sobre Selva mister wondrous Yuvan Anna semma",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_022",
+    "method": "Random",
+    "original": "A Yuvan Shankar Raja Musical",
+    "adversarial": "A yuvna Shankar Raja msical",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_002",
+    "method": "AGNI-Strict",
+    "original": "இந்த மாதிரி படம் எடுத்து விழிப்புணர்வு செய்யும் படம் வறவேற்கதக்கது.  வாழ்த்துக்கள்.",
+    "adversarial": "இந்த மாதிரி படம் எுத்து விழிப்புணர்வு செய்யும் படம் வறவேற்கதக்கது. வாழழ்த்துக்கள்.",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_017",
+    "method": "TextFooler",
+    "original": "Raniji arasial. Idhu 96 semma bro",
+    "adversarial": "Raniji arasial. Idhu 96 semma boro",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_005",
+    "method": "Random",
+    "original": "Sirapana tharamana sambavam la intha padathula dha iruku each and every scene goosebumps",
+    "adversarial": "Sirapana tharamana sambavam la inha padathula dha iqruku eajch axd every scene goosbeumps",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_010",
+    "method": "TextFooler",
+    "original": "vijay  anna  #bairavaa  teaser  sema  tharu maaru nna",
+    "adversarial": "vijay elisabeth #bairavaa teaser toyota tharu maaru nna",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_027",
+    "method": "DeepWordBug",
+    "original": "Vera level... Yaaru ellam marana waiting la irrukkurathu...",
+    "adversarial": "Vera elvel... Yaaru ellam myrana waiting la ifrukkurathu...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_009",
+    "method": "TextFooler",
+    "original": "That IT moment 1:47  Haha haha haha haha haha haha haha yeah🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+    "adversarial": "That IT crossroads 1:47 Haha haha haha haha haha haha haha yeah🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_042",
+    "method": "AGNI-Strict",
+    "original": "Anna final touch ok na  I am a Vijay fan",
+    "adversarial": "Anna final touch ok na I am a Vijay fan",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_007",
+    "method": "Random",
+    "original": "Vera level is also not enough its unbelievable",
+    "adversarial": "vra level is abso not enough its unbelievable",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_048",
+    "method": "AGNI-Full",
+    "original": "விருதுநகர்--நாடார் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்......!",
+    "adversarial": "விருதுநகர்--நாடார் சா்பாக படமம் வெற்றி பெற வா்த்துக்கள்......!",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_013",
+    "method": "AGNI-Full",
+    "original": "Pottu thakku thala veriyarkal 500k summa therikkanum",
+    "adversarial": "Pottu thakku thla veriyarkal 500k summa therikkanum",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_026",
+    "method": "AdvCodeMix",
+    "original": "Padam mokkai ya dhan iruka poguthu en na adhula ajith act pannuradhunala",
+    "adversarial": "Padam mvkkai ya dhan iruka poguthu en na adhula arith act pannuradhunala",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_022",
+    "method": "AdvCodeMix",
+    "original": "00:50 nejamave saayeesha athe expression kaati iruntha nalla irukkum",
+    "adversarial": "00:50 nejamave saayeesha athe expression kaati riuntha nalla irukkum",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_038",
+    "method": "Random",
+    "original": "Kaappaan will be a Suriyas biggest blockbuster",
+    "adversarial": "Kaappaan wlil be a Suriyas biggest blockbuser",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_018",
+    "method": "TextFooler",
+    "original": "enga thala da mass vj la mirya kuda podunga mudiyathu",
+    "adversarial": "enga thala da colossal vj la mirya kuda podunga mudiyathu",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_000",
+    "method": "AGNI-Full",
+    "original": "Vijaysethupathi anna fans like here",
+    "adversarial": "Vijaysethupathi anna fans like herre",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_031",
+    "method": "DeepWordBug",
+    "original": "அருமை அண்ணா  மிகவும் விறு விருப்பான படம் அண்ணா we r waiting anna",
+    "adversarial": "அருமை அ்ணா மிdவும் விறு விருப்பான பம் அண்ணா we r waiting acna",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_042",
+    "method": "Random",
+    "original": "Tha Vera Level Thalaivar Semma massss",
+    "adversarial": "tkha Vera Level Thalaivar semam massss",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_029",
+    "method": "AGNI-Full",
+    "original": "Wow....... Ak is looking.... Very dangerous.... ...",
+    "adversarial": "Wow....... Ak is looking.... Very danggerous.... ...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_015",
+    "method": "Random",
+    "original": "வேற level... அதான் ஆர்யா அவளை கல்யாணம் பண்ணிடியே.  திரும்பவும்  marry me யா",
+    "adversarial": "வேற levez... அதான் ஆர்யா அளை கல்யாணம் பண்ணிடியே. திரும்பவும் marry me யா",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_019",
+    "method": "AdvCodeMix",
+    "original": "திரைப்படம் அசுர வெற்றி பெற தமிழக பிராமணர் சார்பாக மனமார்ந்த வாழ்த்துக்கள்!!!",
+    "adversarial": "திரைப்படம் அசுர வறெ்றி பெற தமிழக பிராமணர் சார்பாக மனமார்ந்த வழா்த்துக்கள்!!!",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_029",
+    "method": "AdvCodeMix",
+    "original": ". KIDS :-  GOOD NEWZ       MEN :-  DABBANG 3.       LEGENDS : AVANE SRIMANNARAYANA     Hit like      SUBSCRIBE",
+    "adversarial": ". KIDS :- GOOD NEWZ MEN :- DABBANG 3. LEGENDS : AVANE SRIMANNARAYANA Hit liek SUBSCRIBE",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_022",
+    "method": "AGNI-Full",
+    "original": "Aug 10 varaikum wait panna mudiyathunu ninaikiravanga.. oru like podunga..",
+    "adversarial": "Aug 10 varaikum wait panna mudiyathunu ninaikiravanga.. oru lie podunga..",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_016",
+    "method": "DeepWordBug",
+    "original": "படையாச்சி கவுண்டர் சார்பாக இந்த படம் வெற்றிபெற வாழ்த்துக்கள்",
+    "adversarial": "படையாச்சி கவுண்டர் சார்பாக இந்த படம் வெ்றிபெற வழா்த்துக்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_009",
+    "method": "AGNI-Full",
+    "original": "Seeing Prakash Raj after long time...",
+    "adversarial": "Seeing Prakash Raj after long tme...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_040",
+    "method": "DeepWordBug",
+    "original": "படம் வெற்றி பெற செட்டியார் சமூகம் சார்பாக வாழ்த்துக்கள்..",
+    "adversarial": "படம் வெற்றி பெற சடெ்டியார் சமூகம் சார்பாக வழா்த்துக்கள்..",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_002",
+    "method": "DeepWordBug",
+    "original": "Come on fast 1m likes",
+    "adversarial": "Come on fat 1m likes",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_019",
+    "method": "TextFooler",
+    "original": "Waiting in maranathai venra maari boys..king of karai..",
+    "adversarial": "sufferance in maranathai venra maari boys..king du karai..",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_049",
+    "method": "Random",
+    "original": "what a  style maaaa  ..... Rajinified",
+    "adversarial": "what a style mahaaa ..... rajknified",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_037",
+    "method": "Random",
+    "original": "Rajini comedy super , still laughing",
+    "adversarial": "Rajini comedy supr , stilgl laughing",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_027",
+    "method": "TextFooler",
+    "original": "Thala fans saarbaaga motion poster vendum adhe",
+    "adversarial": "Thala fans saarbaaga motion cartels vendum adhe",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_005",
+    "method": "DeepWordBug",
+    "original": "உன் கூட இருக்குறது  என் சந்தோஷம்ங்குறதவிட  நீ தான் என் சந்தோஷமா இருக்க !!!",
+    "adversarial": "உன் கூட இருக்குறது என் சந்தோஷம்ங்குறதவிட நீ தான் னஎ் சந்தோஷமா இருக்க !!!",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_006",
+    "method": "AdvCodeMix",
+    "original": "Thank you vinoth sema sema mokka",
+    "adversarial": "txank you vinoth sema sema mokka",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_034",
+    "method": "AdvCodeMix",
+    "original": "Kaapan trending no 1 any surya anna fans like here",
+    "adversarial": "Kaapan trending no 1 any surya anna favns like hexre",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_026",
+    "method": "AGNI-Full",
+    "original": "Mani ratnam sir u are a legend",
+    "adversarial": "Mani ratnam sir u arre a leged",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_021",
+    "method": "TextFooler",
+    "original": "Ajith ayo sema va thala va thala",
+    "adversarial": "Ajith ayo autos va thala ca thala",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_029",
+    "method": "Random",
+    "original": "I am waiting waiting waiting nerkondaparavai thala movie ultimate trailor",
+    "adversarial": "I am waiting witing waiting nerkondapaavai thala movie utlimate traitor",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_035",
+    "method": "AGNI-Strict",
+    "original": "Singapore m tranding no. 1  Wow",
+    "adversarial": "Singapore m tranding no. 1 Wow",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_004",
+    "method": "DeepWordBug",
+    "original": "Used titan music for entire trailer...ilayaraja music podaliya?",
+    "adversarial": "ushd titan music for entire trailer...ilayaraja music podaliya?",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_039",
+    "method": "AGNI-Strict",
+    "original": "விருதுநகர் நாடார் சார்பாக படம் வெற்றி அடைய வாழ்த்துக்கள்",
+    "adversarial": "விருதுநகர் நாடார் சார்ாக படம் வெற்றி அடைய வா்த்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_008",
+    "method": "Random",
+    "original": "Jan 10th release pani asinga pada poringa",
+    "adversarial": "Jan 10th release pani asinga pdaa poringa",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_025",
+    "method": "Random",
+    "original": "aalaporaan thamizhan song 62 million views summa sonnan yaarum sandaiku varathinga",
+    "adversarial": "aalaporaan thamizhan song 62 mllion views summa sonnan yaarum sandaiku varathinga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_025",
+    "method": "DeepWordBug",
+    "original": "பெண்ணை  பெத்த அப்பாக்கு தான் தெரியும் இதன் வலி.... ஒரு நாள் வலி இல்ல சாகும் வரை வலி.... சாதி சாயம்  பூச  வேண்டாம்.",
+    "adversarial": "பெண்ணை பெத்த அப்பாக்கு தான் தெரியும் இதன் வலி.... ஒரு நாள் வலி இல்ல சாகும் வரை வலி.... சாதி சாயம் பூச வண்டாம்.",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_012",
+    "method": "TextFooler",
+    "original": "like if u r AK FAN...superb.",
+    "adversarial": "like lf u r AK FAN...superb.",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_011",
+    "method": "DeepWordBug",
+    "original": "Teasar pakkuradhuka bayangarama iruku I am waiting for you",
+    "adversarial": "twasar pakkuradhuka bayangarama iruku I am waiting for oyu",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_024",
+    "method": "AdvCodeMix",
+    "original": ".எப்போ படம் திரைக்கு வரும் காத்திருக்கும் தமிழன்",
+    "adversarial": ".எப்போ படம் திரைக்கு வரும் காததிருக்கும் தமிழன்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_046",
+    "method": "AGNI-Full",
+    "original": "Marana waiting Thalaivaaaaa      Asuran entry soon",
+    "adversarial": "Marana waiing Thalaivaaaaa asuan etnry soon",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_021",
+    "method": "AGNI-Strict",
+    "original": "Vijay sethupathi fans hit like here",
+    "adversarial": "Vijay sethupathi fans hit like herre",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_013",
+    "method": "DeepWordBug",
+    "original": "Thala veera level.... From Pawan Kalyanfans",
+    "adversarial": "Thala veera lveel.... fom Pawan Kalyanfans",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_016",
+    "method": "TextFooler",
+    "original": "Thala Thala Thala Thala Thala maasss hero semma.. Yeppoda screen la varuvaarnu Marana waitingla irunthen",
+    "adversarial": "Thala Thala Thala Thala Thala maasss hero semma.. Yeppoda colander la varuvaarnu scottsdale waitingla irunthen",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_032",
+    "method": "DeepWordBug",
+    "original": "இது எந்த கொரியன் காப்பி .... மியுசிக் பித்தோவன் சிம்பனிலா பா பழைய விண்டோஸ் ல கேட்ருப்போம்",
+    "adversarial": "இுத எந்த கொரியன் கபா்பி .... மwயுசிக் பிl்தோவன் சிv்பனிலா பா பழைய விண்டோஸ் ல கேட்ருப்போம்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_020",
+    "method": "DeepWordBug",
+    "original": "நம்ம மாவட்டம் கெத்து ..... வெற்றி பெற வாழ்த்துக்கள்.......",
+    "adversarial": "நம்ம மாவட்டம் கெத்து ..... வற்றி பெற வழ்த்துக்கள்.......",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_044",
+    "method": "AGNI-Full",
+    "original": "Onnumey puriyala!! Pichi poota maadhiri eruku🤔🤔",
+    "adversarial": "Onnumey puriyala!! picchi pooa maaadhiri eruku🤔🤔",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_043",
+    "method": "TextFooler",
+    "original": "Thala tharisanam marana waiting in big screen",
+    "adversarial": "Thala tharisanam marana sufferance circa big screen",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_014",
+    "method": "AdvCodeMix",
+    "original": "இத்தனை ஜாதிகள் இருக்குனு கமெண்ட படிக்கும் போது தான் தெரியுது",
+    "adversarial": "இத்தனை ஜqாதிகள் இருக்குனு கமெண்ட படிக்கும் போது தான் தெரியுது",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_033",
+    "method": "Random",
+    "original": "Dislike poottanvan pooda poravan ellam Pollachi bar naagaraajan thirunaavkarasu oda paartner vs rapist gal",
+    "adversarial": "Dislike pomttanvan pvooda poravan ellam Pollachi bar naagaraaan thirunaavkarasu oma paartner vs rpaist gal",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_021",
+    "method": "Random",
+    "original": "1million like varala all thala fans like podunga",
+    "adversarial": "1million like varala all tahla fans like podunga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_018",
+    "method": "AGNI-Strict",
+    "original": "varlam varlam vaa..  varlam vaa..  bairavaaa...        Mass summa aluthuuu paaa....",
+    "adversarial": "varlam varlam vaa.. varlam vaa.. bairavaaa... maassaa summa aluthuuu paaa....",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_010",
+    "method": "Random",
+    "original": "Ellorum bigil kaithi ne pesikkuringa But Sam cs bgm pathi yaravathu pesurangala  Sam cs",
+    "adversarial": "Ellorum bigil kaithi ne pesikkuringa btu Sam cs bgm pati yaarvathu pesurangala Sam cs",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_023",
+    "method": "Random",
+    "original": "Paavam thalayoda bike experience paathu akshara merandrupa",
+    "adversarial": "Paavam thalayoda bike experyence paathu akshara merandrupa",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_045",
+    "method": "TextFooler",
+    "original": "A S U R A N",
+    "adversarial": "to secs U R A N",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_005",
+    "method": "AGNI-Full",
+    "original": "Taana,tube light and naan sirithal maritha irukum pola",
+    "adversarial": "Taana,tube light and naan sirithal maritha irukum ploa",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_000",
+    "method": "TextFooler",
+    "original": "A Yuvan Shankar Raja Musical",
+    "adversarial": "A Yuvan Shankar Raja guitar",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_021",
+    "method": "AdvCodeMix",
+    "original": "Thala fans ellam oru Like podunga",
+    "adversarial": "thwala fans ellam oru liske podunga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_020",
+    "method": "Random",
+    "original": "Karthi Anna fans kill like button 🤟",
+    "adversarial": "Karthi Anna fans kall like button 🤟",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_014",
+    "method": "Random",
+    "original": "Pariyerum parumal ,Asuran ah vida indha blockbuster aaki kaatrom",
+    "adversarial": "Pariyerum parumal ,axuran ah vida indha blckbuster aki kaatrom",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_022",
+    "method": "TextFooler",
+    "original": "intha pongal sema super ah iruka pothu",
+    "adversarial": "intha pongal lexus ultra ah iruka pothu",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_013",
+    "method": "AdvCodeMix",
+    "original": "Love ajith from andhra pradesh  &  karnataka",
+    "adversarial": "lsove ajith from andhra preadesh & karnataka",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_023",
+    "method": "AGNI-Full",
+    "original": "thala always  thala dha da",
+    "adversarial": "thhala always tahla dha da",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_006",
+    "method": "AGNI-Full",
+    "original": "சிவகங்கை முத்தரையர் சமுதாயம் சார்பாக மனமார்ந்த வாழ்த்துகளை தெரிவித்துக் கொள்கிறேன்",
+    "adversarial": "சிவகங்கை முத்தரையர் சமுதாயம் சார்பாக மனமார்ந்த வாழ்தத்துகளை தெரிவி்துக் கொள்கிறேனன்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_014",
+    "method": "AGNI-Strict",
+    "original": "சரியான செருப்படி படம் வெற்றி அடைய வாழ்த்துக்கள்",
+    "adversarial": "சரியான செருப்படி படம் வெற்றறி அடைய வாழ்தத்துக்கள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_004",
+    "method": "TextFooler",
+    "original": "Paaaa... Repeat  mode.... adra adra adraaaaa..... Vera level... vare va....",
+    "adversarial": "Paaaa... duplication mode.... adra adra adraaaaa..... factual level... vare va....",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_032",
+    "method": "AGNI-Strict",
+    "original": "Oruthara mela nenga viswasam katrathukaga,inoruthara yen asinga paduthuringa....... Sema",
+    "adversarial": "Oruthara meelaa nenga viswasam katrathukaga,inoruthara yen asinga paduthuringa....... Sema",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_038",
+    "method": "TextFooler",
+    "original": "Thala U1  Vera Level 🤘",
+    "adversarial": "Thala U1 concrete layers 🤘",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_010",
+    "method": "DeepWordBug",
+    "original": "Padam verithanam nu solranvanga like pannunga",
+    "adversarial": "Padam verithanam nu solranvanga lie pannunga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_027",
+    "method": "Random",
+    "original": "ஒட்டு மொத்த குடியானவர் சார்பாக இந்த காவியம் வெற்றியடை வாழ்த்துகிறேன்.    நாய்க்கர் குலம்.",
+    "adversarial": "ஒட்டு மொத்த குடியானவர் சார்பாக இந்த காவியம் வறெ்றியடை வாழ்த்துகிறேன். நாய்hக்கர் குலம்.",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_010",
+    "method": "AGNI-Full",
+    "original": "Ammanam ponnungalukku mattum thaan avamaanama",
+    "adversarial": "Ammanam ponnnungalukku mattum thaan avamaanama",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_003",
+    "method": "TextFooler",
+    "original": "Otha indha varusham naanga dhaan da ccv rocks",
+    "adversarial": "Otha indha varusham naanga dhaan bar ccv rocks",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_020",
+    "method": "AGNI-Full",
+    "original": "Suspensive interesting teaser. NGK+ kaapan double dhamaka for  fans  Love u Suriya Anna",
+    "adversarial": "Suspensive interestiing teaseer. NGK+ kaapan duble dhamaka for fans Love u Suriya Anna",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_048",
+    "method": "Random",
+    "original": "Marana mass egarly waiting for ngk",
+    "adversarial": "marhna mass egarly waiting fsor ngk",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_026",
+    "method": "DeepWordBug",
+    "original": "பொள்ளாச்சி சம்பவத்தை  தைரியமாக காட்ட முயற்சி செய்த படகுழுவிற்கு வாழ்த்துக்கள்...!!",
+    "adversarial": "பொள்ளாச்சி சம்பவத்தை தைரியமாக காட்ட முயற்சி செய்த படகுழுவிற்கு வdழ்த்துக்கள்...!!",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_038",
+    "method": "DeepWordBug",
+    "original": "Padam vetri pera valthukal Brahmins samuthayathin valthukal",
+    "adversarial": "Padam votri pera valthukal Brahmins samuthayathin vaqthukal",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_028",
+    "method": "DeepWordBug",
+    "original": "US army eh namma pakkam, vaada paathukulam",
+    "adversarial": "US army eh namma apkkam, vaada paathukulam",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_019",
+    "method": "AGNI-Strict",
+    "original": "சங்கரன்கோவில் கோனார் சமுதாயம் சார்பாக வாழ்த்துக்கள்.... வெற்றி காவியமாக அமைய வேண்டிய திரைப்படம்",
+    "adversarial": "சங்கரன்கோவில் கோனார் சமுதாயம் சார்பாக வாழ்தத்துக்கள்.... வறெ்றி காவியமாக அமைய வேண்டிய திரைப்படம்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_041",
+    "method": "Random",
+    "original": "Yuvan ka maduum padatha kandipa pakanum .....semma mass yuvan I love you",
+    "adversarial": "Yuvan ka maudum pbdatha ktandipa pakanum .....semma maess yuvan I love you",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_003",
+    "method": "DeepWordBug",
+    "original": "Trailer paathutey irukkanum polavey irukku .,,,Athan thala pola ......",
+    "adversarial": "Trailer paathutey irukkanum polavey irukku .,,,Athan tsala pola ......",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_029",
+    "method": "TextFooler",
+    "original": "Mass teaser..love u thalivaaa... engayoo eriaara vaasana varudhee hehe... allu ajith fans Ku adhigama irrukum haha lastly thalivar mass",
+    "adversarial": "massachusetts teaser..love u thalivaaa... engayoo eriaara vaasana varudhee hehe... allu ajith blowers kou adhigama irrukum haha lastly thalivar mass",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_027",
+    "method": "AGNI-Strict",
+    "original": "Iiiiiiiiiii Vijay sethupathi annna love you baby",
+    "adversarial": "Iiiiiiiiiii Vijay sethupathi annna loove you baby",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_026",
+    "method": "TextFooler",
+    "original": "Raja Raja dhaan - Brilliant / Mysskin - Splendid / Beethoven's Fur Elise - Awesome",
+    "adversarial": "Raja Raja dhaan - Brilliant / Mysskin - exquisite / Beethoven's Fur Elise - Awesome",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_046",
+    "method": "AdvCodeMix",
+    "original": "Aiyoo.... iruka mudiyala yae. Inu 3days!!!!",
+    "adversarial": "Aiyoo.... iruka mudiyala ya.e ilnu 3days!!!!",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_031",
+    "method": "AGNI-Full",
+    "original": "தல - ஒரு கோடி தாண்டி மேலும் வெற்றி நடை பார்வையாளர்களுக்கு நன்றி....தொடரும்......",
+    "adversarial": "தல - ஒுர கோடடி தாண்டி மேலு்ம வறெ்றி நடை பார்வையாளர்களுக்கு ந்றி....தொடரும்......",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_012",
+    "method": "DeepWordBug",
+    "original": "REKKA PART 2 Bt padam nalla dan irukum polaye...",
+    "adversarial": "REKKA PART 2 Bt paadm nalla dan irukum polaye...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_023",
+    "method": "AGNI-Strict",
+    "original": "நீங்கள் சிலை ஓன்று திறந்தீர்கள் அல்லவா அது போலவே மயிராட்டம் இருக்கு ..  Ops Next தர்ம யுத்தம் @user அம்மா வாங்கம்மா  உங்கள வச்சி செய்யரானுங்க",
+    "adversarial": "நீங்கள் சிலை ஓன்று திறந்தீர்கள் அல்லவா அது போலவே மயிராட்டம் இருக்கு .. Ops Next தர்ம யுத்தம் @user அம்மா வாங்கம்மா உங்கள வசச்ி செய்யரானுங்க",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_035",
+    "method": "Random",
+    "original": "Adengappa enna effectra vera level trailer massssssssss",
+    "adversarial": "Adengappa enan effectra vvera level trailer massssssssss",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_045",
+    "method": "DeepWordBug",
+    "original": "அரியலூர் மாவட்ட வன்னியர் சங்க சார்பாக படம் வெற்றி விழா காண வாழ்த்துக்கள்",
+    "adversarial": "அரியலூர் மாவட்ட வன்னியர் சஙக் சார்பாக பமட் வெறறி விழா காண வழா்த்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_011",
+    "method": "Random",
+    "original": "Yuvan da..... He is back da..... da.....",
+    "adversarial": "Yuvan da..... He is bakc da..... dn.....",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_041",
+    "method": "TextFooler",
+    "original": "Yuvan Music  Vera level",
+    "adversarial": "Yuvan guitarist Vera level",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_042",
+    "method": "AdvCodeMix",
+    "original": "Suriya Anna is great  Now Bron children will say suriya Anna name he is vere level Anna",
+    "adversarial": "syuriya nana is grreat Now bxron cdildren will say subiya Anna name he is vere level Anna",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_007",
+    "method": "TextFooler",
+    "original": "Mass mass masss na .... Final touch la dha nikkuringa",
+    "adversarial": "Mass mass masss na .... Final afflicts la dha nikkuringa",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_034",
+    "method": "AGNI-Strict",
+    "original": "இது எந்த கொரியன் காப்பி .... மியுசிக் பித்தோவன் சிம்பனிலா பா பழைய விண்டோஸ் ல கேட்ருப்போம்",
+    "adversarial": "இுத எந்த கொரியன் கா்பி .... மியயுசிக் பித்ோவன் சி்பனிலா பா பழைய விண்டோஸ் ல கேட்ருப்போம்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_039",
+    "method": "AdvCodeMix",
+    "original": "Thala acting is intense nkp Vera level.",
+    "adversarial": "Thala acting is inense npk Vera level.",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_018",
+    "method": "AdvCodeMix",
+    "original": "Asuran trailer no 1 go nice",
+    "adversarial": "asiran trialer no 1 go nice",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_022",
+    "method": "AGNI-Strict",
+    "original": "Adhaan narachu pocheyyy aprm enna naraya naraya naraya nu kathura.",
+    "adversarial": "Adhaan narachu pocheyyy aprm yennna naraya naraya naraya nu kathura.",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_036",
+    "method": "DeepWordBug",
+    "original": "Ennada trailer onnume puriyala. Ore kolappama irukkudhu.",
+    "adversarial": "Ennada trailer omnume puriyala. Ore klappama irukkudhu.",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_026",
+    "method": "AGNI-Strict",
+    "original": "Hello ennathu 2.0 trailernu search panna transformers ultimate vanthiruku i love my star ille super star rajini sir",
+    "adversarial": "Hello ennathu 2.0 trailernu search panna transformers ultimate vanthiruku i loove my star ille super star rajini sir",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_047",
+    "method": "AdvCodeMix",
+    "original": "``Oruthar mela neenga vishvasam katradhukaga innoruthara yea  asinga paduthuringa..  Vera levelllllll",
+    "adversarial": "``Oruthar emla neenga vihvasam karadhukaga innoruthara yea asinga paduthuringa.. Vera lebelllllll",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_008",
+    "method": "AGNI-Strict",
+    "original": "enga thala da mass vj la mirya kuda podunga mudiyathu",
+    "adversarial": "enga thala da maass vj la mirya kuda podunga mudiyathu",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_017",
+    "method": "Random",
+    "original": "Indha padam KGF vida semaiya irrukunu ninaykiravanga like podunga",
+    "adversarial": "Indha padam KGF vida semayia irrukunu ninaykiravanga like poduna",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_001",
+    "method": "DeepWordBug",
+    "original": "Teaser Vida trailer nalla irukunu solura vanga like panunga",
+    "adversarial": "Teaser Vida trailer nalla irukunu solura vanga lie panunga",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_049",
+    "method": "AdvCodeMix",
+    "original": "படம் வேர லெவல் சப்போட் வேர லெவல் இருக்கவேன்டும்",
+    "adversarial": "படlம் வேர லெவல் சப்போட் வjேர லெவல் இருக்கவேன்டும்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_019",
+    "method": "DeepWordBug",
+    "original": "வேற லெவல் STR மக்கள் செல்வன் மட்டும் கூட போதும் மொத்தம் கூட்டமும் ஒட்டுமொத்தமா கூடி வர",
+    "adversarial": "வேற லவெல் STR மக்கள் செல்வன் மட்டும் கூட போதும் மொத்தம் கூட்டமும் ஒட்டுமொத்தமா கூடி வர",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_036",
+    "method": "AGNI-Full",
+    "original": "Thala   Thala  Thala  தல  தல  தல",
+    "adversarial": "thlaa Thala Thala தல தல தல",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_032",
+    "method": "Random",
+    "original": "அருமை அண்ணா  மிகவும் விறு விருப்பான படம் அண்ணா we r waiting anna",
+    "adversarial": "அருமை அண்ணா மிகவும் வறிு விருப்பான பxடம் அண்ணvா we r waiting annha",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_044",
+    "method": "DeepWordBug",
+    "original": "Dhanush Anna what a Screen presence! Paaaaaaaaaaaaah! Sure Blockbuster #Asuran",
+    "adversarial": "Dhanush anxa whta a Screen presence! apaaaaaaaaaaaah! Sure Blockbuster #ausran",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_047",
+    "method": "DeepWordBug",
+    "original": "Kongu. vellalar .muthaliyar     சார்பாக வாழ்த்துகிறோம்",
+    "adversarial": "Kongu. vellalar .mtuhaliyar சார்பாக வழா்த்துகிறோம்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_018",
+    "method": "DeepWordBug",
+    "original": "Liked it. (But Kola pasila irukaram :/ Ean da ipidi panreenga? Shooting Spot la Sapadu kuduka mateengala?)",
+    "adversarial": "Liked it. (But kvla pasila irukaram :/ Ean da piidi panreenga? Shooting Spot la Sapadu kuduka mateengala?)",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_016",
+    "method": "AGNI-Full",
+    "original": "Thalaiva super .vazhdukkal sangkar sir .&  2.o team",
+    "adversarial": "Thalaiva supperaa .vazhddukkal sankar siir .& 2.o team",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_049",
+    "method": "DeepWordBug",
+    "original": "nice nice very nice ..",
+    "adversarial": "ndce nice vxry nice ..",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_040",
+    "method": "Random",
+    "original": "Kotha gopala Krishna Naidu thevidiyapaya anda vantha naye",
+    "adversarial": "Kotha gapala Krishna nadiu thevidiyapaya ana vantha naye",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_044",
+    "method": "AdvCodeMix",
+    "original": "அய்யா ஆசியுடன் வெற்றி பெற வாழ்த்துக்கள்",
+    "adversarial": "அய்யா ஆசியுடன் வெற்றி பெvற வழா்த்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_Random_009",
+    "method": "Random",
+    "original": "Rajini ஐ கிண்டல்  செய்வது போல் உள்ள காட்சி தவிர்த்திருக்கலாம்.......",
+    "adversarial": "Rajini ஐ கிண்hல் செய்வது போல் உள்ள காட்சி தவிர்த்திருக்கலாம்.......",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_001",
+    "method": "AGNI-Full",
+    "original": "Paaaa... Repeat  mode.... adra adra adraaaaa..... Vera level... vare va....",
+    "adversarial": "Paaaa... Repeat mode.... adra adra adraaaaa..... veeraa levvel... vrae va....",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_033",
+    "method": "AdvCodeMix",
+    "original": "Thala look vera level  thala takkar dooi.....",
+    "adversarial": "Thala look vera elvel toala takkar dooi.....",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_038",
+    "method": "AGNI-Full",
+    "original": "தருமபுரி வன்னியர் சங்கம் சார்பில் வாழ்த்துக்கள்",
+    "adversarial": "துமபுரி வன்னியயர் சங்கம் சார்பில் வாழ்தத்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_038",
+    "method": "AGNI-Strict",
+    "original": "Thala varanu vazhi vidungo .... Nee vaa  #Thala",
+    "adversarial": "Thala varanu vazhi vidungo .... Nee vaa #Thala",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_022",
+    "method": "DeepWordBug",
+    "original": "Karthi sir look like first movie yuganiki okkadu ALL THE BEST sammaya iruke",
+    "adversarial": "Karthi sir look like first movie yuganiki okkadu ALL THE beut sammaya iruke",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_030",
+    "method": "AGNI-Strict",
+    "original": "தரமான படைப்பு, இந்த காலக்கட்டத்துக்கு தேவையான ஒன்று. சிறப்பு அண்ணா வாழ்த்துக்கள்",
+    "adversarial": "தரரமான படைப்பு, இந்த காலக்கட்டத்துகக்கு தேவையான ஒன்று. சிறப்பு அண்ணா வாழழ்த்துக்கள்",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_041",
+    "method": "AGNI-Full",
+    "original": "semma mass va Thala your great",
+    "adversarial": "seemmaa mass va Thala yuor greaat",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_035",
+    "method": "DeepWordBug",
+    "original": "கொங்கு_வெள்ளாளக்_கவுண்டர்கள் சார்பாக படம் மிகப்பெரிய வெற்றி பெற வாழ்த்துக்கள் [covai]",
+    "adversarial": "கஙொ்கு_வெள்ளாளக்_கவுண்டர்கள் சார்பாக படv் மிகப்பெரிய வெற்றி பெற வழா்த்துக்கள் [covai]",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_008",
+    "method": "DeepWordBug",
+    "original": "Paah... bullet sound uh kekumbothu kaadhu valikuthu...",
+    "adversarial": "Paah... bullet sound uh ekkumbothu kaadhu valikuthu...",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_006",
+    "method": "DeepWordBug",
+    "original": "Mass Teaser... Mass kattanum but Adhu nanga Mattum dhan kattanum..#ThalabathyVeriyanda..",
+    "adversarial": "Mass etaser... Mass kattanum but Adhu nanga Mattum dhxn kattanum..#ThalabathyVeriyanda..",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Strict_000",
+    "method": "AGNI-Strict",
+    "original": "சூர்யா ரசிகர்களுக்கு கொண்டாட்டம் அதை விட நம்ம மோகன்லால் சார் ரசிகர்களுக்கு இன்னும் செம கொண்டாட்டம் காப்பான் வெற்றி பெற வாழ்த்துகள்",
+    "adversarial": "சூர்யா ரசிகர்களுக்கு கொண்டாட்டம் அதை விட நம்ம மோகன்லால் சார் ரசிகர்களுக்கு இன்னும் செம கொண்டாட்டம் காப்பான் வெற்றி பெற வாழ்தத்துகள்",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AGNI-Full_030",
+    "method": "AGNI-Full",
+    "original": "thalaivaaaa epe varuvaaai thalaivaaa i am waiting",
+    "adversarial": "thalaaivaaaa epe varuvaaai thaalaivaaa i am waitiing",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_006",
+    "method": "TextFooler",
+    "original": "Nadippin nayagan suriya anna NGK Vera level",
+    "adversarial": "Nadippin nayagan suriya sophia NGK Vera echelon",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_019",
+    "method": "Random",
+    "original": "Thalaivar oda style mass yella ithu la tha muzhusa pakka porom romba naal appro",
+    "adversarial": "Thalaivar oda style mass yella ithu la tha muzhusa pakka porom roma naxl appro",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_TextFooler_002",
+    "method": "TextFooler",
+    "original": "itha vada kevalama na trailer ah vada payan kujay yala mattum thaan nadika mudiyum.............",
+    "adversarial": "margareth vada kevalama na trailer ah vada payan kujay yala mattum thaan nadika mudiyum.............",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_026",
+    "method": "Random",
+    "original": "Malik @ Sasikumar Fans    like here",
+    "adversarial": "Malik @ Sasikumar Fans likye here",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_030",
+    "method": "Random",
+    "original": "விருதுநகர்--நாடார் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்......!",
+    "adversarial": "விருதுநகர்--நாடார் சாரw்பாக படம் வெற்றzி பெற வாழ்த்துக்கள்......!",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_TextFooler_044",
+    "method": "TextFooler",
+    "original": "Super ajit Sir from all kannadigas",
+    "adversarial": "peachy ajit Sir from all kannadigas",
+    "successful": false
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_017",
+    "method": "AdvCodeMix",
+    "original": "Oruthounga mela nenga viswasam Tha katurathukaga, inorte ye acinga padhuturinga - Thalaaa!!!!",
+    "adversarial": "Oruthounga mela nenga viswasam Tha katurathukaga, inorte ye acinga padhuturinga - tvalaaa!!!!",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_DeepWordBug_015",
+    "method": "DeepWordBug",
+    "original": "Oruthar mela viswasam kaata innoruthara enn asingapaduthuringa true",
+    "adversarial": "Oruthar mela viswasam kaata innoruthara enn asengapaduthuringa tue",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_Random_013",
+    "method": "Random",
+    "original": "வேற லெவல் STR மக்கள் செல்வன் மட்டும் கூட போதும் மொத்தம் கூட்டமும் ஒட்டுமொத்தமா கூடி வர",
+    "adversarial": "வேbற லெவ் STR மக்கள் செல்வe் மட்டும் கூட பeோதும் மொத்தம் கூட்டமும் ஒட்டுமொத்தமா கூடி வர",
+    "successful": true
+  },
+  {
+    "pair_id": "tamil_AdvCodeMix_035",
+    "method": "AdvCodeMix",
+    "original": "Otha indha varusham naanga dhaan da ccv rocks",
+    "adversarial": "odha indha varusham naanga dhaan da cvc roxks",
+    "successful": false
+  }
+]

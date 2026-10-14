@@ -1,0 +1,23 @@
+{
+  "experiment_id": "controlled_muril_hate",
+  "language_pair": "hi-en",
+  "task": "hate",
+  "victim_model": "muril",
+  "completed_at": "2026-09-29T06:21:50.086058",
+  "results": {
+    "total": 498,
+    "successful": 396,
+    "failed": 102,
+    "asr": 0.7952,
+    "avg_queries": 30.98,
+    "avg_time": 4.647,
+    "p1_used": 19,
+    "p2_used": 1472,
+    "p3_used": 12,
+    "p4_used": 26,
+    "p5_used": 3,
+    "p6_used": 99,
+    "p7_used": 18,
+    "pc_used": 72
+  }
+}

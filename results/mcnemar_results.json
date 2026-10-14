@@ -1,0 +1,83 @@
+[
+  {
+    "comparison": "AGNI-Full vs DeepWordBug",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "b": 24,
+    "c": 41,
+    "p_value": 0.047194,
+    "sig": "*"
+  },
+  {
+    "comparison": "AGNI-Full vs AdvCodeMix",
+    "lang": "tamil",
+    "task": "sentiment",
+    "b": 105,
+    "c": 44,
+    "p_value": 1e-06,
+    "sig": "***"
+  },
+  {
+    "comparison": "AGNI-Full vs TextFooler",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "b": 48,
+    "c": 78,
+    "p_value": 0.00978,
+    "sig": "**"
+  },
+  {
+    "comparison": "AGNI-Full vs TextFooler",
+    "lang": "tamil",
+    "task": "sentiment",
+    "b": 281,
+    "c": 43,
+    "p_value": 0.0,
+    "sig": "***"
+  },
+  {
+    "comparison": "AGNI-Full vs Random",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "b": 564,
+    "c": 6,
+    "p_value": 0.0,
+    "sig": "***"
+  },
+  {
+    "comparison": "AGNI-Full vs Random",
+    "lang": "tamil",
+    "task": "sentiment",
+    "b": 551,
+    "c": 5,
+    "p_value": 0.0,
+    "sig": "***"
+  },
+  {
+    "comparison": "AGNI-Strict vs Random",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "b": 106,
+    "c": 185,
+    "p_value": 5e-06,
+    "sig": "***"
+  },
+  {
+    "comparison": "AGNI-Full vs DeepWordBug",
+    "lang": "tamil",
+    "task": "sentiment",
+    "b": 126,
+    "c": 35,
+    "p_value": 0.0,
+    "sig": "***"
+  },
+  {
+    "comparison": "AGNI-Full vs AdvCodeMix",
+    "lang": "hinglish",
+    "task": "sentiment",
+    "b": 17,
+    "c": 47,
+    "p_value": 0.000289,
+    "sig": "***"
+  }
+]

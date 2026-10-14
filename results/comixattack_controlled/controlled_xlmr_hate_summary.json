@@ -1,0 +1,23 @@
+{
+  "experiment_id": "controlled_xlmr_hate",
+  "language_pair": "hi-en",
+  "task": "hate",
+  "victim_model": "xlmr",
+  "completed_at": "2026-09-29T05:39:27.898444",
+  "results": {
+    "total": 498,
+    "successful": 258,
+    "failed": 240,
+    "asr": 0.5181,
+    "avg_queries": 44.07,
+    "avg_time": 6.986,
+    "p1_used": 61,
+    "p2_used": 1888,
+    "p3_used": 34,
+    "p4_used": 50,
+    "p5_used": 12,
+    "p6_used": 47,
+    "p7_used": 19,
+    "pc_used": 210
+  }
+}

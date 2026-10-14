@@ -1,0 +1,2102 @@
+[
+  {
+    "pair_id": "hinglish_Random_011",
+    "method": "Random",
+    "original": "@ Sanjay _ Dixit Yeh log kabhi nahi sudharenge # Evangelists https // t . co / ytwWTHsuiY",
+    "adversarial": "@ snjay _ Dixit Yeh log kabhi nahi sudharenge # Evangelists https // t . co / ytwWTHsuiY",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_045",
+    "method": "AdvCodeMix",
+    "original": "Congress ke useless spokesperson to jobless ho jaayenge if Congress decides to boycott media for longer period",
+    "adversarial": "Congress ke ueless spokesperson to jobless ho jaayenge if Congress decides to boycott media for longer period",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_011",
+    "method": "TextFooler",
+    "original": "RT @ chanyeol _ pic i miss you so much https // t . co / GDhwvIUujR",
+    "adversarial": "RT @ chanyeol _ pic i miss you so far https // t . co / GDhwvIUujR",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_016",
+    "method": "AGNI-Full",
+    "original": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all special lol",
+    "adversarial": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all spcial lol",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_037",
+    "method": "DeepWordBug",
+    "original": "@ narendramodi Heartly congratulations sir We all Bhartiya are with you",
+    "adversarial": "@ narendramodi Heartly congratulations sir We aol bartiya are wdth oyu",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_036",
+    "method": "AdvCodeMix",
+    "original": "Friend - bhai # JCB aayi hai chalega khudai dekhne ?? Me _ https // t co / QRM4gmRz5L",
+    "adversarial": "Friend - baai # jab ayai hai cghalega khudai deshne ?? Me _ hhttps // t co / qrf4gmrz5l",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_020",
+    "method": "Random",
+    "original": "@ franirista Daang sorry to hear that . Yea wish you best results !",
+    "adversarial": "@ franirista davng sorkry to hera that . Yea wizh you best results !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_000",
+    "method": "Random",
+    "original": "@ rssurjewala Rahul bhaiya is best leader for Nagar Nigam",
+    "adversarial": "@ rssurjewala Rahul bshaiya is bqest leader for Nagar Nigam",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_025",
+    "method": "AGNI-Full",
+    "original": "RT @ chanyeol _ pic i miss you so much https // t . co / GDhwvIUujR",
+    "adversarial": "RT @ chanyeol _ pic i miss you so mcuh https // t . co / GDhwvIUujR",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_045",
+    "method": "AGNI-Strict",
+    "original": "@ SunsetScribbler Hahahah ! Nice joke ! I understand every bit of mentality you have . Keep loving .",
+    "adversarial": "@ SunsetScribbler Hahahah ! badhiya joke ! I understand every bit of mentality you have . Keep loving .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_031",
+    "method": "AdvCodeMix",
+    "original": "@ mminggukie yes yes omg hiii please dm me through @ erkbri )) â™¡",
+    "adversarial": "@ mimnggukie yes yes ogm hiii please dm me though @ ejrkbri )) âa¡",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_024",
+    "method": "DeepWordBug",
+    "original": "@ Varun _ dvn @ ufc Kalank grossing 50cr didn't expect that but bad film nonetheless",
+    "adversarial": "@ Varun _ dvn @ ufc Kalank grossing 50cr didn't expect that but bda film nonetheless",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_003",
+    "method": "AGNI-Strict",
+    "original": "# Askstar kya south Africa ke is playing 11 me tabarej shamshi ki jagah banati hain ...?",
+    "adversarial": "# Askstar kya south Africa ke is playing 11 me tabarej shamshi ki djjagah banati hein ...?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_034",
+    "method": "TextFooler",
+    "original": "Adarniye bhaisab ko bahut bahut subhkamnaye badhai https // t co / RCxgdT9i0A",
+    "adversarial": "Adarniye bhaisab gou bahut bahut subhkamnaye badhai https // shitloads frigate / RCxgdT9i0A",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_021",
+    "method": "AdvCodeMix",
+    "original": "@ yoursbadgirl Madarchod dont khada ho raha Aur ye to tere drawing room me hi hoga",
+    "adversarial": "@ yoursbadgirl myadarchod dont khada ho raha Aur ye to tree drawing room me hi hoga",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_024",
+    "method": "AdvCodeMix",
+    "original": "@ SwetaSinghAT Dii aapki soch sach m great h true jornlism",
+    "adversarial": "@ SwetaSinghAT Dii aapi soch sach m great h true jornlism",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_019",
+    "method": "Random",
+    "original": "@ alijanepalmer @ JanisIrwin It WAS good ! And you know my face well . â¤ï¸",
+    "adversarial": "@ alijanepalemr @ JanisIrwin It wsa gnod ! And yku knwo my face well . â¤ï¸",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_005",
+    "method": "AdvCodeMix",
+    "original": "@ SrBachchan Salame Ishq Meri Jaan is one of my Favourite song Old is Gold Aap jiyo Hajaro Saal",
+    "adversarial": "@ SrBachchan Salame Ishq Meri Jaan is noe of my flvourite song Old is geold Aap jiyo Hajaro Saal",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_047",
+    "method": "TextFooler",
+    "original": "@ ashoswai @ ndtv Yeh BC to MC bhi nikla",
+    "adversarial": "@ ashoswai @ ndtv hee BC to MC bhi nikla",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_037",
+    "method": "Random",
+    "original": "@ sunoo _ chanda @ Sheikhswag1 Done One s / o",
+    "adversarial": "@ snuoo _ chhanda @ sheimkhswag1 dne One s / o",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_023",
+    "method": "AGNI-Strict",
+    "original": "Indian media pta nh kyu sirf political news hi kyu dikhati . Desh ki samasya kya weh bhi dikhaye .",
+    "adversarial": "Indian media pta nh kyu sirf political news hi kyu dikhati . mullk ki samasya kya weh bhi dikhaye .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_030",
+    "method": "DeepWordBug",
+    "original": "ab bolna mat kisine bola nahi tha https // t . co / LFGixoWPj8",
+    "adversarial": "ab bola mt kpsine bloa nohi tha https // t . co / LFGixoWPj8",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_037",
+    "method": "AdvCodeMix",
+    "original": "Kia Khyal hai Apka ? https // t co / Vjg5YQ4S5z",
+    "adversarial": "kika Khyal hai awpka ? htytps // t co / vjgyq4s5z",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_009",
+    "method": "AGNI-Full",
+    "original": "@ SwetaSinghAT Dii aapki soch sach m great h true jornlism",
+    "adversarial": "@ SwetaSinghAT Dii aapi soch sach m great h true jornlism",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_006",
+    "method": "Random",
+    "original": "@ nadeemiba You're lying .. no one is on Pvt your all are on sarkari kharcha",
+    "adversarial": "@ nadeemiba yqou're lying .. no ode is on Pvt your all are on sakari kharcyha",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_025",
+    "method": "AGNI-Strict",
+    "original": "@ PMOIndia Modi ji agar aap Hindustan ko badalna chahte ho aap education system ke bareme ek baar sochiye",
+    "adversarial": "@ PMOIndia Modi ji agar aap Hindustan ko badalna cahhte ho aap education system ke bareme ek baar sochiye",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_049",
+    "method": "AGNI-Full",
+    "original": "@ AmitShah Many many Congratulations Sir Apke margdarsh main ab desh aur tarakki karega mujhe pura bharosa hai .",
+    "adversarial": "@ AmitShah Many many coongratulations Sir Apke margdarsh main ab desh aur tarakki karegi mujhe prua bharosa hai .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_027",
+    "method": "Random",
+    "original": "@ salmanuniv @ BeingSalmanClub @ BeingSalmanKhan Follow Back Celeb Sir Bhaijaan Nhi Diye Ap Hi Kar Do Na",
+    "adversarial": "@ salmanuniv @ beingsalrmanclub @ beoingsalmankhan folelow beck Celeb svr bhaaijaan Nhi Diye Ap Hi Kar Do Na",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_031",
+    "method": "TextFooler",
+    "original": "@ VikasThakur42 @ Meme _ Bnane _ Wala Not funny . gif",
+    "adversarial": "@ VikasThakur42 @ rant _ Bnane _ Wala without funny . iff",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_013",
+    "method": "DeepWordBug",
+    "original": "@ ZeeNewsHindi @ AmitShah Amit shah ko BJP ka president hi rhna chahiye agr party ko 2024 jitana h to",
+    "adversarial": "@ ZeeNewsHindi @ AmitShah Amit shph ko bp ka prssident hi rhna chahiye aer party ko 224 jitana h to",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_010",
+    "method": "Random",
+    "original": "RT @ chanyeol _ pic i miss you so much https // t . co / GDhwvIUujR",
+    "adversarial": "RT @ chnyeol _ pic i miss yuo so muchh htts // t . co / gdhwvizujr",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_036",
+    "method": "AGNI-Full",
+    "original": "@ arjunrammeghwal à¤¬à¤¹à¥à¤¤ à¤¬à¤¹à¥à¤¤ à¤¬à¤§à¤¾à¤ˆ à¤†à¤ªà¤¨à¥‡à¥¤ We Bikaner people are so proud of you All the best",
+    "adversarial": "@ arjunnrammeghwal à¤à¬¤¹à¥à¤¤ à¤¬àà¤¹à¥à¤¤ à¤à¬¤§à¤¾à¤ˆ à¤†à¤ªà¤¨à¥‡à¥¤ We biikaner log arre so proud of you All the bets",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_011",
+    "method": "AdvCodeMix",
+    "original": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all special lol",
+    "adversarial": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all psecial lol",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_035",
+    "method": "DeepWordBug",
+    "original": "Friend - bhai # JCB aayi hai chalega khudai dekhne ?? Me _ https // t co / QRM4gmRz5L",
+    "adversarial": "Friend - bhri # jb aayi hai cahlega khudai edkhne ?? Me _ https // t co / qfm4gmrz5l",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_043",
+    "method": "AGNI-Strict",
+    "original": "Jab mohale m # JCB khudai krne aayi ho # jcbkikhudayi https // t co / Ga8VkPwYGo",
+    "adversarial": "djaab mohale m # JCB khudai krne aayi ho # jcbkikhudayi https // t co / Ga8VkPwYGo",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_016",
+    "method": "Random",
+    "original": "@ Swamy39 Account hack to nahi hoga hai kanhi ??",
+    "adversarial": "@ Swamy39 Account hack to nahi hgoa hai kanhi ??",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_008",
+    "method": "AGNI-Full",
+    "original": "RT @ Mallam __ Shehu The love we have for prophet Muhammad SAW â¤ï¸â¤ï¸â¤ï¸ https // t co / aQhwr6wESi",
+    "adversarial": "RT @ Mallam __ Shehu The loove we have for prophet Muhammad SAW â¤ï¸â¤ï¸â¤ï¸ https // t co / aQhwr6wESi",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_040",
+    "method": "TextFooler",
+    "original": "Adarniye bhaisab ko bahut bahut subhkamnaye badhai .. https // t . co / RCxgdT9i0A",
+    "adversarial": "Adarniye bhaisab alto bahut bahut subhkamnaye badhai .. https // shitloads . cos / RCxgdT9i0A",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_000",
+    "method": "AGNI-Full",
+    "original": "# ECDalal Ko Joota Maro Sunil arora Kutta ka pilla hai https // t co / CrjuunANQu",
+    "adversarial": "# ECDalal Ko jota mro Sunil arora ktta ka pila hae https // t co / CrjuunANQu",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_015",
+    "method": "TextFooler",
+    "original": "@ RashkEHina10 @ peaceforchange Soch rha hai yeh bakwas karne waly gandu aese nai sudrengy",
+    "adversarial": "@ RashkEHina10 @ peaceforchange Soch rha hav poi bakwas karne waly gandu aese nai sudrengy",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_006",
+    "method": "DeepWordBug",
+    "original": "@ tpaliwal860 @ IPSinghSp Laptops batane wala toti chor Tum chaku bato chilamwas",
+    "adversarial": "@ tpaliwal860 @ IPSinghSp Laptops batane wala toti cohr tpm chaku bato cihlamwas",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_028",
+    "method": "DeepWordBug",
+    "original": "@ Sanjay _ Dixit Yeh log kabhi nahi sudharenge # Evangelists https // t . co / ytwWTHsuiY",
+    "adversarial": "@ Sanjay _ Dixit Yeh log kabhi nahi sudarenge # Evangelists https // t . co / ytwWTHsuiY",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_014",
+    "method": "AGNI-Full",
+    "original": "@ ZarlashtFaisal @ laltaintabahde cant do vet before tomorrow morning abhi kon ho ga in islamabad ?",
+    "adversarial": "@ ZarlashtFaisal @ laltaintabahde cant do vte before toorrow moorning abhi kon ho ga in islamabad ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_034",
+    "method": "AGNI-Strict",
+    "original": "@ Tanvi _ binani @ Rammi @ shivaniijaganii That's really helpful ! Thank you so much .",
+    "adversarial": "@ Tanvi _ binani @ Rammi @ shivaniijaganii That's satya helpful ! Thank you so much .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_006",
+    "method": "AGNI-Strict",
+    "original": "@ PinkvillaTelly sala kamina media delete this tweet . uski ex already deny kar chuki hai .",
+    "adversarial": "@ PinkvillaTelly sala kamina media delete this tweet . uski ex already deny kar chuki haay .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_037",
+    "method": "TextFooler",
+    "original": "@ JustinTrudeau Very nice sir waheguru ji ( God ) may bless you sir",
+    "adversarial": "@ JustinTrudeau muy nice sir waheguru ji ( chrissake ) may greet peux commander",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_018",
+    "method": "AGNI-Full",
+    "original": "@ aliyahabib5 Kuty wali har lgti mujhe tou zalalat better hoti kuch",
+    "adversarial": "@ aliyahabib5 ktuy wali har lgti mujhe tou zalalat better hoti kuch",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_038",
+    "method": "AGNI-Full",
+    "original": "Friend - bhai # JCB aayi hai chalega khudai dekhne ?? Me _ https // t co / QRM4gmRz5L",
+    "adversarial": "Friend - bhai # jccb aaayi hai chalega khudai dekhne ?? Me _ https // t co / qrm4ggmrz5l",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_007",
+    "method": "TextFooler",
+    "original": "@ sivgami _ devi @ vinod _ on _ hiatus @ shandar _ charu Hi all !",
+    "adversarial": "@ sivgami _ devi @ vinod _ sur _ recess @ shandar _ manish Hi all !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_041",
+    "method": "AdvCodeMix",
+    "original": "@ narendramodi Heartly congratulations sir We all Bhartiya are with you",
+    "adversarial": "@ narendramodi Heartly congratulations sir We aall bartiya are wih oyu",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_018",
+    "method": "Random",
+    "original": "@ rssurjewala @ INCIndia Jab palley sattu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+    "adversarial": "@ rssurjewala @ INCIndia Jab palley sattu hi nahi party k to media channels pr jakr kroge bsi kaya ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_026",
+    "method": "Random",
+    "original": "RT @ sanjaymanjrekar Cricketing equivalent of BJP win is India beating Papu New Guinea .",
+    "adversarial": "RT @ sanjaymanjrekar cricketyng euivalent of BJP wiun is India bfating ppu New Guinea .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_031",
+    "method": "Random",
+    "original": "@ pcsarangi @ Ramlal @ BJP4India @ KirenRijiju @ BJP4Odisha Badhai ji",
+    "adversarial": "@ pscarangi @ ramllal @ bgjp4india @ kiernrijiju @ BJP4Odisha Badhai ji",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_013",
+    "method": "AdvCodeMix",
+    "original": "Bajrangi Bhaijaan | Official Trailer | Salman Khan # IncredibleBBTrailer https // t co / Xs2RSnnzMt",
+    "adversarial": "bxjrangi Bhaijaan | Official Trailer | Salman Khan # IncredibleBBTrailer https // t co / Xs2RSnnzMt",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_040",
+    "method": "AGNI-Strict",
+    "original": "@ asadowaisi Bhaijaan He is praying to Iblees with one eye closed Symbol of Dajjal",
+    "adversarial": "@ asadowaisi Bhaijaan He is praying toou Iblees with one eye closed Symbol of Dajjal",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_005",
+    "method": "Random",
+    "original": "@ jigneshmevani80 @ dgpgujarat @ AhmedabadPolice Fasi do saale ko",
+    "adversarial": "@ jigneshmevani80 @ dgpgujarat @ ahmeadbadpolice Fasi do saale ko",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_043",
+    "method": "AdvCodeMix",
+    "original": "@ priyankac19 @ narendramodi Thank you Priyanka ji feeling good ....",
+    "adversarial": "@ priyankac19 @ narndramodi Thank you Priyanka ji feeilng gtod ..a..",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_049",
+    "method": "DeepWordBug",
+    "original": "@ RJAadhi Yesterday only i saw mariyan ... Dhanush is best actor in the town ...",
+    "adversarial": "@ RJAadhi Yesterday only i saw mariyan ... Dhanush is bet actor in the town ...",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_034",
+    "method": "Random",
+    "original": "@ AmitShah Many many Congratulations Sir Apke margdarsh main ab desh aur tarakki karega mujhe pura bharosa hai .",
+    "adversarial": "@ AmitShah mjany mlny Congratulations Sir Apke margdarsh main ab dsh akur tarakki kargea mujhe pura bkarosa hci .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_038",
+    "method": "TextFooler",
+    "original": "Friend - bhai # JCB aayi hai chalega khudai dekhne ?? Me _ https // t co / QRM4gmRz5L",
+    "adversarial": "chum - gobind # JCB aayi zee chalega khudai dekhne ?? li _ https // j lieut / QRM4gmRz5L",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_020",
+    "method": "TextFooler",
+    "original": "@ Pushpen70254301 Ager tum really girl ho to mujhe is tweet ko explain kerne ki jarurt nahi hai",
+    "adversarial": "@ Pushpen70254301 Ager tum awfully girl ho to mujhe is tweet gao explain kerne ki jarurt nahi hai",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_031",
+    "method": "AGNI-Strict",
+    "original": "# ECDalal Ko Joota Maro Sunil arora Kutta ka pilla hai https // t co / CrjuunANQu",
+    "adversarial": "# ECDalal Ko Joota Maro Sunil arora Kutta ka pilla है https // t co / CrjuunANQu",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_030",
+    "method": "AGNI-Strict",
+    "original": "@ AmitShah Many many Congratulations Sir Apke margdarsh main ab desh aur tarakki karega mujhe pura bharosa hai .",
+    "adversarial": "@ AmitShah Many many Congratulations Sir Apke margdarsh main ab mullk or tarakki kaarega mujhe pura bharosa hai .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_034",
+    "method": "DeepWordBug",
+    "original": "Assalam O Alaikumm Subah Bakhair # Islamabad ! Have a great day ahead ! ) # Islamabad # Pakistan",
+    "adversarial": "Assalam O alikumm suabh Bakhair # isamabad ! Have a ggeat day ahad ! ) # imlamabad # pfkistan",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_040",
+    "method": "AGNI-Full",
+    "original": "Adarniye bhaisab ko bahut bahut subhkamnaye badhai .. https // t . co / RCxgdT9i0A",
+    "adversarial": "aarniye bhaiisab ko kaafi atyant subhhkamnaye bahai .. https // t . co / RCxgdT9i0A",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_017",
+    "method": "TextFooler",
+    "original": "RT @ iammjosiie Y â€™ all niggas really be missing y â€™ all blessings seriously",
+    "adversarial": "RT @ iammjosiie Y â€™ all niggas really be missing y â€™ all sanctified seriously",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_015",
+    "method": "AGNI-Full",
+    "original": "@ pcsarangi @ Ramlal @ BJP4India @ KirenRijiju @ BJP4Odisha Badhai ji",
+    "adversarial": "@ pcsarangi @ Ramlal @ BJP4India @ KirenRijiju @ BJP4Odisha bdhai ji",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_026",
+    "method": "TextFooler",
+    "original": "RT @ cursedbrunette _ MICHELLE LOOKS SO HAPPY THIS IS SO CUTE https // t . co / QA8HLomOPD",
+    "adversarial": "RT @ cursedbrunette _ MICHELLE LOOKS therefore jubilant THIS IS SO CUTE https // t . co / QA8HLomOPD",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_039",
+    "method": "TextFooler",
+    "original": "RT @ Kashmirology Aaj yaad toh bohat aarahi hogi hamari ? https // t . co / t47etbG9mU",
+    "adversarial": "rr @ Kashmirology Aaj yaad wut bohat aarahi hogi hamari ? https // k . capitan / t47etbG9mU",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_041",
+    "method": "AGNI-Strict",
+    "original": "@ JustinTrudeau Very nice sir waheguru ji ( God ) may bless you sir",
+    "adversarial": "@ JustinTrudeau kaafi nice sir waheguru ji ( God ) may bless you sir",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_029",
+    "method": "Random",
+    "original": "@ 55mmbae It â€™ s okkk !!!! Hehe I â€™ ll just send them the pdf",
+    "adversarial": "@ 55mmbae It â€™ s okkk !!!x! Hehe I â€™ ll just sebd tnem the pnf",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_008",
+    "method": "AGNI-Strict",
+    "original": "What A treat to watch this man Love bhai bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+    "adversarial": "kya A treat toh watch this man pyaar via bhohat ziyada # Bharat https // t . co / v1gglbIQTs",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_008",
+    "method": "AdvCodeMix",
+    "original": "@ rssurjewala Rahul bhaiya is best leader for Nagar Nigam",
+    "adversarial": "@ rssurjewala Rahul bhaiya is bast leader for Nagar Nigam",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_032",
+    "method": "TextFooler",
+    "original": "Kia Khyal hai Apka ? https // t co / Vjg5YQ4S5z",
+    "adversarial": "honda Khyal hai Apka ? https // tonnes co / Vjg5YQ4S5z",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_004",
+    "method": "TextFooler",
+    "original": "RT @ sanjaymanjrekar Cricketing equivalent of BJP win is India beating Papu New Guinea .",
+    "adversarial": "RT @ sanjaymanjrekar Cricketing equivalent of BJP win is India beating Papu New djibouti .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_028",
+    "method": "Random",
+    "original": "@ tanha7860 apny dekhny ka muqa hi nahi diya medium g",
+    "adversarial": "@ tanh7860 aply dikhny ka muqa hi nhi diya medium g",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_044",
+    "method": "AGNI-Full",
+    "original": "@ sabizak Mubarak . uff I still remember him as the chotu Talha .",
+    "adversarial": "@ sabzak Mubarak . uffff I stil rememmber him as the chotu Talha .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_017",
+    "method": "AGNI-Strict",
+    "original": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no change people love Modi !",
+    "adversarial": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no change people mohabbat Modi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_034",
+    "method": "AdvCodeMix",
+    "original": "@ sunoo _ chanda @ Sheikhswag1 Done One s / o",
+    "adversarial": "@ suooo _ chnada @ sfeikhswag1 dome One s / o",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_048",
+    "method": "AGNI-Strict",
+    "original": "@ SirPareshRawal @ spek _ abt _ bharat Sir ji i m coping it to post in Facebook",
+    "adversarial": "@ SirPareshRawal @ spek _ abt _ bharat Sir ji i m coping it toe post in Facebook",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_047",
+    "method": "AGNI-Full",
+    "original": "@ Prince _ adi1 Listen to # Duniyaa from # LukaChuppi . I guess you'll love it ..!",
+    "adversarial": "@ Prince _ adi1 Listen to # Duniyaa from # LukaChuppi . I guess you'll lve it ..!",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_024",
+    "method": "AGNI-Strict",
+    "original": "@ VinitaTiwari9 Oh age ho gyi hogi ache log hamesha hmare sath rehte hain â¤ï¸ don't be sad",
+    "adversarial": "@ VinitaTiwari9 Oh age ho gyi hogi ache log hamesha hmare sath rehte hain â¤ï¸ don't be dukhi",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_048",
+    "method": "AdvCodeMix",
+    "original": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... awesome girl",
+    "adversarial": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... awksome girl",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_022",
+    "method": "AdvCodeMix",
+    "original": "@ NajdaDar Jazak Allah khuran ... Same to you and your family inshallha ....",
+    "adversarial": "@ NajdaDar Jazak alah khuran ... Same to you and your family inshallha ....",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_017",
+    "method": "Random",
+    "original": "@ SwetaSinghAT Agle 5sal Jhoot Dange Lynching Fasad Berozgari Kisan sucide Fake ancounter World tour Aur bhi bht kuch",
+    "adversarial": "@ sweatsinghat Agle 5oal jhfot Dange Lynching Fasad Berozgari Kisan sucide fakye anocunter World tour Aur bchi bht kuch",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_028",
+    "method": "AGNI-Full",
+    "original": "India 108/7 Ajinkya Rahane is in England playing for @ hants _ cricket . # INDvNZ # JustSaying",
+    "adversarial": "inia 1087/ Ajinkya Rahane is in England plaing fro @ hants _ crickket . # INDvNZ # JustSaying",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_037",
+    "method": "AGNI-Full",
+    "original": "@ tearxrm Heheh I kept screenshooting it until I got him in it",
+    "adversarial": "@ tearxxrm Heheh I kept screenshooting it unitl I got him in it",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_011",
+    "method": "AGNI-Full",
+    "original": "@ Femi _ Sorry You can't argue with a cabbage",
+    "adversarial": "@ Femi _ Sorry You ca't argue wiht a cabbage",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_002",
+    "method": "AGNI-Full",
+    "original": "@ narendramodi @ nitin _ gadkari May lord bliss u and good future health long life for lightning india",
+    "adversarial": "@ narrendramodi @ nitin _ gadkari May lord blss u and good futue health log lie for lightning india",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_003",
+    "method": "Random",
+    "original": "@ JaneBHEKSS @ HEE _ KSS Have a great time I â€™ ll be joining next week !",
+    "adversarial": "@ janbehekss @ HEE _ kiss haev a greta tige I â€™ ll be joining next week !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_049",
+    "method": "AdvCodeMix",
+    "original": "MC Baba Kerala me Pakistan Ke nare lagwati hai Congress kyu dikhaye midiya https // t . co / HH787C4UNU",
+    "adversarial": "MC Baba Kerala me Pakistan Ke nre lagwati hai Congress kyu didhaye miiya https // t . co / HH787C4UNU",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_032",
+    "method": "DeepWordBug",
+    "original": "@ sunoo _ chanda @ Sheikhswag1 Done One s / o",
+    "adversarial": "@ snoo _ chnada @ sceikhswag1 doen One s / o",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_010",
+    "method": "AGNI-Strict",
+    "original": "@ WarriorAdnan Hafiz hayat k darbaar pr . All I ask for is good food one last time ...",
+    "adversarial": "@ WarriorAdnan Hafiz hayat k darbaar pr . All I ask for is achha food one last time ...",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_027",
+    "method": "TextFooler",
+    "original": "@ NajdaDar Jazak Allah khuran ... Same to you and your family inshallha ....",
+    "adversarial": "@ NajdaDar Jazak islam khuran ... Same to you and your family inshallha ....",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_003",
+    "method": "AdvCodeMix",
+    "original": "@ Shugal _ wala 3rd k bad ap ne school chor diyaa tha -_-",
+    "adversarial": "@ Shugal _ wala 3rd k bjd ap ne school chor diyaa tha -_-",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_004",
+    "method": "DeepWordBug",
+    "original": "@ TarekFatah What â€™ s wrong with that ? Good work Sarfaraz ! Par jeetega toh India hi !",
+    "adversarial": "@ TarekFatah What â€™ s wrong with that ? glod work Sarfaraz ! Par jeetega toh India hi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_014",
+    "method": "DeepWordBug",
+    "original": "@ bewakoof @ urbanclap Be sidhe bolde na @ urbanclap se looto itna ghuma kyu raha hai chutiye .",
+    "adversarial": "@ bywakoof @ urbanclap Be sidhe bolde na @ urbanclap se looto itna guhma kyu raha hai chtiye .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_002",
+    "method": "AGNI-Strict",
+    "original": "Bharat is giving me the Bajrangi bhaijaan Vibes probably the firat Sallu movie in waiting for",
+    "adversarial": "Bharat is giving me the Bajrangi bhaijaan Vibes probably the firat Sallu moive in waiting for",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_043",
+    "method": "DeepWordBug",
+    "original": "@ AmitShah Many many Congratulations Sir Apke margdarsh main ab desh aur tarakki karega mujhe pura bharosa hai .",
+    "adversarial": "@ AmitShah Many many cognratulations Sir Apke margdarsh main ab desh aur tarakki ktrega mujhe prua bharosa hai .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_008",
+    "method": "TextFooler",
+    "original": "@ FutbolML @ TheRonnieWay @ DonAbelCorp Freedom nahi wo pareshaan hai",
+    "adversarial": "@ FutbolML @ TheRonnieWay @ DonAbelCorp Freedom nahi want pareshaan hai",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_006",
+    "method": "TextFooler",
+    "original": "Such hazam nhi ho rha thato kbhi hazam krna to tha https // t co / Fc0S7o8Fad",
+    "adversarial": "Such hazam nhi prostitute rha thato kbhi hazam krna d tha https // k comandante / Fc0S7o8Fad",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_024",
+    "method": "AGNI-Full",
+    "original": "Bajrangi Bhaijaan | Official Trailer | Salman Khan # IncredibleBBTrailer https // t co / Xs2RSnnzMt",
+    "adversarial": "baajrangi bhaijaaan | Official Trailer | Salman Khan # IncredibleBBTrailer https // t co / Xs2RSnnzMt",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_024",
+    "method": "Random",
+    "original": "RT @ DHEERAJ48968067 @ nirahua1 @ msunilbishnoi Wah bhai Shandaar jabab",
+    "adversarial": "RT @ DHEERAJ48968067 @ nirahua1 @ msunilbishnoi Wah bhia Shandaar jabab",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_001",
+    "method": "AGNI-Full",
+    "original": "@ kamlesh _ paryani @ ArvindKejriwal @ narendramodi Modi ji an a great person",
+    "adversarial": "@ kamlesh _ paryani @ ArvindKejriwal @ narendramodi Modi ji an a gret person",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_000",
+    "method": "TextFooler",
+    "original": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no change people love Modi !",
+    "adversarial": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no amended people love Modi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_042",
+    "method": "DeepWordBug",
+    "original": "@ MediaCellPPP @ BBhuttoZardari Pehlay apne corrupt baap ke production order ki fiqar ker . Billo sahiba",
+    "adversarial": "@ MediaCellPPP @ BBhuttoZardari Pehlay apne cmrrupt buap ke production order ki fiqar ker . Billo sahiba",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_009",
+    "method": "AdvCodeMix",
+    "original": "@ sabizak Mubarak . uff I still remember him as the chotu Talha .",
+    "adversarial": "@ snbizak Mubarak . uff I still remember him as the chotu Talha .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_026",
+    "method": "AGNI-Strict",
+    "original": "Wah Deshvasio wah ! I love my india âœŒï¸ https // t . co / b7CGU9WUyz",
+    "adversarial": "vah Deshvasio wah ! I ishq my india âœŒï¸ https // t . co / b7CGU9WUyz",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_035",
+    "method": "AGNI-Full",
+    "original": "@ 55mmbae It â€™ s okkk !!!! Hehe I â€™ ll just send them the pdf",
+    "adversarial": "@ 55mmbae It â™€ s okkk !!!! Hehe I â™€ ll jst send theem the pfd",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_009",
+    "method": "Random",
+    "original": "@ AjaySha68633632 @ sherryontopp Wo bhi nai lega ab is flop piddu GIRTA ( GIRGIT + KUTTA ) ko",
+    "adversarial": "@ AjaySha68633632 @ sherryontopp Wo bhi nai lga ab is fdop pdidu gitra ( girit + KUTTA ) ko",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_033",
+    "method": "AGNI-Full",
+    "original": "@ Tanvi _ binani @ Rammi @ shivaniijaganii That's really helpful ! Thank you so much .",
+    "adversarial": "@ Tanvi _ binani @ rami @ shivanniijaganii That's satya helpful ! Thank you so muhc .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_002",
+    "method": "DeepWordBug",
+    "original": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... awesome girl",
+    "adversarial": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... awseome girl",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_007",
+    "method": "AdvCodeMix",
+    "original": "@ ZeeNewsHindi @ AmitShah Amit shah ko BJP ka president hi rhna chahiye agr party ko 2024 jitana h to",
+    "adversarial": "@ ZeeNewsHindi @ AmitShah Amit shah ko bpj ka rpesident hi rhna chahiye axr party ko 20c4 jitana h to",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_045",
+    "method": "DeepWordBug",
+    "original": "PM shri narander modi ji ko 2 bara PM banaya jana par sube das washio ko bhot bhot dhanyawad",
+    "adversarial": "PM shri narander modi ji ko 2 bara PM banaya jana par sue ads washio ko bot bhot dhanyawad",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_027",
+    "method": "DeepWordBug",
+    "original": "@ Prince _ adi1 Listen to # Duniyaa from # LukaChuppi . I guess you'll love it ..!",
+    "adversarial": "@ Prince _ adi1 Listen to # Duniyaa from # LukaChuppi . I guess you'll loxe it ..!",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_023",
+    "method": "AGNI-Full",
+    "original": "@ farinamanzoorh1 Yar jahan religion ki baat ho wahan paisay nahi dekhay jatay",
+    "adversarial": "@ farinamanzoorh1 Yar jhan religion ki baaath ho wahan paisay nahi dekhay jatay",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_025",
+    "method": "TextFooler",
+    "original": "Kudos guys well deserved win # uclfinal Mawulorm Salah Mane Keli Tasha Deladem Kludze Desmond Kumeko Paschal Anfield Kale",
+    "adversarial": "Kudos guys well deserved obtaining # uclfinal Mawulorm Salah Mane Keli Tasha Deladem Kludze Desmond Kumeko Paschal Anfield Kale",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_008",
+    "method": "DeepWordBug",
+    "original": "@ imtiaz _ zg @ sappers06 Ye apko hansny ki zrorat nhi wese",
+    "adversarial": "@ imtiaz _ zg @ sappers06 Ye apko halsny ki zrorat nhi wese",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_045",
+    "method": "TextFooler",
+    "original": "@ taimoorze Yai chutia drama band kray aur match pr focus kray",
+    "adversarial": "@ taimoorze bangkok chutia drama band bracey aur match mme focus nitti",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_022",
+    "method": "TextFooler",
+    "original": "@ Rammi Yes ! Sounds fantastic ! I love CxG . What time ?",
+    "adversarial": "@ Rammi Yes ! noise sumptuous ! I iove CxG . What time ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_043",
+    "method": "AGNI-Full",
+    "original": "@ mminggukie yes yes omg hiii please dm me through @ erkbri )) â™¡",
+    "adversarial": "@ mmiinggukie yes yes ogm hiii please dm me though @ erbri )) â¡™",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_048",
+    "method": "AGNI-Full",
+    "original": "@ mssirsa @ MamataOfficial tum b to dalit aur musalmaano ko marwa rahe ho",
+    "adversarial": "@ mssirsa @ MamataOfficial tmu b to dalt aur musalmaanno ko mrwa rahe ho",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_035",
+    "method": "AGNI-Strict",
+    "original": "@ No __ Ray @user Anaix8 q ki ye aachi ni lag rahi",
+    "adversarial": "@ No __ Ray @user Anaix8 q ki ye aachi ni lag rhai",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_030",
+    "method": "AdvCodeMix",
+    "original": "@ arjunrammeghwal à¤¬à¤¹à¥à¤¤ à¤¬à¤¹à¥à¤¤ à¤¬à¤§à¤¾à¤ˆ à¤†à¤ªà¤¨à¥‡à¥¤ We Bikaner people are so proud of you All the best",
+    "adversarial": "@ afrjunrammeghwal àd¬à¤¹à¥à¤¤ à¤g¬à¤¹à¥à¤¤ à¤¬à¤§à¤¾à¤ˆ à¤†à¤ªà¤¨à¥‡à¥¤ We bianer pepole aqe so proud of you All the best",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_022",
+    "method": "AGNI-Strict",
+    "original": "@ rssurjewala @ INCIndia Jab palley sattu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+    "adversarial": "@ rssurjewala @ INCIndia djaab palley sattu hi nahi party k to media channels pr jakr kroge bi kya ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_009",
+    "method": "AGNI-Strict",
+    "original": "@ kamlesh _ paryani @ ArvindKejriwal @ narendramodi Modi ji an a great person",
+    "adversarial": "@ kamlesh _ paryani @ ArvindKejriwal @ narendramodi Modi ji an a shandar log",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_018",
+    "method": "TextFooler",
+    "original": "@ jarariya91 Ha kyuki BSP ne MP vidhansabha me aapko tkt nhi diya tha @ sardanarohit",
+    "adversarial": "@ jarariya91 Ha kyuki BSP ai MP vidhansabha me aapko tkt nhi tere tha @ sardanarohit",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_031",
+    "method": "DeepWordBug",
+    "original": "@ mminggukie yes yes omg hiii please dm me through @ erkbri )) â™¡",
+    "adversarial": "@ mimnggukie yes yes og hiii please dm me thmough @ rekbri )) â¡",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_015",
+    "method": "DeepWordBug",
+    "original": "@ RiteshY66802750 Bc ye dj mixer kiya hai ? Jhaato ki chaumin me harpic mix karte ho ?",
+    "adversarial": "@ RiteshY66802750 Bc ye dj mixer kya hai ? Jhaato ki chaumin me harpic mix kare ho ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_045",
+    "method": "Random",
+    "original": "@ farinamanzoorh1 Yar jahan religion ki baat ho wahan paisay nahi dekhay jatay",
+    "adversarial": "@ farinamanzoorh1 yfr jasan religion ki baat ho wahan paisay naih dekhy jaty",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_022",
+    "method": "AGNI-Full",
+    "original": "@ Ajaysharma12349 @ KuttiParul Galt to hain .. aside chodna chahiye the ISS chut ki lundon se nafart honi chahiye",
+    "adversarial": "@ Ajaysharma12349 @ kuttipaarul Galt to hain .. aside chodna chahiye the ISS cut ki lunon se nafart honi chahiye",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_012",
+    "method": "TextFooler",
+    "original": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... awesome girl",
+    "adversarial": "@ nailainayat Maja a jata apke tweet pdhne me i simply suspense for ur tweets . ... gorgeous girl",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_032",
+    "method": "AGNI-Strict",
+    "original": "@ jarariya91 Ha kyuki BSP ne MP vidhansabha me aapko tkt nhi diya tha @ sardanarohit",
+    "adversarial": "@ jarariya91 Ha kyuki BSP ne MP vidhansabha me aapko tkt nhi diya thha @ sardanarohit",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_018",
+    "method": "AGNI-Strict",
+    "original": "@ Pushpen70254301 Ager tum really girl ho to mujhe is tweet ko explain kerne ki jarurt nahi hai",
+    "adversarial": "@ Pushpen70254301 Ager tum sach girl ho to mudjhe is tweet ko explain kerne ki jarurt nahi hai",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_044",
+    "method": "AdvCodeMix",
+    "original": "@ ShatruganSinha Sir ji janta is asking you one question .... Why no tweet till now",
+    "adversarial": "@ shvatrugansinha Sir ji jagnta is atking you noe qeustion .... Why no tweet tqll now",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_033",
+    "method": "TextFooler",
+    "original": "@ BhimArmyChief We are Proud of You Dear CHANDER SHEKHAR ( garibo ke masiha ) bless for every success .",
+    "adversarial": "@ BhimArmyChief there exists welcome of vous Dear CHANDER satish ( garibo ke masiha ) thankyou to aii success .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_023",
+    "method": "DeepWordBug",
+    "original": "@ VikasThakur42 @ Meme _ Bnane _ Wala Not funny . gif",
+    "adversarial": "@ VikasThakur42 @ mome _ nbane _ awla ont funny . gif",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_019",
+    "method": "AGNI-Strict",
+    "original": "@ harishjoshi1983 @ DrKumarVishwas @ AmitShah Sorry agr aapk heart hua bs mai @ ShatruganSinha ko bolna chah rh tha",
+    "adversarial": "@ harishjoshi1983 @ DrKumarVishwas @ AmitShah sorrry agr aapk heart huua bs mia @ ShatruganSinha ko bolna chah rh tha",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_033",
+    "method": "DeepWordBug",
+    "original": "@ tearxrm Heheh I kept screenshooting it until I got him in it",
+    "adversarial": "@ tqarxrm hheeh I kept sireenshooting it unitl I gto him in it",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_045",
+    "method": "AGNI-Full",
+    "original": "@ jigneshmevani80 @ dgpgujarat @ AhmedabadPolice Fasi do saale ko",
+    "adversarial": "@ jigneshmevani80 @ dgpgujarat @ AhmedabadPolice Fasi do saae ko",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_011",
+    "method": "DeepWordBug",
+    "original": "@ Vineetbhargava9 Are koi ni @ ImranKhanPTI apne yaha se terrorist to bhej hi sakte hi",
+    "adversarial": "@ Vineetbhargava9 Are koi ni @ ImranKhanPTI apne yaha se trrorist to bhej hi sakte hi",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_007",
+    "method": "Random",
+    "original": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all special lol",
+    "adversarial": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all spceial ldl",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_017",
+    "method": "DeepWordBug",
+    "original": "@ zainabsikander Islamic law apne p * me leke pakistan ya afganistan dffa ho jao tum sare haram ki aulad",
+    "adversarial": "@ zainabsikander isamic law apme p * me leke pakistan ya afxanistan dlfa ho jao tgm sae hram ki aulad",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_042",
+    "method": "AGNI-Strict",
+    "original": "World cup start ho gaya hai ap PTV pe humein nazar ayen gen game on hai mein ?? @ DrNaumanNiaz",
+    "adversarial": "World cup start ho gaay hei ap PTV pe humein nazar ayen gen game on hai maain ?? @ DrNaumanNiaz",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_010",
+    "method": "DeepWordBug",
+    "original": "@ RaviBis84769034 @ ashutosh83B is a chutiya dikho aandha bhakt kon",
+    "adversarial": "@ RaviBis84769034 @ ashutosh83B is a cputiya dkho aandha bhakt kon",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_000",
+    "method": "AdvCodeMix",
+    "original": "@ vikasbha So typical .... Bhakths and godi media ka fake videos se Dil bharta hi nahi .",
+    "adversarial": "@ vikasbha So typical .... Bhakths and godi media ka fake videos se Dil bharta hi nthi .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_025",
+    "method": "DeepWordBug",
+    "original": "@ rssurjewala kahan ho be khujliwala .... sorry to say that but I m very angry with congress .",
+    "adversarial": "@ rssurjewala kahan ho be khujliwala .... sorry to say that but I m very amgry with congress .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_013",
+    "method": "Random",
+    "original": "@user Mansoor _ Ali Got this msg from baji maryam",
+    "adversarial": "@user Mansoor _ ail Got tihis mog from baij maryam",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_015",
+    "method": "AdvCodeMix",
+    "original": "@ GappistanRadio Bhai hard luck for you today . All the best for next season",
+    "adversarial": "@ GappistanRadio Bhai hard luck for yowu today . All the bcst for next season",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_037",
+    "method": "AGNI-Strict",
+    "original": "@ Rammi Yes ! Sounds fantastic ! I love CxG . What time ?",
+    "adversarial": "@ Rammi Yes ! Sounds fantastic ! I mohabbat CxG . What time ?",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_029",
+    "method": "DeepWordBug",
+    "original": "RT @ iammjosiie Y â€™ all niggas really be missing y â€™ all blessings seriously",
+    "adversarial": "RT @ iammjosiie Y â€™ all niggas really be missing y â€™ all blesings seriously",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_001",
+    "method": "Random",
+    "original": "@ RJAadhi Yesterday only i saw mariyan ... Dhanush is best actor in the town ...",
+    "adversarial": "@ rjaadni Yesterday only i saw maraiyan ... Dhanush is best atcor in txe town .h.",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_014",
+    "method": "AdvCodeMix",
+    "original": "@ PMOIndia Modi ji agar aap Hindustan ko badalna chahte ho aap education system ke bareme ek baar sochiye",
+    "adversarial": "@ PMOIndia Modi ji agar aap Hindustan ko badalna cahhte ho aap education system ke bareme ek baar sochiye",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_030",
+    "method": "Random",
+    "original": "@ ShatruganSinha Sir ji janta is asking you one question .... Why no tweet till now",
+    "adversarial": "@ ShatruganSinha sri ji jankta is askng you oen question ..f.. wiy no tweet till now",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_040",
+    "method": "Random",
+    "original": "@ imtiaz _ zg @ sappers06 Ye apko hansny ki zrorat nhi wese",
+    "adversarial": "@ imtiauz _ zg @ spapers06 Ye apko hansny ki zroxat nih wees",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_038",
+    "method": "AGNI-Strict",
+    "original": "@ PrimeSiIva you â€™ re the only one babes x",
+    "adversarial": "@ PrimeSiIva you â€™ re the sirf one babes x",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_048",
+    "method": "TextFooler",
+    "original": "PM shri narander modi ji ko 2 bara PM banaya jana par sube das washio ko bhot bhot dhanyawad",
+    "adversarial": "tonight shri narander modi huan ko 2 bara PM banaya jana par sube jetzt washio ko bhot bhot dhanyawad",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_047",
+    "method": "Random",
+    "original": "@ ncbn Tere pass ab dusro ko congrats krne ke alawa kuch bacha v nhi .... Chale the PM bane",
+    "adversarial": "@ nfbn tewre paas ab dusqo ko congrtas krbe ke alawa kuch bacha v nhui .... Chale thae PM bane",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_030",
+    "method": "AGNI-Full",
+    "original": "@ narendramodi Heartly congratulations sir We all Bhartiya are with you",
+    "adversarial": "@ narendramodi heatly coongratulations sir We alll bharrtiya are wih yoou",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_003",
+    "method": "TextFooler",
+    "original": "# ECDalal Ko Joota Maro Sunil arora Kutta ka pilla hai https // t co / CrjuunANQu",
+    "adversarial": "# ECDalal kou Joota beda Sunil arora Kutta na pilla ocean https // t co / CrjuunANQu",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_033",
+    "method": "AdvCodeMix",
+    "original": "@ tearxrm Heheh I kept screenshooting it until I got him in it",
+    "adversarial": "@ tkearxrm hheheh I koept sjreenshooting it uotil I got him in it",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_026",
+    "method": "AGNI-Full",
+    "original": "@ JustinTrudeau Very nice sir waheguru ji ( God ) may bless you sir",
+    "adversarial": "@ JustinTrudeau Very nice sir waheguru ji ( God ) may blss you sir",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_012",
+    "method": "AGNI-Strict",
+    "original": "@ Varun _ dvn @ ufc Kalank grossing 50cr didn't expect that but bad film nonetheless",
+    "adversarial": "@ Varun _ dvn @ ufc Kalank grossing 50cr didn't expect that but bura film nonetheless",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_010",
+    "method": "TextFooler",
+    "original": "@ NotBeerus @ IlhanMN Love it ! Where can I get one ?",
+    "adversarial": "@ NotBeerus @ IlhanMN iove it ! Where can I get one ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_036",
+    "method": "Random",
+    "original": "@ mssirsa @ MamataOfficial tum b to dalit aur musalmaano ko marwa rahe ho",
+    "adversarial": "@ mssira @ MamataOfficial tmu b to dilit ahr musalaano ko marwa rahe ho",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_019",
+    "method": "AGNI-Full",
+    "original": "@ mlkhattar great cm of haryana @ manoharlkbjp hm apke sath h or rahege",
+    "adversarial": "@ mlkhattar great cm of haryana @ manoharlkbjp hm ape satth h or rahege",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_000",
+    "method": "AGNI-Strict",
+    "original": "@ rssurjewala kahan ho be khujliwala .... sorry to say that but I m very angry with congress .",
+    "adversarial": "@ rssurjewala kahan ho be khujliwala .... sorry to say that but I m very gusse with congress .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_001",
+    "method": "DeepWordBug",
+    "original": "@ Ajaysharma12349 @ KuttiParul Galt to hain .. aside chodna chahiye the ISS chut ki lundon se nafart honi chahiye",
+    "adversarial": "@ Ajaysharma12349 @ kuetiparul Galt to hain .. aside cohdna chahiye the ISS hcut ki lunon se anfart honi chahiye",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_046",
+    "method": "AGNI-Strict",
+    "original": "@ 55mmbae It â€™ s okkk !!!! Hehe I â€™ ll just send them the pdf",
+    "adversarial": "@ 55mmbae It â€™ s okkk !!!! Hehe I â€™ ll bas send them the pdf",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_047",
+    "method": "DeepWordBug",
+    "original": "1. nickname anna banana hannah montana pp ( don â€™ t ask kfnajdn ) anita",
+    "adversarial": "1. nikcname anna banana hannah montana pp ( djn ât™ t ask kfajdn ) antia",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_024",
+    "method": "TextFooler",
+    "original": "@ ncbn Tere pass ab dusro ko congrats krne ke alawa kuch bacha v nhi .... Chale the PM bane",
+    "adversarial": "@ ncbn Tere pass ab dusro ko congrats krne aku alawa kuch bacha v nhi .... Chale the PM bane",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_033",
+    "method": "Random",
+    "original": "@ Lundamental @ Dipak6478 @ KING _ OF _ TROLL _ Unblock karke gali de chutiye ko tau",
+    "adversarial": "@ lundamnetal @ Dipak6478 @ kinsg _ OF _ trolll _ Unblock karuke gail de chutkiye ko tua",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_048",
+    "method": "DeepWordBug",
+    "original": "@ VinitaTiwari9 Oh age ho gyi hogi ache log hamesha hmare sath rehte hain â¤ï¸ don't be sad",
+    "adversarial": "@ VinitaTiwari9 Oh age ho gyi hogi ache log hamesha hmare sath rehte hain â¤ï¸ don't be spd",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_027",
+    "method": "AGNI-Full",
+    "original": "@ TarekFatah What â€™ s wrong with that ? Good work Sarfaraz ! Par jeetega toh India hi !",
+    "adversarial": "@ TarekFatah What â€™ s wrong with that ? badhiya work Sarfaraz ! Par jeetega toh India hi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_029",
+    "method": "AGNI-Strict",
+    "original": "@ the _ wisegirl @ PiyaliBhadra5 Kyu .. Mai Teri kuch nahi lagti https // t . co / RwWVXmlkTl",
+    "adversarial": "@ the _ wisegirl @ PiyaliBhadra5 Kyu .. Mai Teri kuch nahhi lagti https // t . co / RwWVXmlkTl",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_035",
+    "method": "AdvCodeMix",
+    "original": "1. nickname anna banana hannah montana pp ( don â€™ t ask kfnajdn ) anita",
+    "adversarial": "1. njckname anna banna hannah montana pp ( djon âi€™ t ask kfajdn ) antia",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_036",
+    "method": "TextFooler",
+    "original": "@ Lundamental @ Dipak6478 @ KING _ OF _ TROLL _ Unblock karke gali de chutiye ko tau",
+    "adversarial": "@ Lundamental @ Dipak6478 @ emperor _ chez _ knucklehead _ emancipation karke gali to chutiye ako omicron",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_028",
+    "method": "TextFooler",
+    "original": "@ sunoo _ chanda @ Sheikhswag1 Done One s / o",
+    "adversarial": "@ sunoo _ chanda @ Sheikhswag1 accomplished One n / or",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_005",
+    "method": "TextFooler",
+    "original": "@ Varun _ dvn @ ufc Kalank grossing 50cr didn't expect that but bad film nonetheless",
+    "adversarial": "@ Varun _ dvn @ ufc Kalank grossing 50cr didn't expect that but wicked film nonetheless",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_046",
+    "method": "Random",
+    "original": "RT @ Awwmeer @ yrrrr _ amna @ fatima _ says _ Happy Birthday gurl",
+    "adversarial": "RT @ awwmeber @ yrrr _ amnda @ fatima _ safs _ Happy bitrhday gurjl",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_044",
+    "method": "AGNI-Strict",
+    "original": "@ SwetaSinghAT Dii aapki soch sach m great h true jornlism",
+    "adversarial": "@ SwetaSinghAT Dii aapki soch sah m shandar h true jornlism",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_015",
+    "method": "AGNI-Strict",
+    "original": "saalo ko goli nahi mar sakte kya ... bencho ... https // t . co / pSaCh4KqXe",
+    "adversarial": "saalo ko goli nahi mar sakte kai ... bencho ... https // t . co / pSaCh4KqXe",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_029",
+    "method": "TextFooler",
+    "original": "Congress ke useless spokesperson to jobless ho jaayenge if Congress decides to boycott media for longer period",
+    "adversarial": "Congress ke superfluous spokesperson to jobless ho jaayenge if Congress decides to boycott media for longer period",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_047",
+    "method": "AdvCodeMix",
+    "original": "@ Kiranja34522516 @ INCIndia Kyuki SP-BSP ne @ RahulGandhi ko diya nahi . . . . . Samarthan",
+    "adversarial": "@ kianja34522516 @ incndia Kyuki SP-BSP ne @ RahulGandhi ko dqiya nchi . . . . . Samarthan",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_005",
+    "method": "AGNI-Strict",
+    "original": "@ Prince _ adi1 Listen to # Duniyaa from # LukaChuppi . I guess you'll love it ..!",
+    "adversarial": "@ Prince _ adi1 Listen to # Duniyaa from # LukaChuppi . I guess you'll mohabbat it ..!",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_043",
+    "method": "Random",
+    "original": "@ SunsetScribbler Hahahah ! Nice joke ! I understand every bit of mentality you have . Keep loving .",
+    "adversarial": "@ sunsetcsribbler Hahahah ! nmice jokze ! I undesrtand every bit of mentlity ytou have . Keep lovieng .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_029",
+    "method": "AGNI-Full",
+    "original": "@ sharifbhilaigm1 @ Anirudd77602157 @ AbbaTere @ bauaa30 @ Raghuva68687316 @ BhootSantosh Teri biwi ka bhosra",
+    "adversarial": "@ sharifbhilaigm1 @ Anirudd77602157 @ AbbaTere @ bauaa30 @ Raghuva68687316 @ BhootSantosh tri biwi ka bhosra",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_001",
+    "method": "AdvCodeMix",
+    "original": "@ RaviBis84769034 @ ashutosh83B is a chutiya dikho aandha bhakt kon",
+    "adversarial": "@ RaviBis84769034 @ ashutosh83B is a cdhutiya diko aandha bhakt kon",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_021",
+    "method": "DeepWordBug",
+    "original": "@ official433 @ meganm _ 8 @ tejbir08 harao bc tottenham ko",
+    "adversarial": "@ official433 @ meganm _ 8 @ tejbir08 hanao bc toktenham ko",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_042",
+    "method": "Random",
+    "original": "@ stary _ fir @ farhan _ saeed great performance I like drama serial Suno Chanda",
+    "adversarial": "@ stary _ fsr @ farhvn _ saeed great performince I like draya serial sjuno cmhanda",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_011",
+    "method": "AGNI-Strict",
+    "original": "@ The __ Hunterr Vaise asli id bana hunter fake id bana ke apani ma ko badnam kyu karta hai",
+    "adversarial": "@ The __ Hunterr Vaise asli id bana hunter fake id bana ke apani ma ko badnam kyu kaarta hya",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_042",
+    "method": "AdvCodeMix",
+    "original": "@ zainabsikander Islamic law apne p * me leke pakistan ya afganistan dffa ho jao tum sare haram ki aulad",
+    "adversarial": "@ zanabsikander isamic law apen p * me leke pakistan ya afanistan dfaa ho jao tfum sure haam ki aulad",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_041",
+    "method": "Random",
+    "original": "RT @ iammjosiie Y â€™ all niggas really be missing y â€™ all blessings seriously",
+    "adversarial": "RT @ iammjosdie Y âc€™ aol niggas rally be missing y â€™ altl blessings seriouly",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_005",
+    "method": "AGNI-Full",
+    "original": "@ FoneGyaan Hate them ! Yahaan ka khate aur terrorism ki gaate hain Don't agree one bit !",
+    "adversarial": "@ FoneGyaan Hate them ! Yahaan ka kahte aur terrrorism ki gaate hain Don't agree one bit !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_001",
+    "method": "AGNI-Strict",
+    "original": "@ TarekFatah What â€™ s wrong with that ? Good work Sarfaraz ! Par jeetega toh India hi !",
+    "adversarial": "@ TarekFatah What â€™ s wrong with that ? badhiya work Sarfaraz ! Par jeetega toh India hi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_013",
+    "method": "AGNI-Strict",
+    "original": "@ farinamanzoorh1 Yar jahan religion ki baat ho wahan paisay nahi dekhay jatay",
+    "adversarial": "@ farinamanzoorh1 Yar jahan religion ki baaath ho wahan paisay nahi dekhay jatay",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_004",
+    "method": "AdvCodeMix",
+    "original": "# Askstar kya south Africa ke is playing 11 me tabarej shamshi ki jagah banati hain ...?",
+    "adversarial": "# Askstar kya south Africa ke is playing 11 me tabarej sahamshi ki jmagah banati hain ...?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_043",
+    "method": "TextFooler",
+    "original": "@ tearxrm Heheh I kept screenshooting it until I got him in it",
+    "adversarial": "@ tearxrm Heheh you kept screenshooting ti even am got him in ey",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_018",
+    "method": "AdvCodeMix",
+    "original": "@ jarariya91 Ha kyuki BSP ne MP vidhansabha me aapko tkt nhi diya tha @ sardanarohit",
+    "adversarial": "@ jarariya91 Ha ktuki BSP ne MP vidhansabha me aapko tkt nhi idya tqha @ sardanarohit",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_002",
+    "method": "Random",
+    "original": "@ GappistanRadio Bhai hard luck for you today . All the best for next season",
+    "adversarial": "@ gapistanradio Bhai hard lukc for you tpday . amll teh bemt for next season",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_012",
+    "method": "AdvCodeMix",
+    "original": "@ mssirsa @ MamataOfficial tum b to dalit aur musalmaano ko marwa rahe ho",
+    "adversarial": "@ mssirsa @ MamataOfficial tvum b to dalit aur msualmaano ko mkrwa rahe ho",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_017",
+    "method": "AGNI-Full",
+    "original": "Such hazam nhi ho rha thato kbhi hazam krna to tha https // t co / Fc0S7o8Fad",
+    "adversarial": "Such haazm nhhi ho rah thato kbhhi hazaam krna to tha https // t co / fc0s7o8ffad",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_016",
+    "method": "TextFooler",
+    "original": "@ RiteshY66802750 Bc ye dj mixer kiya hai ? Jhaato ki chaumin me harpic mix karte ho ?",
+    "adversarial": "@ RiteshY66802750 Bc ye dj mixer kiya hai ? Jhaato aur chaumin me harpic mix karte ho ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_007",
+    "method": "AGNI-Strict",
+    "original": "@ keshaboinasri Cleavage aur foreign accent rakhne se koi intellectual nahi Ho jata",
+    "adversarial": "@ keshaboinasri Cleavage aur foreign accent rakhne se koi intellectual nhai Ho jata",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_039",
+    "method": "AGNI-Strict",
+    "original": "@ priyankac19 @ narendramodi Thank you Priyanka ji feeling good ....",
+    "adversarial": "@ priyankac19 @ narendramodi Thank you Priyanka ji filling achha ....",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_013",
+    "method": "AGNI-Full",
+    "original": "@ salmanuniv @ BeingSalmanClub @ BeingSalmanKhan Follow Back Celeb Sir Bhaijaan Nhi Diye Ap Hi Kar Do Na",
+    "adversarial": "@ salmanuniv @ BeingSalmanClub @ BeingSalmanKhan folllow bakc Celeb Sir Bhaijaan Nhi Diye Ap Hi Kar Do Na",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_038",
+    "method": "DeepWordBug",
+    "original": "@ arjunrammeghwal à¤¬à¤¹à¥à¤¤ à¤¬à¤¹à¥à¤¤ à¤¬à¤§à¤¾à¤ˆ à¤†à¤ªà¤¨à¥‡à¥¤ We Bikaner people are so proud of you All the best",
+    "adversarial": "@ awjunrammeghwal àk¬à¤¹à¥à¤¤ à¤¬¤¹à¥à¤¤ à¤¬à¤§à¤¾à¤ˆ à¤†à¤ªà¤¨à¥‡à¥¤ We bivaner pepole aue so proud of you All the best",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_041",
+    "method": "TextFooler",
+    "original": "@ bewakoof @ urbanclap Be sidhe bolde na @ urbanclap se looto itna ghuma kyu raha hai chutiye .",
+    "adversarial": "@ bewakoof @ urbanclap exists sidhe bolde sobre @ urbanclap worden looto itna ghuma yun raha ocean chutiye .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_004",
+    "method": "AGNI-Full",
+    "original": "you love our look and aesthetic but you call make us archaic hmmmm ok",
+    "adversarial": "yuo love our look and aesthetic but you call make us archaic hmmmm ok",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_040",
+    "method": "AdvCodeMix",
+    "original": "@ VikasThakur42 @ Meme _ Bnane _ Wala Not funny . gif",
+    "adversarial": "@ VikasThakur42 @ mtme _ nbane _ waka ont funny . gif",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_020",
+    "method": "AGNI-Full",
+    "original": "@ balhara01 Agar saare opposition parties strictly ye rule bana le to media ko 1 month me akal aa jaayegi",
+    "adversarial": "@ balhara01 Agar saare opposition prties strictly ye rule bana le to media ko 1 month me akal aa jaayegi",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_014",
+    "method": "AGNI-Strict",
+    "original": "@ vikasbha So typical .... Bhakths and godi media ka fake videos se Dil bharta hi nahi .",
+    "adversarial": "@ vikasbha So typical .... Bhakths and godi media ka fake videos se Dil bharta hi ni .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_007",
+    "method": "DeepWordBug",
+    "original": "@ joespiel Jkjdghj miss you so so much love !!â¤ï¸â¤ï¸â¤ï¸ It â€™ s been inappropriately too long",
+    "adversarial": "@ joespiel Jkjdghj miss you so so much lzve !!â¤ï¸â¤ï¸â¤ï¸ It â€™ s been inappropriately too log",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_023",
+    "method": "AdvCodeMix",
+    "original": "@ franirista Daang sorry to hear that . Yea wish you best results !",
+    "adversarial": "@ franirista Daang sorry to hear that . Yea wish you beat results !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_042",
+    "method": "TextFooler",
+    "original": "@ Atheist _ Krishna Aaj to unki aatma ko definitely shanti mil gyi hogi . Great work Krishna Ji â¤ï¸",
+    "adversarial": "@ heathens _ prasad Aaj in unki aatma kao obviously gopal cent gyi hogi . super work Krishna Ji â¤ï¸",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_021",
+    "method": "AGNI-Strict",
+    "original": "@ Shugal _ wala 3rd k bad ap ne school chor diyaa tha -_-",
+    "adversarial": "@ Shugal _ wala 3rd k ghatiya ap ne school chor diyaa tha -_-",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_006",
+    "method": "AdvCodeMix",
+    "original": "@ PrimeSiIva you â€™ re the only one babes x",
+    "adversarial": "@ PrimeSiIva you â€™ re the oely one babes x",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_017",
+    "method": "AdvCodeMix",
+    "original": "RT @ Mallam __ Shehu The love we have for prophet Muhammad SAW â¤ï¸â¤ï¸â¤ï¸ https // t co / aQhwr6wESi",
+    "adversarial": "RT @ Mallam __ Shehu The loev we have for prophet Muhammad SAW â¤ï¸â¤ï¸â¤ï¸ https // t co / aQhwr6wESi",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_002",
+    "method": "AdvCodeMix",
+    "original": "@ keshaboinasri Cleavage aur foreign accent rakhne se koi intellectual nahi Ho jata",
+    "adversarial": "@ keshaboinasri Cleavage aur foreign accent rakhne se koi isntellectual nahi Ho jata",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_022",
+    "method": "Random",
+    "original": "Wah Deshvasio wah ! I love my india âœŒï¸ https // t . co / b7CGU9WUyz",
+    "adversarial": "Wah Deshvasio wah ! I lovce my india âœŒï¸ https // t . co / b7CGU9WUyz",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_016",
+    "method": "DeepWordBug",
+    "original": "@ mlkhattar great cm of haryana @ manoharlkbjp hm apke sath h or rahege",
+    "adversarial": "@ mlkhattar great cm of haryana @ manoharlkbjp hm pake asth h or rahege",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_004",
+    "method": "AGNI-Strict",
+    "original": "@ NotBeerus @ IlhanMN Love it ! Where can I get one ?",
+    "adversarial": "@ NotBeerus @ IlhanMN ishq it ! Where can I get one ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_033",
+    "method": "AGNI-Strict",
+    "original": "Wtf is wrong with Snapchat galti sey log out kardia meney )",
+    "adversarial": "wttf is wrong with Snapchat galti sey log out kardia meney )",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_047",
+    "method": "AGNI-Strict",
+    "original": "@ mlkhattar great cm of haryana @ manoharlkbjp hm apke sath h or rahege",
+    "adversarial": "@ mlkhattar shandar cm of haryana @ manoharlkbjp hm apke sath h or rahege",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_016",
+    "method": "AGNI-Strict",
+    "original": "RT @ choudharyHasee4 I love you Mian Sab . @ MaryamNSharif https // t . co / nDeGOwIBYn",
+    "adversarial": "RT @ choudharyHasee4 I ishq you Mian saab . @ MaryamNSharif https // t . co / nDeGOwIBYn",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_012",
+    "method": "AGNI-Full",
+    "original": "RT @ Asmaasiff Whoever reading this Allah apko tamam khushiyon se nawazay or apki sari pareshaniyan door krdy â¤",
+    "adversarial": "RT @ Asmaasiff Whoever reading this Allah apo tamam kushiyon se nawazay or api sari pareshaniyan door krdy â¤",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_046",
+    "method": "AGNI-Full",
+    "original": "Bharat is giving me the Bajrangi bhaijaan Vibes probably the firat Sallu movie in waiting for",
+    "adversarial": "Bharat is giving me the Bajrangi bhaijaan Vibes probably the firat slalu movie in waiting for",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_032",
+    "method": "AdvCodeMix",
+    "original": "Assalam O Alaikumm Subah Bakhair # Islamabad ! Have a great day ahead ! ) # Islamabad # Pakistan",
+    "adversarial": "Assalam O alakumm suabh Bakhair # isclamabad ! Have a rgeat day ahad ! ) # ihlamabad # pazistan",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_021",
+    "method": "Random",
+    "original": "@ Shugal _ wala 3rd k bad ap ne school chor diyaa tha -_-",
+    "adversarial": "@ Shugal _ wala 3rd k bad ap ne scvool chor dyiaa thxa -_-",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_034",
+    "method": "AGNI-Full",
+    "original": "@ sivgami _ devi @ vinod _ on _ hiatus @ shandar _ charu Hi all !",
+    "adversarial": "@ sivgami _ devi @ vinod _ on _ hiaus @ shandar _ charu Hi all !",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_029",
+    "method": "AdvCodeMix",
+    "original": "@ Sanjay _ Dixit Yeh log kabhi nahi sudharenge # Evangelists https // t . co / ytwWTHsuiY",
+    "adversarial": "@ Sanjay _ Dixit Yeh log kabhi nahi sudarenge # Evangelists https // t . co / ytwWTHsuiY",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_014",
+    "method": "TextFooler",
+    "original": "@ Swamy39 Account hack to nahi hoga hai kanhi ??",
+    "adversarial": "@ Swamy39 Account hack to nahi hoga detroit kanhi ??",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_021",
+    "method": "AGNI-Full",
+    "original": "@ No __ Ray @user Anaix8 q ki ye aachi ni lag rahi",
+    "adversarial": "@ No __ Ray @user Anaix8 q ki ye achi ni lag rhai",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_039",
+    "method": "Random",
+    "original": "@ jarariya91 Ha kyuki BSP ne MP vidhansabha me aapko tkt nhi diya tha @ sardanarohit",
+    "adversarial": "@ jarariya91 Ha kyuki bps ne MP vidhansaboa me aatpko tkt ndi dya tha @ sardanraohit",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_025",
+    "method": "AdvCodeMix",
+    "original": "@ MundaArjun many many congratulations sir .. best wishes from vikash kala kendra jamshedpur ( Jharkhand )",
+    "adversarial": "@ MundaArjun many many congratulations sir .. bets washes from vikash kqala kednra jamshedpur ( Jharkhand )",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_044",
+    "method": "DeepWordBug",
+    "original": "RT @ Asmaasiff Whoever reading this Allah apko tamam khushiyon se nawazay or apki sari pareshaniyan door krdy â¤",
+    "adversarial": "RT @ Asmaasiff Whoever reading this Allah apo tamam kushiyon se nawazay or api sari pareshaniyan door krdy â¤",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_001",
+    "method": "TextFooler",
+    "original": "@ OmerIbis _ @ Itani No he is just asking for a friend",
+    "adversarial": "@ OmerIbis _ @ Itani No he is just petition into here boyfriends",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_000",
+    "method": "DeepWordBug",
+    "original": "@ WarriorAdnan Hafiz hayat k darbaar pr . All I ask for is good food one last time ...",
+    "adversarial": "@ WarriorAdnan Hafiz hayat k darbaar pr . All I ask for is grod food one last time ...",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_032",
+    "method": "Random",
+    "original": "@ No __ Ray @user Anaix8 q ki ye aachi ni lag rahi",
+    "adversarial": "@ No __ riy @user anai8x q ki ye aafhi ni leag rhai",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_006",
+    "method": "AGNI-Full",
+    "original": "@ vikasbha So typical .... Bhakths and godi media ka fake videos se Dil bharta hi nahi .",
+    "adversarial": "@ vikasbha So typical .... Bhakths and godi media ka fake videos se Dil bharta hi ni .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_036",
+    "method": "DeepWordBug",
+    "original": "@ ShkhRasheed Muft ka umra .... public money wasted by these jokers",
+    "adversarial": "@ ShkhRasheed umft ka umra .... public omney wasted by tese jkoers",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_009",
+    "method": "TextFooler",
+    "original": "@ RJAadhi Yesterday only i saw mariyan ... Dhanush is best actor in the town ...",
+    "adversarial": "@ RJAadhi Yesterday only i saw mariyan ... Dhanush is greater actor in the town ...",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_028",
+    "method": "AdvCodeMix",
+    "original": "RT @ Kashmirology Aaj yaad toh bohat aarahi hogi hamari ? https // t . co / t47etbG9mU",
+    "adversarial": "RT @ kwashmirology aja ayad tbh bohat aarahi hogi hamari ? thtps // t . co / t47etbG9mU",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_035",
+    "method": "Random",
+    "original": "@ TechnicalGuruji # Bologuruji Apka twitter account verify kyo nhi h",
+    "adversarial": "@ TechnicalGuruji # Bologuruji appa twitcter accunt verify kyo nxi h",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_019",
+    "method": "DeepWordBug",
+    "original": "@ sardesairajdeep @ AmitShah so the economy of a great country is now termed as Dhandha",
+    "adversarial": "@ sardesairajdeep @ AmitShah so the economy of a gret country is now termed as Dhandha",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_020",
+    "method": "AdvCodeMix",
+    "original": "@ farinamanzoorh1 Yar jahan religion ki baat ho wahan paisay nahi dekhay jatay",
+    "adversarial": "@ farinamanzoorh1 Yar jhan religion ki bjat ho wahan paisay nahi dekhay jatay",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_042",
+    "method": "AGNI-Full",
+    "original": "1. nickname anna banana hannah montana pp ( don â€™ t ask kfnajdn ) anita",
+    "adversarial": "1. nckname anna bannana hannah montana pp ( doon â™€ t ask kfajdn ) aita",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_035",
+    "method": "TextFooler",
+    "original": "@ pcsarangi @ Ramlal @ BJP4India @ KirenRijiju @ BJP4Odisha Badhai ji",
+    "adversarial": "@ pcsarangi @ Ramlal @ BJP4India @ KirenRijiju @ BJP4Odisha Badhai kam",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_003",
+    "method": "DeepWordBug",
+    "original": "@ franirista Daang sorry to hear that . Yea wish you best results !",
+    "adversarial": "@ franirista Daang sorry to hear that . Yea wish you bet results !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_004",
+    "method": "Random",
+    "original": "@ shoaib100mph Ab aap jesa kahan se dhund kar laayen .. love you Rawalpindi express ...",
+    "adversarial": "@ shoaib100mph Ab aap jesa khaan se dhund kar laayen .. lose you rawalpidi express ...",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_023",
+    "method": "TextFooler",
+    "original": "@ rssurjewala @ INCIndia Jab palley sattu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+    "adversarial": "@ rssurjewala @ INCIndia candid palley sattu hi nahi party k to media channels pr jakr kroge bhi kya ?",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_038",
+    "method": "AdvCodeMix",
+    "original": "@ Tanvi _ binani @ Rammi @ shivaniijaganii That's really helpful ! Thank you so much .",
+    "adversarial": "@ tani _ bqnani @ rami @ shianiijaganii That's retally helpful ! Thank you so muhc .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_036",
+    "method": "AGNI-Strict",
+    "original": "Adarniye bhaisab ko bahut bahut subhkamnaye badhai .. https // t . co / RCxgdT9i0A",
+    "adversarial": "Adarniye bhaisab ko nihayat bahut subhkamnaye badhai .. https // t . co / RCxgdT9i0A",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_049",
+    "method": "AGNI-Strict",
+    "original": "ab bolna mat kisine bola nahi tha https // t . co / LFGixoWPj8",
+    "adversarial": "ab boolna mat kisine bola naahin tha https // t . co / LFGixoWPj8",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_007",
+    "method": "AGNI-Full",
+    "original": "@ The __ Hunterr Vaise asli id bana hunter fake id bana ke apani ma ko badnam kyu karta hai",
+    "adversarial": "@ The __ Hunterr Vaise asli id bana hunter fae id bana ke apani ma ko badnam kyu kaarta hai",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_046",
+    "method": "AdvCodeMix",
+    "original": "@user Mansoor _ Ali Got this msg from baji maryam",
+    "adversarial": "@user Mansoor _ Ali Got tis msg rfom baji maryam",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_023",
+    "method": "Random",
+    "original": "@ mirrorCracking _ Kabhi toum youm soup pi kr dekna wo is se bhi ziada level ka hota hai .",
+    "adversarial": "@ mirrorCracking _ kabwhi tosm youm soup pi kr dekna wo is se bvhi ziada level ka hota hkai .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_039",
+    "method": "AdvCodeMix",
+    "original": "@ BhimArmyChief We are Proud of You Dear CHANDER SHEKHAR ( garibo ke masiha ) bless for every success .",
+    "adversarial": "@ bhiarmychief We anre prud of oyu Dear cmander sehkhar ( garibo ke masiha ) bless fmr evry success .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_010",
+    "method": "AdvCodeMix",
+    "original": "Saale ko pataa chal gayaa hogaa ki bachungaa nahi police ke Fande se https // t . co / ingyqE71NK",
+    "adversarial": "Saale ko pataa chal gayaa hogaa ki banhungaa nahi police ke Fande se https // t . co / ingyqE71NK",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_049",
+    "method": "Random",
+    "original": "Assalam O Alaikumm Subah Bakhair # Islamabad ! Have a great day ahead ! ) # Islamabad # Pakistan",
+    "adversarial": "assajam O alazkumm Subah bkahair # Islamabad ! hane a great dya aheamd ! ) # Islamabad # pakistn",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_012",
+    "method": "DeepWordBug",
+    "original": "@ Lundamental @ Dipak6478 @ KING _ OF _ TROLL _ Unblock karke gali de chutiye ko tau",
+    "adversarial": "@ Lundamental @ Dipak6478 @ KING _ OF _ TROLL _ Unblock karke gali de czutiye ko tau",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_014",
+    "method": "Random",
+    "original": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no change people love Modi !",
+    "adversarial": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our bwashan 12/24/7 no change people lvoe Modi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_019",
+    "method": "AdvCodeMix",
+    "original": "@ asadowaisi Bhaijaan He is praying to Iblees with one eye closed Symbol of Dajjal",
+    "adversarial": "@ asadowaisi Bhaijaan He is praying to Iblees wioth one eye cosed Symbol of Dajjal",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_002",
+    "method": "TextFooler",
+    "original": "@ SirPareshRawal @ spek _ abt _ bharat Sir ji i m coping it to post in Facebook",
+    "adversarial": "@ SirPareshRawal @ spek _ abt _ bharat Sir ji i m coping it towards post in aol",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_030",
+    "method": "TextFooler",
+    "original": "@ RaviBis84769034 @ ashutosh83B is a chutiya dikho aandha bhakt kon",
+    "adversarial": "@ RaviBis84769034 @ ashutosh83B entails each chutiya dikho aandha bhakt satoshi",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_003",
+    "method": "AGNI-Full",
+    "original": "@ RaviBis84769034 @ ashutosh83B is a chutiya dikho aandha bhakt kon",
+    "adversarial": "@ RaviBis84769034 @ ashutosh83B is a chtiya dikhho aandha bhakt kon",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_044",
+    "method": "Random",
+    "original": "@ ZeeNewsHindi @ AmitShah Amit shah ko BJP ka president hi rhna chahiye agr party ko 2024 jitana h to",
+    "adversarial": "@ ZeeNewsHindi @ amtishah Amit shah ko bgp ka presyident hi rha chahaye agkr party ko 202l4 jitanra h to",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_044",
+    "method": "TextFooler",
+    "original": "@ ShatruganSinha Sir ji janta is asking you one question .... Why no tweet till now",
+    "adversarial": "@ ShatruganSinha Sir wook janta is ask you nobody questions .... Why no tweet since anymore",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_010",
+    "method": "AGNI-Full",
+    "original": "@user Mansoor _ Ali Got this msg from baji maryam",
+    "adversarial": "@user Mansoor _ Ali Got thhis msg fom baji maryam",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_049",
+    "method": "TextFooler",
+    "original": "@ rssurjewala kahan ho be khujliwala .... sorry to say that but I m very angry with congress .",
+    "adversarial": "@ rssurjewala kahan ho be khujliwala .... sorry to say that but I m very livid with congress .",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_015",
+    "method": "Random",
+    "original": "@ TarekFatah What â€™ s wrong with that ? Good work Sarfaraz ! Par jeetega toh India hi !",
+    "adversarial": "@ TarekFatah What â€™ s wrong with that ? Good wrok Sarfaraz ! Par jeetega toh India hi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_005",
+    "method": "DeepWordBug",
+    "original": "Wah Deshvasio wah ! I love my india âœŒï¸ https // t . co / b7CGU9WUyz",
+    "adversarial": "Wah Deshvasio wah ! I lve my india âœŒï¸ https // t . co / b7CGU9WUyz",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_031",
+    "method": "AGNI-Full",
+    "original": "@ jarariya91 Ha kyuki BSP ne MP vidhansabha me aapko tkt nhi diya tha @ sardanarohit",
+    "adversarial": "@ jarariya91 Ha kyyuki bssp ne MP viddhansabha me aapko tkt nhi dia ta @ sardanaroohit",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_027",
+    "method": "AdvCodeMix",
+    "original": "@ Femi _ Sorry You can't argue with a cabbage",
+    "adversarial": "@ Femi _ Sorry You cran't argue wpith a cabbage",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_038",
+    "method": "Random",
+    "original": "PM shri narander modi ji ko 2 bara PM banaya jana par sube das washio ko bhot bhot dhanyawad",
+    "adversarial": "PM sbhri narander midi ji ko 2 bara PM bvnaya jaan pajr sube dsa washio ko bhot bahot dhanyawad",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_TextFooler_019",
+    "method": "TextFooler",
+    "original": "Jab mohale m # JCB khudai krne aayi ho # jcbkikhudayi https // t co / Ga8VkPwYGo",
+    "adversarial": "jabs mohale m # JCB khudai krne aayi prostitute # jcbkikhudayi https // t co / Ga8VkPwYGo",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_008",
+    "method": "Random",
+    "original": "@ Vineetbhargava9 Are koi ni @ ImranKhanPTI apne yaha se terrorist to bhej hi sakte hi",
+    "adversarial": "@ vineetbhargaval9 Are koi ni @ ImranKhanPTI apne yaha se terrorsst to bhej hi sakte hi",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_012",
+    "method": "Random",
+    "original": "No Other Language Has A Word As Sweet As Jaan In Urdu . â¤ï¸",
+    "adversarial": "No olher Language Has A Word As siweet As Jaan In urud . â¤ï¸",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_032",
+    "method": "AGNI-Full",
+    "original": "Assalam O Alaikumm Subah Bakhair # Islamabad ! Have a great day ahead ! ) # Islamabad # Pakistan",
+    "adversarial": "Assalam O alaikummm suabh Bakhair # islaamabad ! Have a shandar dya ahad ! ) # isllamabad # pakisstan",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_009",
+    "method": "DeepWordBug",
+    "original": "RT @ flexmac2 MY SISTER JUST GRADUATED SUMO CUM LOAD GREAT JOB @ rae _ carra !!!",
+    "adversarial": "RT @ flexmac2 MY SISTER JUST GRADUATED SUMO CUM LOAD gerat JOB @ rae _ carra !!!",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_028",
+    "method": "AGNI-Strict",
+    "original": "@ ashoswai @ ndtv Yeh BC to MC bhi nikla",
+    "adversarial": "@ ashoswai @ ndtv Yeh BC to MC vi nikla",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_046",
+    "method": "TextFooler",
+    "original": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all special lol",
+    "adversarial": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all hoc lol",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_018",
+    "method": "DeepWordBug",
+    "original": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no change people love Modi !",
+    "adversarial": "RT @ shankerbhola @ sardesairajdeep It's always Band Baja Barat our Bhashan 12/24/7 no cvange people love Modi !",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_027",
+    "method": "AGNI-Strict",
+    "original": "@ sardesairajdeep @ AmitShah so the economy of a great country is now termed as Dhandha",
+    "adversarial": "@ sardesairajdeep @ AmitShah so the economy of a badhiya country is now termed as Dhandha",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Strict_020",
+    "method": "AGNI-Strict",
+    "original": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... awesome girl",
+    "adversarial": "@ nailainayat Maja a jata apke tweet pdhne me i just wait for ur tweets . ... shandar girl",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_041",
+    "method": "AGNI-Full",
+    "original": "Kia Khyal hai Apka ? https // t co / Vjg5YQ4S5z",
+    "adversarial": "kiia Khyal hai akpa ? httpps // t co / vjg5yyq4s5z",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_026",
+    "method": "AdvCodeMix",
+    "original": "@ tpaliwal860 @ IPSinghSp Laptops batane wala toti chor Tum chaku bato chilamwas",
+    "adversarial": "@ tpaliwal860 @ IPSinghSp Laptops batane wala toti cohr ttum chaku bato chylamwas",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_013",
+    "method": "TextFooler",
+    "original": "@ sardesairajdeep @ AmitShah so the economy of a great country is now termed as Dhandha",
+    "adversarial": "@ sardesairajdeep @ AmitShah so the economy the a wondrous country is now termed as Dhandha",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_TextFooler_021",
+    "method": "TextFooler",
+    "original": "@ nadeemiba You're lying .. no one is on Pvt your all are on sarkari kharcha",
+    "adversarial": "@ nadeemiba You're reside .. no one is on Pvt your all are on sarkari kharcha",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_039",
+    "method": "DeepWordBug",
+    "original": "@ Tanvi _ binani @ Rammi @ shivaniijaganii That's really helpful ! Thank you so much .",
+    "adversarial": "@ tani _ ibnani @ rami @ shianiijaganii That's erally helpful ! Thank you so muhc .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_020",
+    "method": "DeepWordBug",
+    "original": "@ PMOIndia Modi ji agar aap Hindustan ko badalna chahte ho aap education system ke bareme ek baar sochiye",
+    "adversarial": "@ PMOIndia Modi ji agar aap Hindustan ko badalna cahhte ho aap education system ke bareme ek baar sochiye",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_046",
+    "method": "DeepWordBug",
+    "original": "RT @ chanyeol _ pic i miss you so much https // t . co / GDhwvIUujR",
+    "adversarial": "RT @ chanyeol _ pic i miss you so mcuh https // t . co / GDhwvIUujR",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_AGNI-Full_039",
+    "method": "AGNI-Full",
+    "original": "RT @ Kashmirology Aaj yaad toh bohat aarahi hogi hamari ? https // t . co / t47etbG9mU",
+    "adversarial": "RT @ kashmirollogy Aaj yaad tho bohat aarahi hogi hamari ? httsp // t . co / t47etbG9mU",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_Random_025",
+    "method": "Random",
+    "original": "Modi ji aapke liye please pure India ko Aisa kariye https // t . co / Af3xPRn12v",
+    "adversarial": "moid ji aapke liye please pure India ko Aisa kariye https // t . co / Af3xPRn12v",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_040",
+    "method": "DeepWordBug",
+    "original": "@ 55mmbae It â€™ s okkk !!!! Hehe I â€™ ll just send them the pdf",
+    "adversarial": "@ 55mmbae It â™€ s okkk !u!! Hehe I â™ ll juht send htem the pcf",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_022",
+    "method": "DeepWordBug",
+    "original": "@ RashkEHina10 @ peaceforchange Soch rha hai yeh bakwas karne waly gandu aese nai sudrengy",
+    "adversarial": "@ RashkEHina10 @ peaceforchange Soch rha hai ynh abkwas karne waly gandu aese nai surdengy",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_Random_048",
+    "method": "Random",
+    "original": "@ tearxrm Heheh I kept screenshooting it until I got him in it",
+    "adversarial": "@ taerxrm Heheh I kkpt screenzshooting it until I gmot hmi in it",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_AdvCodeMix_016",
+    "method": "AdvCodeMix",
+    "original": "@ shoaib100mph Ab aap jesa kahan se dhund kar laayen .. love you Rawalpindi express ...",
+    "adversarial": "@ shoaib100mph Ab aap jesa kahan se dhund kar laayen .. loke you Rawalpindi express ...",
+    "successful": true
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_041",
+    "method": "DeepWordBug",
+    "original": "@ BhimArmyChief We are Proud of You Dear CHANDER SHEKHAR ( garibo ke masiha ) bless for every success .",
+    "adversarial": "@ bhiarmychief We ape prud of oyu Dear cander sehkhar ( garibo ke masiha ) bless far eiery success .",
+    "successful": false
+  },
+  {
+    "pair_id": "hinglish_DeepWordBug_026",
+    "method": "DeepWordBug",
+    "original": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all special lol",
+    "adversarial": "RT @ Swagg _ DatDude @ LaLa _ La _ Shay Y â€™ all psecial lol",
+    "successful": true
+  }
+]

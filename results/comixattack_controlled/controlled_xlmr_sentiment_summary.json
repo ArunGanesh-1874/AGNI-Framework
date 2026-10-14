@@ -1,0 +1,23 @@
+{
+  "experiment_id": "controlled_xlmr_sentiment",
+  "language_pair": "hi-en",
+  "task": "sentiment",
+  "victim_model": "xlmr",
+  "completed_at": "2026-09-28T14:35:34.322958",
+  "results": {
+    "total": 1000,
+    "successful": 843,
+    "failed": 157,
+    "asr": 0.843,
+    "avg_queries": 26.94,
+    "avg_time": 4.265,
+    "p1_used": 37,
+    "p2_used": 2716,
+    "p3_used": 26,
+    "p4_used": 38,
+    "p5_used": 10,
+    "p6_used": 52,
+    "p7_used": 14,
+    "pc_used": 168
+  }
+}

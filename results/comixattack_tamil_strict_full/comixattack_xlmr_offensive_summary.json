@@ -1,0 +1,23 @@
+{
+  "experiment_id": "comixattack_xlmr_offensive",
+  "language_pair": "ta-en",
+  "task": "offensive",
+  "victim_model": "xlmr",
+  "completed_at": "2026-06-19T02:10:49.084405",
+  "results": {
+    "total": 1000,
+    "successful": 647,
+    "failed": 353,
+    "asr": 0.647,
+    "avg_queries": 26.96,
+    "avg_time": 4.661,
+    "p1_used": 15,
+    "p2_used": 2947,
+    "p3_used": 0,
+    "p4_used": 39,
+    "p5_used": 1,
+    "p6_used": 26,
+    "p7_used": 1,
+    "pc_used": 80
+  }
+}

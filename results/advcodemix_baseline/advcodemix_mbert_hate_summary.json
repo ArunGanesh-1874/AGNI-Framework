@@ -1,0 +1,14 @@
+{
+  "experiment_id": "advcodemix_mbert_hate",
+  "task": "hate",
+  "victim_model": "mbert",
+  "completed_at": "2026-06-12T12:38:45.975123",
+  "results": {
+    "total": 337,
+    "successful": 284,
+    "failed": 53,
+    "asr": 0.8427,
+    "avg_queries": 49.82,
+    "avg_time": 4.917
+  }
+}
