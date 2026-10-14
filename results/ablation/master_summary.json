@@ -1,0 +1,54 @@
+[
+  {
+    "experiment_id": "agni_p2only_xlmr_sentiment",
+    "condition": "P2_only",
+    "active_types": [
+      "P2"
+    ],
+    "results": {
+      "total": 1000,
+      "successful": 887,
+      "asr": 0.887,
+      "avg_queries": 26.01
+    }
+  },
+  {
+    "experiment_id": "agni_nop2_xlmr_sentiment",
+    "condition": "No_P2",
+    "active_types": [
+      "P1",
+      "P3",
+      "P4",
+      "P5",
+      "P6",
+      "P7",
+      "PC"
+    ],
+    "results": {
+      "total": 1000,
+      "successful": 265,
+      "asr": 0.265,
+      "avg_queries": 12.76
+    }
+  },
+  {
+    "experiment_id": "agni_full_xlmr_sentiment",
+    "condition": "Full",
+    "active_types": [
+      "P1",
+      "P2",
+      "P3",
+      "P4",
+      "P5",
+      "P6",
+      "P7",
+      "PC"
+    ],
+    "results": {
+      "total": 1000,
+      "successful": 895,
+      "asr": 0.895,
+      "avg_queries": 29.52
+    }
+  }
+]

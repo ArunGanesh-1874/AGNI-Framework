@@ -1,0 +1,86 @@
+[
+  {
+    "experiment_id": "controlled_xlmr_sentiment",
+    "task": "sentiment",
+    "victim_model": "xlmr",
+    "budget": 0.4,
+    "threshold": 0.8,
+    "results": {
+      "total": 1000,
+      "successful": 843,
+      "failed": 157,
+      "asr": 0.843,
+      "avg_queries": 26.94
+    }
+  },
+  {
+    "experiment_id": "controlled_muril_sentiment",
+    "task": "sentiment",
+    "victim_model": "muril",
+    "budget": 0.4,
+    "threshold": 0.8,
+    "results": {
+      "total": 1000,
+      "successful": 836,
+      "failed": 164,
+      "asr": 0.836,
+      "avg_queries": 26.78
+    }
+  },
+  {
+    "experiment_id": "controlled_mbert_sentiment",
+    "task": "sentiment",
+    "victim_model": "mbert",
+    "budget": 0.4,
+    "threshold": 0.8,
+    "results": {
+      "total": 1000,
+      "successful": 862,
+      "failed": 138,
+      "asr": 0.862,
+      "avg_queries": 27.54
+    }
+  },
+  {
+    "experiment_id": "controlled_xlmr_hate",
+    "task": "hate",
+    "victim_model": "xlmr",
+    "budget": 0.4,
+    "threshold": 0.8,
+    "results": {
+      "total": 498,
+      "successful": 258,
+      "failed": 240,
+      "asr": 0.5181,
+      "avg_queries": 44.07
+    }
+  },
+  {
+    "experiment_id": "controlled_muril_hate",
+    "task": "hate",
+    "victim_model": "muril",
+    "budget": 0.4,
+    "threshold": 0.8,
+    "results": {
+      "total": 498,
+      "successful": 396,
+      "failed": 102,
+      "asr": 0.7952,
+      "avg_queries": 30.98
+    }
+  },
+  {
+    "experiment_id": "controlled_mbert_hate",
+    "task": "hate",
+    "victim_model": "mbert",
+    "budget": 0.4,
+    "threshold": 0.8,
+    "results": {
+      "total": 498,
+      "successful": 400,
+      "failed": 98,
+      "asr": 0.8032,
+      "avg_queries": 26.3
+    }
+  }
+]

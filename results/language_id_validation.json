@@ -1,0 +1,34 @@
+{
+  "hindi_tokens": {
+    "correct": 37,
+    "total": 46,
+    "precision": 0.804
+  },
+  "english_tokens": {
+    "correct": 31,
+    "total": 34,
+    "precision": 0.912
+  },
+  "overall": {
+    "correct": 68,
+    "total": 80,
+    "precision": 0.85
+  },
+  "hindi_errors": [
+    "bhen",
+    "gareb",
+    "garib",
+    "lagat",
+    "me",
+    "officer",
+    "vo",
+    "ye",
+    "yeh"
+  ],
+  "english_errors": [
+    "movie",
+    "the",
+    "time"
+  ],
+  "note": "Hindi errors are OOV tokens not in 426-entry lexicon. English errors are loanwords absorbed into Hinglish."
+}
