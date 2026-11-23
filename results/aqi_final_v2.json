@@ -1,0 +1,907 @@
+{
+  "qmax": 99.29,
+  "per_experiment": [
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Full",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.886,
+      "avgq": 32.08,
+      "sim": 0.9566,
+      "aqi": 0.573710083553228
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Full",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.878,
+      "avgq": 32.07,
+      "sim": 0.9589,
+      "aqi": 0.5699815945613859
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Full",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.899,
+      "avgq": 30.16,
+      "sim": 0.9553,
+      "aqi": 0.59794400454225
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Full",
+      "task": "hate",
+      "model": "xlmr",
+      "total": 339,
+      "asr": 0.5634,
+      "avgq": 55.58,
+      "sim": 0.8863,
+      "aqi": 0.21982287710947732
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Full",
+      "task": "hate",
+      "model": "muril",
+      "total": 325,
+      "asr": 0.52,
+      "avgq": 54.56,
+      "sim": 0.8937,
+      "aqi": 0.20935748333165477
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Full",
+      "task": "hate",
+      "model": "mbert",
+      "total": 337,
+      "asr": 0.8457,
+      "avgq": 31.31,
+      "sim": 0.9247,
+      "aqi": 0.535417840106758
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Strict",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.249,
+      "avgq": 13.78,
+      "sim": 0.9864,
+      "aqi": 0.21152602413133248
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Strict",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.266,
+      "avgq": 14.35,
+      "sim": 0.9848,
+      "aqi": 0.22409719601168293
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Strict",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.24,
+      "avgq": 13.6,
+      "sim": 0.9842,
+      "aqi": 0.2038539985899889
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Strict",
+      "task": "hate",
+      "model": "xlmr",
+      "total": 339,
+      "asr": 0.2035,
+      "avgq": 23.83,
+      "sim": 0.9638,
+      "aqi": 0.14906051785678318
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Strict",
+      "task": "hate",
+      "model": "muril",
+      "total": 266,
+      "asr": 0.3346,
+      "avgq": 17.33,
+      "sim": 0.9663,
+      "aqi": 0.26689126196797264
+    },
+    {
+      "lang": "hinglish",
+      "method": "AGNI-Strict",
+      "task": "hate",
+      "model": "mbert",
+      "total": 336,
+      "asr": 0.3958,
+      "avgq": 18.48,
+      "sim": 0.9658,
+      "aqi": 0.31111617230738237
+    },
+    {
+      "lang": "hinglish",
+      "method": "DeepWordBug",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.903,
+      "avgq": 47.89,
+      "sim": 0.9537,
+      "aqi": 0.44581752986202033
+    },
+    {
+      "lang": "hinglish",
+      "method": "DeepWordBug",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.891,
+      "avgq": 47.44,
+      "sim": 0.9565,
+      "aqi": 0.4450470518179072
+    },
+    {
+      "lang": "hinglish",
+      "method": "DeepWordBug",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.935,
+      "avgq": 44.58,
+      "sim": 0.9543,
+      "aqi": 0.49165191917615075
+    },
+    {
+      "lang": "hinglish",
+      "method": "DeepWordBug",
+      "task": "hate",
+      "model": "xlmr",
+      "total": 339,
+      "asr": 0.5398,
+      "avgq": 58.8,
+      "sim": 0.9024,
+      "aqi": 0.1986434424896767
+    },
+    {
+      "lang": "hinglish",
+      "method": "DeepWordBug",
+      "task": "hate",
+      "model": "muril",
+      "total": 325,
+      "asr": 0.4892,
+      "avgq": 59.02,
+      "sim": 0.9091,
+      "aqi": 0.18037411989525634
+    },
+    {
+      "lang": "hinglish",
+      "method": "DeepWordBug",
+      "task": "hate",
+      "model": "mbert",
+      "total": 337,
+      "asr": 0.8101,
+      "avgq": 42.1,
+      "sim": 0.9269,
+      "aqi": 0.43249998842884485
+    },
+    {
+      "lang": "hinglish",
+      "method": "TextFooler",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.916,
+      "avgq": 86.24,
+      "sim": 0.9473,
+      "aqi": 0.114048088830698
+    },
+    {
+      "lang": "hinglish",
+      "method": "TextFooler",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.915,
+      "avgq": 83.39,
+      "sim": 0.9545,
+      "aqi": 0.13985842733407194
+    },
+    {
+      "lang": "hinglish",
+      "method": "TextFooler",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.915,
+      "avgq": 80.04,
+      "sim": 0.9509,
+      "aqi": 0.16868682520898376
+    },
+    {
+      "lang": "hinglish",
+      "method": "TextFooler",
+      "task": "hate",
+      "model": "xlmr",
+      "total": 339,
+      "asr": 0.6903,
+      "avgq": 99.29,
+      "sim": 0.8882,
+      "aqi": 0.0
+    },
+    {
+      "lang": "hinglish",
+      "method": "TextFooler",
+      "task": "hate",
+      "model": "muril",
+      "total": 325,
+      "asr": 0.6154,
+      "avgq": 98.32,
+      "sim": 0.8975,
+      "aqi": 0.0053958289354417025
+    },
+    {
+      "lang": "hinglish",
+      "method": "TextFooler",
+      "task": "hate",
+      "model": "mbert",
+      "total": 337,
+      "asr": 0.8991,
+      "avgq": 66.35,
+      "sim": 0.9244,
+      "aqi": 0.27573126838150874
+    },
+    {
+      "lang": "hinglish",
+      "method": "Random",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.328,
+      "avgq": 16.99,
+      "sim": 0.9038,
+      "aqi": 0.24571999919427945
+    },
+    {
+      "lang": "hinglish",
+      "method": "Random",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.331,
+      "avgq": 16.58,
+      "sim": 0.9034,
+      "aqi": 0.2490924648403666
+    },
+    {
+      "lang": "hinglish",
+      "method": "Random",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.334,
+      "avgq": 16.85,
+      "sim": 0.901,
+      "aqi": 0.24986402417161854
+    },
+    {
+      "lang": "hinglish",
+      "method": "Random",
+      "task": "hate",
+      "model": "xlmr",
+      "total": 339,
+      "asr": 0.1268,
+      "avgq": 14.05,
+      "sim": 0.8912,
+      "aqi": 0.09701354213314532
+    },
+    {
+      "lang": "hinglish",
+      "method": "Random",
+      "task": "hate",
+      "model": "muril",
+      "total": 325,
+      "asr": 0.1538,
+      "avgq": 14.08,
+      "sim": 0.8912,
+      "aqi": 0.11762958583543157
+    },
+    {
+      "lang": "hinglish",
+      "method": "Random",
+      "task": "hate",
+      "model": "mbert",
+      "total": 337,
+      "asr": 0.2344,
+      "avgq": 13.25,
+      "sim": 0.8989,
+      "aqi": 0.18258448833115118
+    },
+    {
+      "lang": "hinglish",
+      "method": "AdvCodeMix",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.916,
+      "avgq": 55.81,
+      "sim": 0.9545,
+      "aqi": 0.38287360821835026
+    },
+    {
+      "lang": "hinglish",
+      "method": "AdvCodeMix",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.92,
+      "avgq": 53.6,
+      "sim": 0.96,
+      "aqi": 0.40641965958303955
+    },
+    {
+      "lang": "hinglish",
+      "method": "AdvCodeMix",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.943,
+      "avgq": 51.42,
+      "sim": 0.9561,
+      "aqi": 0.43468327224292475
+    },
+    {
+      "lang": "hinglish",
+      "method": "AdvCodeMix",
+      "task": "hate",
+      "model": "xlmr",
+      "total": 339,
+      "asr": 0.5664,
+      "avgq": 70.46,
+      "sim": 0.9036,
+      "aqi": 0.14860677130828892
+    },
+    {
+      "lang": "hinglish",
+      "method": "AdvCodeMix",
+      "task": "hate",
+      "model": "muril",
+      "total": 266,
+      "asr": 0.8759,
+      "avgq": 59.12,
+      "sim": 0.9258,
+      "aqi": 0.32807113704703394
+    },
+    {
+      "lang": "hinglish",
+      "method": "AdvCodeMix",
+      "task": "hate",
+      "model": "mbert",
+      "total": 337,
+      "asr": 0.8398,
+      "avgq": 48.18,
+      "sim": 0.9324,
+      "aqi": 0.40306817169100617
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Full",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.753,
+      "avgq": 24.86,
+      "sim": 0.8889,
+      "aqi": 0.5017534769966764
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Full",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.699,
+      "avgq": 26.11,
+      "sim": 0.8801,
+      "aqi": 0.4534152168597039
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Full",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.665,
+      "avgq": 27.08,
+      "sim": 0.8855,
+      "aqi": 0.428254608470138
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Full",
+      "task": "offensive",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.647,
+      "avgq": 26.96,
+      "sim": 0.8691,
+      "aqi": 0.4096255004632894
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Full",
+      "task": "offensive",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.66,
+      "avgq": 27.87,
+      "sim": 0.8617,
+      "aqi": 0.40908576130526747
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Full",
+      "task": "offensive",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.565,
+      "avgq": 29.65,
+      "sim": 0.8562,
+      "aqi": 0.33929458072313423
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Strict",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.277,
+      "avgq": 10.86,
+      "sim": 0.952,
+      "aqi": 0.23486096001611442
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Strict",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.201,
+      "avgq": 11.85,
+      "sim": 0.9494,
+      "aqi": 0.1680544136972505
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Strict",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.182,
+      "avgq": 11.04,
+      "sim": 0.9606,
+      "aqi": 0.15539003827172929
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Strict",
+      "task": "offensive",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.187,
+      "avgq": 10.17,
+      "sim": 0.9554,
+      "aqi": 0.1603601709739148
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Strict",
+      "task": "offensive",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.134,
+      "avgq": 10.5,
+      "sim": 0.9526,
+      "aqi": 0.11414947563702285
+    },
+    {
+      "lang": "tamil",
+      "method": "AGNI-Strict",
+      "task": "offensive",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.098,
+      "avgq": 11.17,
+      "sim": 0.9539,
+      "aqi": 0.0829655701883372
+    },
+    {
+      "lang": "tamil",
+      "method": "DeepWordBug",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.662,
+      "avgq": 29.22,
+      "sim": 0.9051,
+      "aqi": 0.42284496257427745
+    },
+    {
+      "lang": "tamil",
+      "method": "DeepWordBug",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.614,
+      "avgq": 29.47,
+      "sim": 0.9012,
+      "aqi": 0.3891023806627052
+    },
+    {
+      "lang": "tamil",
+      "method": "DeepWordBug",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.608,
+      "avgq": 30.65,
+      "sim": 0.9058,
+      "aqi": 0.3807217252089839
+    },
+    {
+      "lang": "tamil",
+      "method": "DeepWordBug",
+      "task": "offensive",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.55,
+      "avgq": 30.75,
+      "sim": 0.8984,
+      "aqi": 0.34109159834827274
+    },
+    {
+      "lang": "tamil",
+      "method": "DeepWordBug",
+      "task": "offensive",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.532,
+      "avgq": 30.72,
+      "sim": 0.8958,
+      "aqi": 0.3291177680733206
+    },
+    {
+      "lang": "tamil",
+      "method": "DeepWordBug",
+      "task": "offensive",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.461,
+      "avgq": 31.98,
+      "sim": 0.8896,
+      "aqi": 0.27801599290965856
+    },
+    {
+      "lang": "tamil",
+      "method": "TextFooler",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.515,
+      "avgq": 34.6,
+      "sim": 0.913,
+      "aqi": 0.30634418924362977
+    },
+    {
+      "lang": "tamil",
+      "method": "TextFooler",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.478,
+      "avgq": 36.63,
+      "sim": 0.9119,
+      "aqi": 0.2750806185114312
+    },
+    {
+      "lang": "tamil",
+      "method": "TextFooler",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.458,
+      "avgq": 36.45,
+      "sim": 0.9099,
+      "aqi": 0.2637483848121664
+    },
+    {
+      "lang": "tamil",
+      "method": "TextFooler",
+      "task": "offensive",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.469,
+      "avgq": 39.23,
+      "sim": 0.9088,
+      "aqi": 0.2578225967569745
+    },
+    {
+      "lang": "tamil",
+      "method": "TextFooler",
+      "task": "offensive",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.407,
+      "avgq": 41.12,
+      "sim": 0.9044,
+      "aqi": 0.21564953002316448
+    },
+    {
+      "lang": "tamil",
+      "method": "TextFooler",
+      "task": "offensive",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.338,
+      "avgq": 42.31,
+      "sim": 0.8987,
+      "aqi": 0.1743204651827979
+    },
+    {
+      "lang": "tamil",
+      "method": "Random",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.207,
+      "avgq": 6.3,
+      "sim": 0.9005,
+      "aqi": 0.1745761049954678
+    },
+    {
+      "lang": "tamil",
+      "method": "Random",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.174,
+      "avgq": 6.33,
+      "sim": 0.9011,
+      "aqi": 0.1467955337294793
+    },
+    {
+      "lang": "tamil",
+      "method": "Random",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.181,
+      "avgq": 6.54,
+      "sim": 0.9004,
+      "aqi": 0.1522377893040588
+    },
+    {
+      "lang": "tamil",
+      "method": "Random",
+      "task": "offensive",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.129,
+      "avgq": 6.61,
+      "sim": 0.8971,
+      "aqi": 0.10802171832007253
+    },
+    {
+      "lang": "tamil",
+      "method": "Random",
+      "task": "offensive",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.099,
+      "avgq": 6.42,
+      "sim": 0.8982,
+      "aqi": 0.08317219826770068
+    },
+    {
+      "lang": "tamil",
+      "method": "Random",
+      "task": "offensive",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.093,
+      "avgq": 6.71,
+      "sim": 0.897,
+      "aqi": 0.07778342411118945
+    },
+    {
+      "lang": "tamil",
+      "method": "AdvCodeMix",
+      "task": "sentiment",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.692,
+      "avgq": 34.15,
+      "sim": 0.9074,
+      "aqi": 0.4119524716688488
+    },
+    {
+      "lang": "tamil",
+      "method": "AdvCodeMix",
+      "task": "sentiment",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.639,
+      "avgq": 35.12,
+      "sim": 0.9042,
+      "aqi": 0.3734151117534495
+    },
+    {
+      "lang": "tamil",
+      "method": "AdvCodeMix",
+      "task": "sentiment",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.634,
+      "avgq": 36.6,
+      "sim": 0.9058,
+      "aqi": 0.36258875685366104
+    },
+    {
+      "lang": "tamil",
+      "method": "AdvCodeMix",
+      "task": "offensive",
+      "model": "xlmr",
+      "total": 1000,
+      "asr": 0.6,
+      "avgq": 36.08,
+      "sim": 0.902,
+      "aqi": 0.34453874509014004
+    },
+    {
+      "lang": "tamil",
+      "method": "AdvCodeMix",
+      "task": "offensive",
+      "model": "muril",
+      "total": 1000,
+      "asr": 0.57,
+      "avgq": 36.49,
+      "sim": 0.898,
+      "aqi": 0.32374668143821134
+    },
+    {
+      "lang": "tamil",
+      "method": "AdvCodeMix",
+      "task": "offensive",
+      "model": "mbert",
+      "total": 1000,
+      "asr": 0.513,
+      "avgq": 38.27,
+      "sim": 0.8905,
+      "aqi": 0.28074884711451303
+    }
+  ],
+  "summary": {
+    "AGNI-Full|hinglish": {
+      "asr": 0.7653500000000001,
+      "sim": 0.92925,
+      "avgq": 39.29333333333333,
+      "aqi_mean_of_experiments": 0.45103898053412567,
+      "aqi_from_averaged_components": 0.42974839941962945
+    },
+    "AGNI-Full|tamil": {
+      "asr": 0.6648333333333334,
+      "sim": 0.8735833333333334,
+      "avgq": 27.088333333333335,
+      "aqi_mean_of_experiments": 0.4235715241363682,
+      "aqi_from_averaged_components": 0.4223367151047904
+    },
+    "AGNI-Full|overall": {
+      "aqi_mean_of_experiments": 0.437305252335247,
+      "aqi_paper_convention": 0.4260425572622099
+    },
+    "AGNI-Strict|hinglish": {
+      "asr": 0.2814833333333333,
+      "sim": 0.9752166666666667,
+      "avgq": 16.895,
+      "aqi_mean_of_experiments": 0.22775752847752373,
+      "aqi_from_averaged_components": 0.22779760176843084
+    },
+    "AGNI-Strict|tamil": {
+      "asr": 0.17983333333333332,
+      "sim": 0.9539833333333334,
+      "avgq": 10.931666666666667,
+      "aqi_mean_of_experiments": 0.15263010479739483,
+      "aqi_from_averaged_components": 0.15266974715922865
+    },
+    "AGNI-Strict|overall": {
+      "aqi_mean_of_experiments": 0.19019381663745927,
+      "aqi_paper_convention": 0.19023367446382974
+    },
+    "DeepWordBug|hinglish": {
+      "asr": 0.7613500000000001,
+      "sim": 0.9338166666666666,
+      "avgq": 49.971666666666664,
+      "aqi_mean_of_experiments": 0.36567234194497605,
+      "aqi_from_averaged_components": 0.3531415784647805
+    },
+    "DeepWordBug|tamil": {
+      "asr": 0.5711666666666667,
+      "sim": 0.8993166666666667,
+      "avgq": 30.465,
+      "aqi_mean_of_experiments": 0.35681573796286975,
+      "aqi_from_averaged_components": 0.35605427579494975
+    },
+    "DeepWordBug|overall": {
+      "aqi_mean_of_experiments": 0.3612440399539229,
+      "aqi_paper_convention": 0.35459792712986515
+    },
+    "TextFooler|hinglish": {
+      "asr": 0.8251333333333334,
+      "sim": 0.9271333333333334,
+      "avgq": 85.605,
+      "aqi_mean_of_experiments": 0.11728673978178401,
+      "aqi_from_averaged_components": 0.10544005372433171
+    },
+    "TextFooler|tamil": {
+      "asr": 0.44416666666666665,
+      "sim": 0.9077833333333333,
+      "avgq": 38.39,
+      "aqi_mean_of_experiments": 0.24882763075502737,
+      "aqi_from_averaged_components": 0.24730901622352028
+    },
+    "TextFooler|overall": {
+      "aqi_mean_of_experiments": 0.1830571852684057,
+      "aqi_paper_convention": 0.176374534973926
+    },
+    "Random|hinglish": {
+      "asr": 0.25133333333333335,
+      "sim": 0.89825,
+      "avgq": 15.299999999999999,
+      "aqi_mean_of_experiments": 0.1903173507509988,
+      "aqi_from_averaged_components": 0.1909718642192903
+    },
+    "Random|tamil": {
+      "asr": 0.14716666666666667,
+      "sim": 0.89905,
+      "avgq": 6.484999999999999,
+      "aqi_mean_of_experiments": 0.12376446145466143,
+      "aqi_from_averaged_components": 0.12366851986730788
+    },
+    "Random|overall": {
+      "aqi_mean_of_experiments": 0.1570409061028301,
+      "aqi_paper_convention": 0.15732019204329908
+    },
+    "AdvCodeMix|hinglish": {
+      "asr": 0.8435166666666666,
+      "sim": 0.9387333333333333,
+      "avgq": 56.431666666666665,
+      "aqi_mean_of_experiments": 0.35062043668177395,
+      "aqi_from_averaged_components": 0.3417949762026127
+    },
+    "AdvCodeMix|tamil": {
+      "asr": 0.608,
+      "sim": 0.9013166666666668,
+      "avgq": 36.11833333333333,
+      "aqi_mean_of_experiments": 0.34949843565313726,
+      "aqi_from_averaged_components": 0.3486565316234152
+    },
+    "AdvCodeMix|overall": {
+      "aqi_mean_of_experiments": 0.3500594361674556,
+      "aqi_paper_convention": 0.3452257539130139
+    }
+  }
+}
