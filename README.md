@@ -90,7 +90,7 @@ Quick check without a GPU: `python code/build_tables.py --base . --sim results/l
 Human-evaluation agreement is near zero (Krippendorff's alpha), so the ratings are exploratory. Language-identification validation covers Hinglish only. The ablation covers one language, task and model.
 
 ## License
-[Add a license before release.]
+Paper under review
 
 ## Citation
-[Add citation after publication.]
+Paper under review
