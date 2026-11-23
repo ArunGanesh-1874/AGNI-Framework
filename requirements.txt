@@ -1,0 +1,15 @@
+# Package versions used for the paper were not recorded; versions below are minimum tested-compatible guesses.
+# Please pin exact versions (pip freeze) from the server environment before the final release.
+torch
+transformers
+sentence-transformers
+numpy
+pandas
+scikit-learn
+scipy
+jsonlines
+tqdm
+nltk
+matplotlib
+textattack
+indic-transliteration
